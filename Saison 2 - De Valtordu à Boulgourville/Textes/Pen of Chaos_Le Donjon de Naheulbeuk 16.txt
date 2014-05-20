@@ -1,0 +1,343 @@
+<intro>
+<ambiance intro>
+Voix off	: Nos aventuriers victorieux, désormais en possession d'une dizaine de statuettes assez moches, se rendent au point de rencontre avec leur employeur, dans le petit village de Valtordu. C'est à quelques kilomètres du donjon de Naheulbeuk, au creux de la rivière Glandebruine, que se niche cette bourgade très connue pour sa spécialité de boudin au sang de mouton et pour son arbre à pendaison, près duquel a lieu le rendez-vous...
+<transition>
+<ambiance nuit + lugubre>
+<bruits de pas feuilles mortes>
+Ranger	: ici furent pendus 287 voleurs de boudin
+Mago	: mais qu'est-ce que tu racontes ?
+Ranger	: (soupirant) rien, je lisais l'écriteau au pied de l'arbre...
+Elfe	: c'est lugubre !
+Menestrel	: on ne plaisante pas avec les boudins par ici !
+Nain	: tu veux dire qu'on ne peut pas blaguer avec l'elfe ?
+Barbare	: (ensemble) hahaha
+Ogre	: (ensemble) huh huh
+Elfe	: comment ? de quoi tu parles ?
+Mago	: laisses tomber...
+Menestrel	: ho, je viens de comprendre ! Comment peux-tu trahir ainsi la grâce des elfes ?
+Nain	: bah, c'est facile, il suffit de la regarder
+Elfe	: hein ?
+Ranger	: si vous voulez bien faire un peu de silence...
+Mago	: c'est bien l'arbre aux pendus, c'est ici qu'on a rendez-vous avec notre mystérieux commanditaire
+Nain	: et avec les 8000 pièces d'or !!
+Menestrel	: ha, c'est une sacrée somme ! Comment allons-nous la partager ?
+Ranger	: et bien, nous allons prendre chacun mille pièces d'or et...
+Elfe	: mais... il reste la part du voleur !
+Mago	: je doute qu'il ait la possibilité de les dépenser maintenant !
+Nain	: (enthousiaste) mais voilà, j'ai trouvé ! Comme j'étais le meilleur ami du voleur, c'est moi qui prend sa part !
+Ranger	: hein ?
+Mago	: tu crois qu'on va tomber dans le panneau ?
+Nain	: bah quoi c'est vrai, on était comme ça tous les deux, on partageait tout et..
+Ranger	: tais-toi tu m'énerves !
+Barbare	: bon, et quand-est-ce qu'il arrive le lascar !
+Elfe	: il a dit "quand sonneront 8 fois les cloches, je vous rejoindrai à l'arbre des pendus"
+Ogre	: akala miam-miam
+Mago	: il dit que (coupé)
+Ranger	: il dit que c'est l'heure du dîner, on a compris !
+Menestrel	: nous serions bien plus à l'aise dans l'auberge, avec une bonne cruche
+Nain	: mais on est déjà avec l'elfe hahaha
+Mago	: (indignée) hooo
+Ogre	: huk ?
+Barbare	: ha mortel
+Ranger	: (indigné) hoooo !
+Menestrel	: (indigné) ha, mais vraiment...
+Elfe	: qu'est-ce qu'il dit ?
+Mago	: ne fais pas attention...
+Nain	: mais si vas-y explique-lui !
+<cloches debut X8>
+Elfe	: écoutez ! Les cloches !
+Nain	: ça sonne comme des pièces d'or à mes oreilles !
+Ranger	: bon, qui a le sac de statuettes ?
+Barbare	: c'est moi
+Ranger	: ouais, vas-y vas-ytu peux sortir la verte ? Je sens venir la richesse !
+<équipement>
+Barbare	: hey, calmos
+Ranger	: (chantonne) tralalaaaa nous voila riches avec la statuette
+<attente>
+<ambiant mystere>
+Mago	: alors, y'a personne ?
+Nain	: vous êtes sûr que ça a sonné huit fois ?
+Ranger	: (agacé) rhaa mais oui !
+Ogre	: taka dkajo ar amzo
+Mago	: il dit que le sorcier nous a menti
+Ranger	: (agacé) mais non, il est a été retardé c'est tout
+Menestrel	: il s'est peut-être fait dérober son or par de vils brigands sur la route ?
+Nain	: (désespéré) ha !! malheur de malheur !!!
+Barbare	: merdeuuuuh !
+<event magie>
+Nain	: (ensemble) regardez !
+Ranger	: (ensemble) regardez !
+Barbare	: (ensemble) regardez !
+<event musique>
+<ambiant decouverte>
+Menestrel	: (mystérieux) un rouleau de parchemin est apparu dans les feuilles mortes !
+Elfe	: dans un grand éclair de lumière
+<deux pas feuilles>
+Mago	: Je le prend. Il n'a pas l'air chargé en magie.
+<bruit parchemin + deplie>
+Elfe	: c'est quoi ?
+Nain	: c'est un rouleau de parchemin, on vient de le dire !
+Barbare	: fermez-là !
+Mago	: c'est une lettre de notre employeur ! mince alors !
+Ranger	: quoi ? qu'est-ce qu'il a écrit ?
+Mago	: ha, la vache !
+Nain	: alors quoi ? racontes !
+Mago	: alors, ça, c'est pas croyable !
+Ranger	: (mouvement) mais... donnes-moi ça !
+Mago	: ha, mais laisses-moi, c'est pas la peine, c'est écrit en Menzzorien !
+Ranger	: mais je peux parfaitement lire le Menzzorien !
+Mago	: non, tu ne peux pas lire le Menzzorien !
+Ranger	: mais si, madame je-sais-tout, et je peux vous le prouver !
+Mago	: alors tiens, voilà ton parchemin !
+<bruit parchemin + deplie>
+Ranger	: (énervé) Merci ! grmm... bon... Alors voyons voir...
+Menestrel	: il me tarde de voir dans quelle tragédie nous sommes tombés
+Mago	: on attend...
+<musique suspense>
+Ranger	: Sal-tation vo...geur ! Ja étais... pendu... à l'heure... et pou... poulet... pouleeeet po viendre a...nanas
+<musique foire>
+Elfe	: qu'est-ce que c'est ? Une incantation ?
+Ranger	: rha..
+Barbare	: laisses faire la magicienne !
+Ranger	: mais... il a écrit n'importe quoi, je n'y peux rien !
+Menestrel	: il n'y a acune honte à ne pas savoir lire le Menzzorien !
+Nain	: même si t'as l'air con
+Ranger	: ah lâchez-moi ! Tiens, prends-le ton parchemin pourri !
+<bruit parchemin>
+<3 pas dans les feuilles>
+Mago	: Merci. Laissez-moi vous lire...
+Ranger	: (loin) gnagnagna
+<musique suspense>
+Mago	: Salutations voyageurs ! Je suis actuellement retenu ailleurs et ne pourrais pas venir à notre rendez-vous.
+Elfe	: (ensemble, étonné déçu) hoo !
+Ranger	: (ensemble, étonné interrogatif) ha ?
+Mago	: Si vous voulez vos pièces d'or, il faudra vous rendre à Boulgourville.
+Nain	: (ensemble agacé) hoooo !
+Ranger	: (ensemble agacé) hoooo !
+Barbare	: (ensemble agacé) hoooo !
+Elfe	: (ensemble agacé) hoooo !
+Mago	: Retrouvez-moi dans une semaine à l'auberge du Poney qui tousse.
+Ranger	: (ensemble) ha merde !
+Nain	: (ensemble) putain !!!
+Ogre	: (ensemble) hoooo !
+Mago	: Cordialement, Gontran Teogal, mage de 12e niveau, Ordonnateur de la Béatitude de Swimaf, blablablablabla... (coupé)
+Ranger	: (désespéré) rhaa, quelle galère !
+Barbare	: c'est pas cool
+Ogre	: (énervé) gladol popoh houla !
+Mago	: il dit qu'on l'a dans le... (coupé)
+<pas feuilles s'éloignent énergiques nain>
+Ranger	: bah... on a pas trop le choix il faut suivre ses instructions et... mais.. hey ! Ou est-ce que tu vas ?
+<pas stoppent>
+Nain	: (loin) j'vais à Trucville... casser la gueule à cet enfoiré !
+Barbare	: tu sais où c'est ?
+Nain	: Non ! Peu importe ! Il est interdit d'arnaquer un nain !
+Menestrel	: (décidé) Par les cloches de mon tambourin, nous devrions y aller tous ensemble ! Il y a toujours une chance de gagner nos pièces d'or !
+Ranger	: c'est vrai !
+Barbare	: ça m'énerve, il faut que je frappe quelqu'un
+<pas se rapprochant>
+Mago	: il faudrait déjà savoir où se trouve Boulgourville
+Menestrel	: tireli, tirelin, la ville n'est peut-être pas loin !
+Barbare	: j'ai trouvé qui je vais frapper !
+Menestrel	: (evite le coup) ho non, non, nonnonnonn...
+<pas feuilles se rapprochent>
+Mago	: j'ai un atlas de la terre de Fangh avec moi...
+Ranger	: ça m'aurait étonné aussi...
+<bruit de livre>
+Nain	: puisque vous insistez, je vais avec vous !
+Elfe	: mais personne n'a insisté ??!
+Nain	: tant mieux !
+Mago	: alors... hum...Boladar.... Botoulbouc... Boulgourville !
+Ranger	: (satisfait) ha !
+Menestrel	: hoooOo quel bonheur, voici notre cité !
+Nain	: alors c'est loin ?
+<ambiance narration>
+Mago	: Boulgourville était autrefois surnommée "la cité perdue"...
+Ranger	: ça commence bien !
+Mago	: ... blablabla... une ville de 500 habitants...
+Barbare	: ça fait au moins 35 tavernes
+Ogre	: golooo !
+Mago	: ... située entre le désert des plaintes et le marécage de l'éternelle agonie... tata... un environnement hostile... tata... dans le passé il était impossible de la trouver mais depuis la route est indiquée !
+Elfe	: ça veut dire qu'on a une chance ?!
+Menestrel	: s'il suffit de suivre des panneaux, ça ne sera pas un problème !
+Ranger	: fais voir la carte, c'est loin ?
+Mago	: bah... ce n'est pas sur la carte.
+Ranger	: mais.. comment ça ?
+Mago	: Ils disent que c'est pour décourager les gens qui veulent trouver la cité perdue !
+Ogre	: zdraz doumva
+Ranger	: alors, si j'ai bien compris on indique avec des panneaux la direction d'une cité perdue qui n'est pas sur la carte car on ne veut pas qu'on la trouve ?
+Mago	: c'est tout à fait ça !
+Nain	: c'est complètement débile !
+Mago	: effectivement
+Ranger	: mais pourquoi diable nous a-t-il donné rendez-vous là-bas ??!?
+Barbare	: c'est un sorcier, il a l'esprit tordu
+Mago	: (agacée) ça veut dire quoi ça ???
+Elfe	: on peut voir la carte ?
+Mago	: mouais... alors... le marécage est ici... et là c'est le désert des plaintes
+Ranger	: et alors... c'est loin ?
+Mago	: si on suit la route, y'en a bien pour 9 jours !
+Nain	: (ensemble) quoi !!?
+Ranger	: (ensemble) quoi ??
+Elfe	: (ensemble) quoi !
+Menestrel	: je ne voudrai pas vous attrister, mais il me semble que nous avons rendez-vous dans une semaine seulement...
+Ranger	: et si on ne suit pas la route ?
+Mago	: dans ce cas, on peut couper par la forêt de Schlipak et gagner deux jours
+Menestrel	: on pourra se nourrir de fruits et de glands, et s'enivrer des senteurs de fougères
+Ranger	: heuu ouais... Et ben voilà ! On a qu'à faire ça !
+Nain	: pour ce qui est des glands, j'en ai au moins trouvé un !
+Elfe	: La forêt de Schlipak ??
+Nain	: (loin) ho non, pas la forêt !! J'aime pas les arbres !
+Menestrel	: mais... il me semble que c'est un peu facile... pourquoi donc la route ne passe-t-elle pas dans la forêt ?
+Ranger	: oui, c'est vrai ça, pourquoi ?
+Elfe	: et bien, c'est parce que l'endroit est maudit !
+Mago	: maudit ?
+Ranger	: tiens donc, tu sais quelque chose toi ?
+Elfe	: je connais tout ce qui concerne la nature !
+Mago	: je crois qu'elle a raison, je me rappelle maintenant qu'on a parlé de la forêt maudite de Schlipak quand j'étais en 3eme année
+Ranger	: bah, c'est seulement des ragots, on a qu'à la traverser !
+Barbare	: j'ai pas peur des esprits ! Ils sont pas capables de tenir une arme !
+Ranger	: en tout cas, c'est notre seule chance d'arriver à temps
+<pas dans les feuilles>
+Nain	: (éloignant) ha vous faites chier...
+Mago	: je pense que je n'aurai aucun mal à éloigner les maléfices
+Ogre	: akala miam miam
+Elfe	: il a vraiment faim, lui !
+Menestrel	: mais cette fois il a raison, nous devrions aller dîner
+Barbare	: moi j'ai envie d'une grosse tourte
+Nain	: (loin) eh l'elfe, le barbare a besoin de toi !
+Menestrel	: (indigné) hoooo
+Barbare	: (ensemble) ha ha
+Elfe	: (ensemble) hein ?
+Ranger	: c'est pas bientôt fini tes sous-entendus pourris !?
+Nain	: quand je m'ennuie faut que j'emmerde l'elfe
+Elfe	: t'es chiant !
+Mago	: ha, bravo, belle mentalité !
+Nain	: va mourir, toi et tes livres
+Ranger	: ha ça suffit... on va à l'auberge, mais pas de scandale !
+Ogre	: huh huh
+Barbare	: hooo....
+Menestrel	: nous nous ferions sans doute moins remarquer, si l'ogre était un peu plus habillé !
+Ogre	: huk ?
+Ranger	: c'est vrai !
+Mago	: bon, je vais lui en parler... Etsa vo ati piloupilou hagh etrola ?
+Ogre	: golo...
+<pas s'éloigne feuilles ogre>
+Ranger	: alors ?
+Mago	: il va se faire un nouveau pagne avec des fougères
+<bruits de feuilles>
+Elfe	: c'est beau d'être en communion avec la nature
+Mago	: je t'avais bien dit qu'ils étaient sympas, les ogres !
+Nain	: hey hey... faut que je vous raconte... un jour, mon arrière-grand père Gurdil s'est fait piquer ses vêtements en prenant son bain annuel
+Menestrel	: (loin) quelle horreur ! un bain tous les ans !?
+Nain	: attendez c'est pas terminé !
+Ranger	: c'est bien ce qui m'inquiète...
+Nain	: et ben, comme il a pas retrouvé le coupable, il s'est vengé !
+Elfe	: (sarcastique) c'est hyper intéressant dis donc...
+Nain	: attends c'est pas fini !
+Barbare	: dépêche toi
+Nain	: il a pioché dans la réserve de Mithril et il s'est fabriqué : un caleçon en Mithril !
+Menestrel	: ta blague est aussi vide que le néant qui sépare tes oreilles
+Barbare	: hein ?
+Nain	: mais l'histoire ne s'arrête pas là !
+Ogre	: (loin) goooloooo
+<bruits de feuilles>
+Elfe	: ça y est l'ogre a terminé !
+Ranger	: (soupirant) et alors ce caleçon ?
+Nain	: et bien finalement, on lui a donné le nom de Gurdil Cul-Brillant ! hahaha hahaha hahahahah ahaha... hem
+Mago	: heu... dis-moi, c'est de l'humour nain ça ?
+Nain	: et ouais, cette histoire est fameuse dans toute la mine !
+Elfe	: franchement, c'est vraiment nase
+Mago	: on en avait des meilleures à l'école de magie...
+Nain	: mais non, c'est juste que vous manquez d'intelligence !
+Ranger	: (soupirant) ha... bah, puisque l'ogre est redevenu sortable, on y va !
+<pas dans les feuilles>
+<voix qui diminuent>
+Elfe	: oui, dépéchons-nous avant qu'il nous raconte une autre blague !
+Nain	: t'as pas de cervelle qu'est-ce que j'y peux !
+Elfe	: mais t'as bien vu personne n'a trouvé ça drôle !
+Nain	: bah vous êtes tous bêtes !
+Barbare	: he ho je te permets pas !
+Nain	: toi t'as des gros bras mais t'as pas d'humour !
+<coup + douleur nain>
+Nain	: j'avais raison tu vois !
+<djingle fin>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+Salut à tous les aventuriers !
+
+Voici le premier pack Naindows ! Il remplace le vieux pack Naheulbeuk windows qui a été viré du site il y a quelques temps.
+Ce pack de sons enregistré en 24 bits vous permet de pourrir votre système d'explotation avec la voix du Nain, le seul, le vrai, l'unique représentant barbu des Fiers de Hache !
+
+
+
+-- Si vous êtes un baltringue en informatique --
+Pour utiliser ce pack dans un environnement windows, il vous suffit de :
+- Copier le répertoire "naindows-wav" fourni dans le zip, dans C:/windows/media
+- Ensuite ouvrez le panneau de configuration / matériel et audio / son / modifier les sons système
+
+Avec des choix judicieux de sons associés à certains événements systèmes, vous pourrez travailler toute la journée avec le Nain !
+
+Et il faut bien dire que... C'est insuppportable !
+
+Bon courage, héhéhéhé.
+
+PS : si vous ne trouvez pas le panneau de configuration... Je ne peux rien pour vous !
+
+
+
+
+-- Autres cas --
+Pour tous les autres systèmes d'exploitation, téléphones, applications diverses et idées saugrenues, vous pourrez vous débrouiller soit avec les wav, soit avec les MP3.
+
+
+	Pen of Chaos, pourrisseur de PC depuis 1995

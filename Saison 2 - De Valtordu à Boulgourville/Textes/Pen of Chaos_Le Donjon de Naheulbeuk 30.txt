@@ -1,0 +1,596 @@
+<ambiance>
+Mago	: Et ben voilà, nous sommes à Boulgourville !
+Nain	: T'es sûre ?
+Ranger	: Mais oui, c'est écrit sur ce panneau.
+Nain	: J'hallucine, on ne s'est même pas perdu...
+Elfe	: Alors c'est la fin de l'aventure ?
+Nain	: C'est pas trop tôt !
+Barbare	: Ouais...
+Ranger	: Et on va récupérer les pièces d'or !
+Ranger	: (ensemble) Ouais !
+Elfe	: (ensemble) Ouais !
+Mago	: (ensemble) Ouais !
+Nain	: Et en plus, je suis niveau 2 !
+Ranger	: Tu nous lâches avec ça ?
+Barbare	: Alors, on y va ?
+Mago	: N'empêche, la ville ne correspond pas trop à la description du bouquin...
+Ranger	: Quel bouquin ?
+<saisie du livre>
+<bruit de pages>
+Mago	: Dans le Guide du Pistard de la Terre de Fangh... C'était marqué... "Une magnifique petite cité de caractère, à l'architecture remarquable et à la population joyeuse. Son panorama sympathique est agrémenté de plusieurs tours impressionnantes, qui défient l'horizon dans une audace tranquille."
+Ranger	: Ha bon ?
+Nain	: Moi heu... C'est surtout l'audace de l'auteur qui m'impressionne.
+Ranger	: Bah oui, parce que je ne vois pas trop où sont ces fameuses tours...
+Mago	: Y'aurait bien le truc là-bas... On dirait un genre de vieux pigeonnier.
+Elfe	: Et le machin qui fume un peu plus loin ?
+Ranger	: Ça doit être la cheminée du boulanger.
+Mago	: Remarquez, techniquement s'il y a deux tours, on peut dire qu'elle sont plusieurs.
+Ranger	: (soupir) Enfin...
+Nain	: Et les cambuses, là, elles tombent à moitié en ruines. C'est parce qu'ils ont pas pris les bonnes pierres !
+Ranger	: Mouais... Enfin bon, on n'est pas là pour ça !
+Elfe	: Tes histoires de cailloux, c'est bon pour les trolls !
+<nain marche>
+Nain	: N'empêche, les mecs ils ont utilisé du grès feldspathique... Ha ! C'est pas terrible, vaut mieux prendre du grès micacé.
+Ranger	: (agacé) Bon t'as fini ?
+Nain	: Ou alors du granite, c'est toujours mieux le granite.
+Ranger	: Pffff...
+Barbare	: Nous on fait nos maisons avec du bois, et de la peau d'animal mort.
+Elfe	: Beueahhh !
+Nain	: Ouais, mais ça m'étonnerait que ça tienne longtemps ton histoire ! Alors qu'avec du granite...
+Ranger	: Eh ho ! On peut parler d'autre chose ?
+Elfe	: C'est quand-même génial d'être arrivé !
+Mago	: (soupir) Après toutes ces aventures, ça fait du bien.
+Nain	: Vous appelez ça des aventures ?
+Barbare	: On n'a pas beaucoup bastonné.
+Elfe	: Et voilà, ça recommence.
+Ranger	: (agaçé) Mais nous avons traversé un tiers du pays, nous avons bravé des centaines de dangers et nous avons déjoué de nombreux pièges !
+Barbare	: Hein ?
+Nain	: Et des fois, vous êtes même tombés dedans, comme des gros nases.
+Mago	: Je te signale que tu étais avec nous !
+Nain	: Pfeuh !
+Elfe	: Et on a trouvé des énigmes.
+Nain	: Ça c'est moi, quand j'ai dit Flip.
+Mago	: Et moi heu... J'ai lancé plusieurs sorts.
+Nain	: Ouais, mais globalement c'était nul ! Y'avait pas de monstres !
+Ranger	: Bah... On en a vu quelques-uns quand-même...
+Barbare	: Alors on y va ?
+Nain	: Ouais, l'avantage dans tout ça c'est qu'on va pouvoir revendre un tas de saloperies.
+Ranger	: Moi je vais garder mon bidule qui fait de la musique, ça fait un souvenir.
+<harmonica>
+Nain	: Ha non hein !
+Ogre	: Huh huh.
+Elfe	: Et moi j'ai toujours la flûte !
+Nain	: Et moi j'ai toujours mon pied, pour botter ton cul !
+Elfe	: Mais heu !
+Mago	: Les instruments pourront servir si on retombe sur Zangdar.
+Ranger	: Y'a pas de risques... Y'a plus rien d'intéressant à récupérer dans sa tour.
+Nain	: Et puis c'est vachement loin maintenant.
+Mago	: Mais on n'avait pas tout visité !
+Nain	: Il doit tirer une sacrée gueule depuis qu'on a tout raflé, hahaha.
+Ranger	: Ouais, ha ha !
+Mago	: Si ça se trouve, il a changé d'activité et il a monté une fabrique de chaises ?
+Elfe	: (ensemble) Ha ha ha !
+Barbare	: (ensemble) Ha ha ha !
+Nain	: (ensemble) Ha ha ha !
+Ranger	: Qu'est-ce que vous avez contre les fabricants de chaises ? Hein ?
+Nain	: Bah rien... Ha ha ha !
+Mago	: C'est juste que... Bon...
+Barbare	: J'ai soif !
+Ranger	: T'as raison ! Il faut qu'on trouve cette fameuse auberge.
+Mago	: C'est pas la peine de courir hein, on a quand-même un jour d'avance...
+<bruit parchemin apparition>
+Elfe	: Regardez !
+Ranger	: Un rouleau de parchemin !
+<déplacement magicienne>
+Mago	: Je le prends ! Mais ça me rappelle quelque chose...
+Nain	: Hola ! J'espère que c'est pas l'autre con qui nous demande encore de faire 120 kilomètres !
+<bruit de parchemin>
+Mago	: (déplie) Pas de panique... (lecture) C'est encore du Menzzorien...
+Ranger	: Alors ?
+Elfe	: Qu'est-ce que ça raconte ?
+Mago	: Salutations voyageurs ! Je vous félicite, car je ne vous attendais pas aussi tôt, mais vous pouvez me retrouver ce soir si vous le désirez, je vous rejoindrai à l'Auberge du Poney qui Tousse.
+Nain 	: Et ben !
+Ranger	: Mais... Comment il sait qu'on est là ?
+Elfe	: Vous croyez qu'il nous observe ?
+Ranger	: Je n'aime pas trop ça !
+Mago	: C'est effectivement un peu inquiétant...
+Nain	: Cap sur la taverne !
+Ranger	: (soupir) Ouais, de toutes façons, y'a plus que ça à faire.
+<transition>
+<ambiance lugubre>
+Reivax	: Maître ? Vous êtes toujours là Maître ?
+<s'approchant>
+Zangdar	: Oui, oui, j'arrive !
+Reivax	: Il faudrait marcher un peu plus vite, je n'aime pas trop cet endroit...
+Zangdar	: Je n'arrête pas de m'empêtrer dans les ronces !
+<bruits de ronces>
+Reivax	: Je crois que c'est à cause de vos vêtements... Ils ne sont pas très pratiques pour marcher dans la végétation !
+Zangdar	: Évidemment ! Je reste au donjon normalement, je ne suis pas un crétin d'aventurier !
+Reivax	: C'est pour ça que je disais que votre plan n'était sans-doute pas très...
+Zangdar	: Ça suffit !
+Reivax	: Bon, bon... Mais j'entends quand-même des murmures bizarres...
+Zangdar	: C'est certainement un lieu maléfique, mais on a l'habitude.
+Reivax	: Oui, mais bon, le donjon c'est chez nous, c'est pas pareil !
+Zangdar	: (grondement)
+Reivax	: Dites... Ça fait presque une journée qu'on marche... Vous ne savez toujours pas où on est ?
+Zangdar	: Cette ville est désertée depuis au moins cinq cent ans ! Je pense que le dirigeable s'est écrasé à l'ouest de la terre de Fangh, on est sortis de la carte.
+Reivax	: Ha oui... Il va bientôt faire nuit, et on se retrouve paumés dans une cité maléfique millénaire... C'est un peu comme si on était des aventuriers !
+Zangdar	: Ha, mais ça suffit ! Je déteste les aventuriers !
+Reivax	: Oui oui, d'accord... Enfin tout de même, ça serait dommage de tomber sur un monstre...
+Zangdar	: Ce n'est pas possible ! Je te rappelle que NOUS sommes les monstres ! Et c'est NOUS qui faisons peur aux gens !
+Reivax	: Heu... Oui mais là, si jamais on tombe sur un monstre...
+Zangdar	: Arrête de raconter n'importe quoi !
+Reivax	: Heu... Vous ne croyez pas qu'on est déjà passés par ici ?
+Zangdar	: Mais non, pas du tout ! On n'a jamais vu ce vieux puit avec les gros tentacules qui dépassent.
+<suspense>
+Reivax	: Heu... Les tentacules ? Les tententacules ?
+Zangdar	: Ha zut ! On dirait qu'ils bougent !
+<CRI DE MONSTRE>
+Reivax	: Haaaaaaaaaaaaaaa !
+Zangdar	: Haaaaaaaaaaaaaaa !
+<transition>
+<ambiance taverne>
+Nain	: Voilà, c'est encore n'importe quoi cette auberge... Regardez-moi ces chaises, elles sont beaucoup trop hautes !
+Ranger	: Je ne crois pas que soit la faute des chaises...
+Mago	: Ça suffit maintenant ! On va encore se faire virer, c'est pas le moment !
+Elfe	: Moi je trouve que ça sent le vomi !
+Barbare	: La bière est pas bonne !
+Ranger	: Rhaaa, taisez-vous !
+Ogre	: Ugol tadla pouk !
+Mago	: (soupir) Mais non, les saucisses ne sont pas trop courtes, c'est la taille normale d'une saucisse !
+Ogre	: Holala !
+Ranger	: Il faut se calmer maintenant ! Je vous rappelle qu'on est ici pour gagner une fortune.
+Elfe	: Mais moi j'aimerai bien être assise plus loin du Nain.
+Ranger	: Alors non, s'il vous plaît, on ne commence pas !
+Nain	: La raison du plus fort, c'est toujours celle du Nain !
+Elfe	: (ensemble) Hein ?
+Mago	: (ensemble) Comment ?
+Barbare	: (ensemble) Quoi ?
+Ranger	: Mais qu'est-ce que tu racontes ?
+Nain	: Bah, c'est de la philosophie naine, vous ne pouvez pas comprendre.
+Barbare	: Hein ?
+Mago	: Ça existe ?
+Elfe	: N'importe quoi !
+Nain	: Mais si ! Y'a un gars chez nous qui écrit des petites histoires, et y'a des phrases intelligentes à la fin.
+Mago	: Des phrases intelligentes ?
+Ranger	: J'ai des doutes...
+Nain	: Et ben, c'est ça qu'on appelle de la philosophie.
+Mago	: J'ai du mal à imaginer.
+Nain	: Et ben par exemple, y'a l'histoire d'un humain qui est perdu dans une mine, et à la fin y'a une phrase qui dit : on a toujours besoin d'un nain plus petit que soi.
+Mago	: Ha bon ?
+Ranger	: (soupir) Parce que nous, on pourrait s'en passer...
+Elfe	: Et puis les Nains, c'est forcément plus petit !
+Nain	: Y'a aussi celle qui finit comme ça : Il ne faut pas vendre la peau du gobelin avant d'avoir posé les pièges.
+Barbare	: C'est compliqué !
+Ranger	: Et ben...
+Nain	: Et puis y'en a une que j'aime bien aussi : Rien ne sert de courir dans la mine, il faut partir au bar.
+Mago	: c'est philosophique ça ?
+Nain	: Bah ouais, mais c'est pour éviter qu'on se perde !
+Ranger	: La vache, faut s'accrocher quand-même.
+Mago	: (taquine) C'est drôlement subtil !
+Nain	: Ouais, sinon y'a celle-là que j'adore : Patience et longueur de pioche ont plus de force que les haches !
+Mago	: Qu'est-ce que c'est que cette connerie ?
+Ranger	: Ha ha ! Alors là ça ne veut carrément rien dire !
+Nain	: C'est parce que vous êtes des humains ! Mais en fait ça explique qu'il ne faut pas essayer de casser les cailloux avec des haches, parce que c'est pas fait pour ça !
+Ranger	: Pffffff....
+Elfe	: Moi je connais une phrase comme ça aussi.
+Nain	: Ha ouais ?
+Elfe	: Et oui, on fait aussi de la philatélie chez les Elfes. La phrase elle dit : Tant va la cruche au Nain, qu'à la fin il vomit !
+Ranger	: Ha ha ha !
+Mago	: Ha ha ha !
+Nain	: Ha, non, ça c'est pourri !
+Barbare	: J'ai rien compris, ça m'énerve !
+Mago	: En tout cas, ça nous change un peu d'avoir une vraie discussion culturelle !
+Gontran	: Hum hum... Je peux m'asseoir ?
+Mago	: Ho !
+Ranger	: Bon sang, mais c'est vous !
+Elfe	: Bonsoir !
+Nain	: On a failli attendre !
+Gontran	: Gontran Théogal, mage de douzième niveau, Ordonnateur de la Béatitude de Swimaf...
+Ranger	: (ensemble) De la béatitude de Swimaf, oui on sait.
+Mago	: (ensemble) De la béatitude de Swimaf
+Ranger	: On est bien contents de vous voir !
+Nain	: Et moi, j'ai deux mots à vous dire !
+Gontran	: Je vous présente également Gluby, un gnôme des forêts du Nord.
+Gluby	: Flibidi !
+Ogre	: Glok !
+Ranger	: Hey, je ne l'avais même pas vu ! Ha ha !
+Elfe	: Il est mignon !
+Mago	: Flibidi à toi aussi !
+Gluby	: Yakli doulou !
+Gontran	: C'est mon plus fidèle serviteur, mais je ne comprends rien à ce qu'il me raconte !
+Nain	: Vous essayez de détourner le sujet !
+Gontran	: Écoutez... Je sais ce que vous allez dire... Vous êtes mécontents d'avoir subi cette extension d'aventure !
+Ranger	: Exactement !
+Nain	: Ouais !
+Mago	: Voilà !
+Barbare	: Hein ?
+Gontran	: Mais j'ai eu des problèmes... Enfin bon, vous avez la statuette ?
+Nain	: Évidemment !
+Barbare	: Elle est dans mon sac !
+Mago	: (méfiante) Je me demande bien quel genre de problème peut rencontrer un mage de niveau douze !
+Gontran	: Figurez-vous que quelqu'un s'est introduit dans mon donjon, et m'a dérobé une statuette de Gladeulfeurha !
+Nain	: Ha, c'est trop con !
+Ranger	: Merde alors, ça me rappelle un truc cette histoire, ha ha !
+Elfe	: Mais qu'est-ce que ça peut faire ?
+Gontran	: J'ai besoin des douzes statuettes pour m'occuper de la prophétie, et j'en avais déjà onze ! C'est pour ça que votre statuette était la douzième.
+Ranger	: Oui, ça c'est simple, on avait compris !
+Elfe	: Mais non, moi je ne savais pas !
+Gontran	: J'ai perdu du temps à essayer de retrouver les voleurs, mais sans succès pour le moment.
+Mago	: Bon, de toutes façons, ce n'est pas vraiment nos affaires ! Maintenant qu'on est là, Vous avez les pièces d'or ?
+Gontran	: Oui, oui, bien sûr... Alors par contre... Comme votre statuette n'est plus la douzième, je pensais vous la racheter pour six mille pièces d'or.
+<musique>
+Ranger	: (ensemble) Quoi !
+Mago	: (ensemble) Quoi !
+Elfe	: (ensemble) Quoi !
+Barbare	: (ensemble) Quoi !
+Nain	: (ensemble) Comment !
+Ogre	: (ensemble) Huk ?
+Nain	: C'est même pas la peine d'y penser !
+Ranger	: Vous êtes malade !
+Gontran	: Non mais attendez, je... (coupe)
+Nain	: Je vous garantis que vous allez nous donner nos huit mille pièces d'or, ou bien je vais mettre le feu à la taverne, ensuite je vais mettre le feu à la ville, et pour finir je vais brûler toute la terre de Fangh jusqu'à ce qu'on ait reçu chaque pièce d'or que vous nous devez !!!
+<ambiance>
+Mago	: Faudrait pas nous prendre pour des débiles !
+Ranger	: Ouais ça va bien les arnaques hein !
+Gontran	: (gêné) Ha oui, je me doutais bien que ça allait causer des problèmes...
+Ranger	: Des problèmes ?
+Barbare	: Ça va chier !
+<dégaine>
+Ranger	: Et on a fait une semaine d'aventure en plus !
+Nain	: Et moi j'ai calculé qu'avec le prorata du temps passé, on devait percevoir une augmentation de 432 % du pécule de départ, ainsi qu'un bonus de...
+Gontran	: (empressé) D'accord, d'accord ! Ça ira ! Je vous donne huit-mille pièces, comme prévu !
+Ranger	: A la bonne heure !
+Barbare	: Ouais !
+Gluby	: Flibidi !
+Gontran	: Libérez la statuette, et je relâcherai le magot.
+Nain	: Montrez-nous les pièces !
+Mago	: Vas-y, donne la statuette.
+Barbare	: OKay !
+<equipement>
+Gontran	: Pour la somme, je vous ai aussi mis des lingots de Berylium, c'est plus pratique à transporter. Et voilà !
+<bruit sac de monnaie>
+Ranger	: Hein ? C'est normal ça ?
+Nain	: Ouais, y'a pas de souci ! Chaque lingot de Berylium vaut cinq cent pièces d'or ! Et puis c'est du bon métal ça !
+Mago	: C'est vrai que huit mille pièces, ça fait lourd !
+Gontran	: Vous avez trois mille pièces en monnaie, et le reste en lingots.
+Ranger	: Et voilà la statuette.
+Gontran	: Merci ! Dommage que ça soit la onzième !
+Nain	: Ouais, mais nous on s'en tamponne la nouille avec une pelle.
+Ranger	: C'est l'argent qui nous intéresse.
+Gontran	: Bon, et bien je vais vous laisser, j'ai du travail...
+Nain	: Tatatata ! Il faut que je vérifie la somme !
+Gontran	: Comment ?
+Mago	: Mais qu'est-ce que tu vas faire ?
+Nain	: Et ben, je vais tout recompter et vérifier les pièces une par une... S'agirait pas de se faire rouler !
+Elfe	: (déprimée) Holala !
+Ranger	: Mais ouais, il a raison !
+Gontran	: Mais... Ça ne risque pas d'être un peu long tout ça ?
+Nain	: Moi je m'en fous, j'ai de la bière et j'ai tout mon temps ! Allez, hop, c'est parti !
+Gontran	: (soupir).
+Ranger	: Bon, bah je vais commander du pinard alors...
+<bruits de pièces>
+Nain	: Celle-là, c'est bon. Celle-là, c'est bon. Celle-là, c'est bon aussi. Celle-là, c'est bon. Et encore une. Et encore une. Et encore une. Et encore une. Et encore une. Et encore une. Et encore une.
+Barbare	: C'est chiant.
+Mago	: Courage, plus que 2988 pièces à vérifier.
+Ranger	: J'aime bien le bruit des pièces, moi.
+<transition>
+Voix off	: 148 minutes et trois pichets plus tard, le décompte est enfin terminé. Mais il faut reconnaître que...c'était quand-même TRES chiant.
+<transition>
+Nain	: Bon bah j'en étais sûr, il manque deux pièces ! Ha ha !
+Gontran	: (paniqué) Je vous crois ! Je vous crois sur parole ! C'est une petite erreur de ma part, alors voilà deux pièces en plus, et je ne veux plus jamais en parler.
+<deux pièces>
+Ranger	: Et ben voilà ! Affaire conclue !
+Mago	: C'est bien quand ça se termine simplement, une aventure.
+Gontran	: Je dois dire que je viens de passer un moment assez pénible.
+Elfe	: Moi j'ai envie d'aller me coucher !
+Gontran	: Allez ! C'est pas tout, mais moi j'ai du travail ! Je vous laisse !
+Ranger	: Ouais ! Bonne route !
+Barbare	: Ouais, salut !
+Mago	: Et tâchez de ne pas vous faire piquer cette statuette hein ?
+Nain	: Ouais, ça serait dommage ! Ha ha !
+Ranger	: Ha ha ha !
+Gontran	: Adieu ! Et ce n'est pas drôle !
+Gluby	: Flibidi !
+Elfe	: Au revoir Gluby !
+<transition>
+Ranger	: Vous vous rendez compte ? On a huit mille pièces d'or !
+Nain	: Huit mille pièces ! Ha ha !
+Ranger	: Ha ha ha !
+Mago	: On va pouvoir acheter des tonnes d'objets.
+Nain	: Un casque Lebohaum avec des renforts latéraux.
+Ranger	: Une cotte de mailles en acier carbone pour le déplacement silencieux.
+Mago	: Un nouveau bâton, avec bonus de puissance sur les sorts verticaux.
+Elfe	: Des flèches magiques !
+Barbare	: Et heu... Une grosse épée.
+Nain	: Alors bon, j'ai fait un calcul, ça ferait 1333,33 pièces par personne.
+Ranger	: (frotte les mains) Super !
+Ogre	: Huk ?
+Nain	: Mais comme j'ai fait l'expertise de la monnaie, je dois prélever 10% de la somme totale pour mes frais personnels, et...
+Ranger	: (ensemble) Pas question !
+Elfe	: (ensemble) Ha non alors !
+Barbare	: (ensemble) He ho !
+Mago	: Y'en a marre de tes combines pour essayer de nous rouler !
+Nain	: Non mais... Enfin ce que je disais c'est que...
+Ranger	: Attendez ! Regardez là-bas !
+<musique>
+Elfe	: C'est la guerrière.
+Mago	: Zut ! Elle nous a retrouvé !
+Barbare	: Merde !
+Ranger	: Planquez-vous !
+Nain	: Trop tard, elle nous a vu.
+Elfe	: Elle nous fait coucou !
+Ranger	: (chuchotant) Ha zut ! Mais qu'est-ce qu'on va faire ?
+Guerrière	: Hey, salut les bouseux !
+Ogre	: Youhou !
+Barbare	: (loin) Chuis pas un bouseux !
+Ranger	: (faux) Ha ! Tiens, quelle bonne surprise !
+Elfe	: Bonsoir !
+Mago	: (déprimée) Ça alors, qu'est-ce qu'on est contents !
+Barbare	: (déprimé) Ouais, on est contents.
+Nain	: Et merde !
+Guerrière	: Je passais par hasard... Je ne pensais pas que vous alliez arriver si tôt !
+Mago	: C'est parce qu'on s'est téléporté !
+Guerrière	: Et je vois que vous avez récupéré vos richesses !
+Ranger	: (étonné) Ha, oui ?
+Mago	: Oui oui...
+Nain	: Forcément, on a tout laissé sur la table comme des GROS CONS !
+Guerrière	: C'est parfait ! Je vais récupérer mes trois mille, et puis je vous laisse parce que j'ai des amis qui m'attendent dehors.
+Ranger	: Ha ?
+Elfe	: Hoooo...
+Nain	: Ha putain ! Trois mille pièces !
+Ranger	: (paniqué) Des amis ? Des amis qui vous attendent ?
+Guerrière	: Oui, des guerriers niveau huit que j'ai rencontré sur la route !
+Nain	: Ha !
+Elfe	: Niveau huit ! Waouh !
+Guerrière	: Ils sont super beaux ! Et vraiment balaises !
+Ranger	: (déprime) Bon, bah on vous donne les pièces alors...
+Barbare	: Merde...
+Nain	: (déprime) Holalalalalala !
+Mago	: (déprime) Allez, servez-vous !
+Ranger	: (déprime) Ouais, c'est ça...
+<bruit de pièces>
+Guerrière	: Bon bah... Moi je vais prendre les lingots, c'est plus pratique !
+Ranger	: (déprimé) Oui, voilà, prenez des lingots.
+Guerrière	: Allez, je vous laisse ! Merci et passez une bonne soirée !
+Ranger	: (déprimé) Une super soirée, c'est sûr !
+Nain	: (déprime) Holalalalalala...
+Elfe	: Au revoir !
+<transition>
+Nain	: Bon, bah voilà... Alors avec ce qui reste, ça fait 833,33 pièces par personne.
+Mago	: C'est pas si mal finalement...
+Ranger	: (déprime) Ouais... Enfin bon, c'est sûr qu'on va pouvoir s'acheter des choses quand-même...
+Elfe	: Mais la guerrière nous a sauvé la vie !
+Nain	: (ensemble) Ho ça va maintenant !
+Ranger	: (ensemble) Ho ça va maintenant !
+Mago	: (ensemble) Ho ça va maintenant !
+Barbare	: Moi j'en ai marre...
+Brodik	: Bonsoir messieurs-dames !
+Ranger	: Hein ?
+Elfe	: Bonsoir !
+Nain	: Mais qui vous êtes vous ?
+Brodik	: Je me présente : Brodik Jeanfuret, collecteur à la Caisse des Donjons.
+Nain	: Ranger ?
+Nain	: Collecteur ?
+Mago	: La Caisse des Donjons ?
+Brodik	: L'établissement qui gère les questions d'aventure en Terre de Fangh.
+Ranger	: Hein ?
+Elfe	: Hein ?
+Brodik	: J'ai ici un procès-verbal, qui indique que vous devez recevoir huit-mille pièces d'or en monnaie fiduciaire, pour paiement d'un salaire en récompense d'un larcin donjonnique afférent à un petit objet de collection.
+Elfe	: J'ai rien compris.
+Ranger	: Bah... Disons que...
+Mago	: Mais... Vous êtes déjà au courant ?
+Brodik	: C'est la mission statutaire de la Caisse des Donjons ! Le vol a été déclaré en date du troisième jour de la Décade des Moissons Tardives, par l'assistant Reivax.
+Ranger	: Ha, le petit salaud !
+Nain	: Et ben vous tombez mal, parce qu'on a déjà vendu la statuette ! Ha !
+Ranger	: C'est vrai ! Maintenant si vous la voulez, il faudra la racheter à Gontran Théogal !
+Brodik	: Ça ne sera pas la peine, je passais seulement pour collecter la taxe sur les gains d'aventure perçus à titre de salaire.
+Nain	: La taxe ?
+Ranger	: Quelle taxe ?
+Brodik	: Vous êtes des novices, n'est-ce pas ?
+Nain	: Heu...
+Mago	: Hum hum...
+Ranger	: Disons plutôt que... C'est notre première aventure en groupe...
+Brodik	: L'Article 28 du code de la CDD dispose que vous devez être imposés à hauteur de vingt-cinq pour cent de vos gains d'aventure perçus à titre de salaire.
+<musique>
+Ranger	: (ensemble) Quoi !
+Mago	: (ensemble) Quoi !
+Elfe	: (ensemble) Quoi !
+Barbare	: (ensemble) Quoi !
+Nain	: (ensemble) Comment !
+Ogre	: (ensemble) Huk ?
+Mago	: Holala !
+Nain	: Vingt-cinq pour cent ?
+Ranger	: Qu'est-ce que c'est que ce bidzouf ?
+Elfe	: Mais c'est compliqué ! Comment on va faire pour compter ?
+Brodik	: Alors dans votre cas, sur un salaire de huit mille pièces d'or... Je dois donc en percevoir deux mille.
+Ranger	: Hein ?
+Nain	: Hey, minute, l'asticot ! C'est pas la peine d'y penser !
+Barbare	: Ouais !
+<dégaine>
+Mago	: Range ton épée !
+Ranger	: C'est notre argent qu'on a gagné nous-même !
+Mago	: Deux secondes... Monsieur Brodik, qu'est-ce qui va se passer si on refuse de payer ?
+Brodik	: Et bien, ce n'est pas un cas de figure qu'on rencontre en général. Mais si vous ne payez pas, la procédure implique qu'on vous envoie les milices de la CDD, afin qu'ils vous capturent et vous jettent en prison. Après vous avoir crevé les yeux, naturellement.
+Ranger	: (panique) Haaaaaa !
+Ogre	: Gluk ?
+Nain	: Par toutes les enclumes !
+Elfe	: J'ai peur !
+Mago	: Et ben... C'est grave quand-même !
+Ranger	: (agacé) Bon bah... Prenez vos pièces... On a déjà assez de problèmes !
+Nain	: (déprime) Holalalalala !
+Elfe	: Hoooooo !
+Brodik	: Bien ! Je vais percevoir les lingots, c'est plus pratique.
+Mago	: (déprime) Oui, c'est ça...
+Brodik	: Je vous prépare le reçu !
+Ranger	: Génial...
+Nain	: (déprime) Holalalalala !
+<transition>
+Mago	: Bon... Alors combien il nous reste ?
+Ranger	: Il nous reste... Bah... Trois mille ! (énervé) Trois mille petites pièces d'or de merde !
+Nain	: C'est la misère ! Ça fait cinq-cent pièces par personne !
+Elfe	: C'est pas mal quand-même, et puis ça fait un compte rond.
+Barbare	: Moi je sais pas compter ! Mais ça m'énerve aussi !
+Nain	: C'est vraiment naze !
+Ranger	: (soupir) On aurait mieux fait de rester au lit...
+Voleur	: Bonsoir messieurs-dames !
+<tadaaaaaaaa>
+Mago	: Hum ?
+Elfe	: Bonsoir !
+Ogre	: Youhou !
+Barbare	: Humf !
+Ranger	: Quoi encore !
+Voleur	: Pardonnez mon intrusion dans votre quotidien. Je représente la guilde des voleurs et malandrins du nord-est de la Terre de Fangh.
+Nain	: Et alors ?
+Mago	: Qu'est-ce que vous nous voulez ?
+Voleur	: Vous allez trouver cela coquasse, mais il est parvenu à nos oreilles que vous veniez de percevoir un salaire de huit mille pièces d'or en paiement d'un vol commis dans une tour maléfique.
+Ranger	: Hein ?
+Mago	: (agacée) Mais c'est pas vrai ! Comment vous le savez ?
+Voleur	: Tout voir et de tout entendre... C'est dans notre nature.
+Ranger	: (agacé) Et ben, quoi ?
+Voleur	: Et bien dans ce cas, notre code est très clair : pour toute rémunération d'un larcin perçu dans notre territoire, la guilde doit récupérer vingt cinq pour cent de la somme.
+<musique>
+Ranger	: (ensemble) Quoi !
+Mago	: (ensemble) Quoi !
+Elfe	: (ensemble) Quoi !
+Barbare	: (ensemble) Quoi !
+Nain	: (ensemble) Comment !
+Ogre	: (ensemble) Huk ?
+Ranger	: (énervé) Mais c'est pas vrai !
+Nain	: (énervé) C'est une véritable conspiration !
+Barbare	: Je vais lui pêter sa gueule !
+<dégaine>
+Voleur	: Hey là !
+Ranger	: Non non non non !
+Mago	: Hola ! Deux secondes !
+Barbare	: (ensemble) Rhaaaaaaaaaaaaaa !
+Nain	: (ensemble) Rhaaaaaaaaaaaaaa !
+Ranger	: (paniqué) Stop ! Et qu'est-ce qui se passe si on n'a pas envie de payer ?
+Voleur	: Croyez bien que j'en suis désolé, mais dans ce cas la guilde vous enverra ses meilleurs assassins et vous ne passerez pas la nuit. On vous retrouvera demain matin sous la forme de petits tas de chair informes et sanguinolents, quelque part dans un fossé.
+Elfe	: (ensemble) Beuahhhh !
+Ranger	: (ensemble) Ho non !
+Nain	: Ha, c'est trop pourri cette ville de merde !
+Barbare	: Alors ? On lui pète sa gueule ?
+Ranger	: (soupir) Non, laissez tomber... J'en ai marre... Je crois bien que toutes les forces de l'univers ont monté une coalition pour qu'on reste pauvres.
+Nain	: Mais je veux être riche moi ! Riche !
+Mago	: Tu préfères te faire égorger pendant la nuit ?
+Elfe	: J'ai pas envie qu'on m'égorge ! (pleure)
+Nain	: Rhaaaaaaaaaaa !
+Barbare	: Crôm !
+Ranger	: (agacé) C'est bon, allez-y ! Prenez vos pièces, et foutez le camp !
+Voleur	: Voilà une sage décision !
+Ranger	: Quelle galère !
+Nain	: Rhaaaaaaaa !
+Elfe	: (pleure)
+<transition>
+Elfe	: (snif) Alors il nous reste quoi maintenant ?
+Nain	: Il nous reste la corde elfique, et on peut toujours se pendre avec !
+Mago	: (soupir) Heu... Si on partage, ça fait cent soixante-six pièces d’or et six pièces d’argent...
+Nain	: Je pense que je vais retourner à la mine, et je ne veux plus jamais voir vos tronches !
+Barbare	: C'était mieux chez les barbares.
+Ranger	: C'est vrai, y'a quelque chose qui ne va pas dans cette équipe.
+Mago	: Moi j'en ai ma claque aussi !
+Ranger	: Alors, le mieux, ce serait qu'on se sépare, avant qu'il n'arrive encore quelque chose.
+Nain	: Mais moi je le dis depuis le début !
+Elfe	: (geignant) Hooo... Moi je veux surtout aller dormir...
+Vieux	: Excusez-moi ? Messieurs-dames ?
+Ranger	: Hein ?
+Vieux	: Je peux vous parler cinq minutes ?
+Nain	: Hey ! Vous allez nous foutre la paix non ?
+Elfe	: (rebelle) Vous venez encore voler nos pièces d'or c'est ça ?
+Mago	: (énervée) On ne veut plus voir personne !
+Vieux	: Je ne m'intéresse pas à vos pièces d'or, voyons !
+Nain	: Et ben foutez le camp alors !
+Ranger	: (énervé) C'est pas le moment de venir nous gonfler !
+Nain	: Rhaaaaaaaaaaa !
+<tonnerre>
+Vieux	: (énervé) C'est vous qui allez m'écouter, jeunes gens !
+xMago	: Hein ?
+Ranger	: Quoi ?
+Vieux	: Je suppose que vous êtes satisfaits, après ce que vous avez fait ?
+Nain	: Moi j'ai pas envie de parler !
+Ranger	: Mais quoi ? Qu'est-ce qu'on a fait ?
+Elfe	: J'ai mal à la tête.
+Mago	: Expliquez-vous, bon sang !
+Vieux	: Précipiter la Terre de Fangh dans l'oubli, ça ne vous dit rien ?
+Ranger	: Quoi ?
+Nain	: Laissez tombez, il a trop picolé !
+Vieux	: Vous venez de vendre la douzième statuette de Gladeulfeurha à Gontran Théogal, voilà ce que vous avez fait !
+Ranger	: Évidemment, C'est pour ça qu'ils nous a payé !
+Mago	: Mais vous êtes au courant vous aussi ?
+Nain	: Cent soixante-six pièces d’or et six pièces d’argent ! C'est nul !
+Mago	: Mais en quoi ça vous gêne ?
+Elfe	: Vous n'avez pas besoin de vous mêler de nos affaires !
+Vieux	: (soupir) Vous ne connaissez pas les détails de la prophétie, c'est ça ?
+Ranger	: (agacé) Mais quelle prophétie ?
+Mago	: La porte de Zaral Bak ?
+Vieux : Exactement !
+Nain	: On s'en tape !
+Barbare	: Ouais !
+Vieux	: Si la porte de Zaral Bak est ouverte, la Terre de Fangh va disparaître dans la Grande Couette de l'Oubli ! Cet acte scellera le retour de Dlul !
+Mago	: Ha mince !
+Ranger	: (goguenard) La Couette de l'Oubli ?
+Nain	: Et Dlul, c'était pas le dieu feignasse de l'autre abruti, là ?
+Vieux	: Dlul va plonger tout ce qui vit dans un sommeil éternel, et ça sera la fin du monde !
+Ranger	: (goguenard) Bah tiens ! ha ha !
+Mago	: Mais ce n'est pas drôle !
+Elfe	: C'est terrible !
+Ranger	: Parce que tu crois à ces conneries toi ?
+Mago	: Mais évidemment, c'est pour ça que le vieux Song-Fu s'est suicidé !
+Ranger	: Damned ! C'est vrai !
+Elfe	: Holala !
+Nain	: N'importe quoi !
+Vieux	: Le vieux sage s'est suicidé ?
+Ranger	: Non non, mais ça c'est rien, c'est des détails de voyage.
+Elfe	: Qu'est-ce qu'on va faire ?
+Vieux	: Pardonnez-moi, mais Vous vous êtes fourrés dans un sacré merdier !
+Ranger	: Je ne sais pas pourquoi, mais finalement je ne suis pas très étonné...
+Mago	: Excusez-moi, mais Gontran a dit qu'il n'avait plus que onze statuettes, parce que quelqu'un lui en a piqué une.
+Vieux	: Ha ! Ça c'est une bonne nouvelle !
+Nain	: Moi je m'en tape, et puis je me casse. J'en ai rien à cirer de vos histoires !
+Vieux	: Vous feriez mieux de rester ! Je compte sur vous pour réparer vos imbécilités. Vous devez absolument retrouver la onzième statuette avant le sorcier.
+Ranger	: (ensemble) Quoi ?
+Nain	: (ensemble) Quoi ?
+Elfe	: (ensemble) Hein ?
+Mago	: (énervée) Mais pourquoi nous ?
+Ranger	: Vous rigolez ? On ne va pas passer notre vie à courir après la même statuette quand-même !
+Vieux	: Si vous ne le faites pas, votre vie prendra fin à la prochaine pleine lune ! Et celle de tous les autres par la même occasion ! Alors c'est sans doute assez important pour qu'on s'y intéresse !
+Mago	: Mais... Mais on ne sait même pas où chercher !
+Barbare	: Ça m'énerve ces trucs compliqués !
+Ranger	: Holala ! Mais quel merdier !
+Elfe	: Et moi je voulais retourner dans la forêt !
+Nain	: J'ai rendez-vous à la mine !
+<transition>
+Mago	: Bon alors, qu'est-ce qu'on fait ?
+Ranger	: Le vieux est parti, il nous a laissé avec nos problèmes.
+Nain	: Y'en a marre de tous ces crevards qui sortent de nulle part !
+Mago	: (déprime) c'est la frime, tu fais des rimes.
+Ranger	: (soupir) Laisse tomber, c'est la déprime.
+Nain	: Rappelez-moi pourquoi on part à l'aventure au fait ? Que je rigole un peu !
+Ranger	: (soupir) Je ne sais plus... Je ne sais pas !
+Elfe	: Mais si ! On part en quête de gloire et de fortune !
+Nain	: Voilà ! C'est ça la bonne blague !
+Mago	: Et ben ! Pour la gloire heu... Il vaut mieux pas en parler.
+Ranger	: (soupir) Ouais... Et puis pour la fortune...
+<bruit de pièces>
+Nain	: Moi je vais vous dire ce que c'est l'aventure : c'est un attrape-couillons !
+<echo>
+Voix off	: ... car ici en Terre de Fangh, tout commence et tout finit à la taverne.
+Ranger	: Ouais... Mais maintenant, il faut vraiment que je reparte avec ce groupe ?
+Voix off	: Et oui... Enfin, sauf si vous voulez mourir, évidemment.
+Ranger	: (soupir) La Couette de l'Oubli... Les dieux n'ont vraiment que ça à foutre d'emmerder les humains !
+Nain	: Et les Nains ! Faut pas oublier les Nains !
+Ranger	: Ho ça va t'es lourd !
+Mago	: Je vais voir dans mon grimoire si on n'a pas moyen de régler ça avec un sortilège...
+Barbare	: Y'en a marre des livres...
+Nain	: En plus, j'avais dit Chaussette aussi...
+Barbare	: Non ça c'était moi.
+Nain	: Chaussette ! Chaussette !
+Ranger	: (ensemble) Ta gueule !
+Mago	: (ensemble) Ta gueule !
+<fin>
+Ranger	: Alors voilà, c'était la fin de nos aventures de la Saison 2, hein... D'ailleurs, nous n'avons pas mis les pieds une seule fois dans un donjon, mais ça il faudra que j'en discute avec les autres. Finalement nous avons réussi à échapper au Désert des Plaintes et au Marécage de l'Eternelle Agonie, et on n'a pas rencontré le Golem Manchot. Bon ben... Je me demande si ça ne va pas nous tomber sur le coin de la figure un jour ou l'autre. Déjà, ce soir moi je pensais rentrer chez moi, peinard... Et voilà qu'un vieux type en robe grise vient nous squatter la vie hein... pour dire qu'on a déclenché un truc de fin du monde. Et puis tous ces gens qui viennent piquer notre pognon... C'est dingue ça ! J'ai jamais entendu ça dans les histoires héroïques moi ! Il faut vraiment que je trouve un autre métier... Enfin, c'est pas pour demain !
+
+Allez, salut maintenant !
+<PORTE>
+

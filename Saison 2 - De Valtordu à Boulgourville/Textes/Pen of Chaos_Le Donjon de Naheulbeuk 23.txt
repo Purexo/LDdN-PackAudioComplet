@@ -1,0 +1,347 @@
+<djingle énergique>
+Voix off	: après deux heures de course à travers les sentiers de la forêt, et plusieurs crises de nerfs plus tard, le groupe est de nouveau réuni...
+Barbare	: heauuuuurgghhh !
+Ranger	: il faut faire quelque chose pour le barbare... il devient dangereux !
+Barbare	: heauuuuurgghhh !
+<coups d'épée dans le vide>
+Elfe	: attention !
+Mago	: il n'a pas retrouvé entièrement la mémoire !
+Barbare	: tapeeeeeeeer !
+<coups d'épée dans le vide>
+Ranger	: hollaaa, arrête de mouliner comme ça !
+Elfe	: tu vas finir par blesser quelqu'un !
+Barbare	: hurgh ! huuurgh ! hurg !
+<coups d'épée dans le vide>
+Nain	: (conneries)
+Paladin	: je pense que ce problème de mémoire a fait naître en lui un pouvoir berserk
+Elfe	: un pouvoir beurk ? Comme le troll des collines ?
+Paladin	: berserk !
+Mago	: berserk !
+Barbare	: (loin) huuuurghhhh !!!
+<coups d'épée dans le vide>
+Mago	: il ne sent pas la douleur et il est plus habile, mais il ne fait plus la différence entre ses ennemis et ses amis
+Elfe	: beeeeeeurk !
+Paladin	: (soupir) berserk....
+Elfe	: j'ai compris !
+Ranger	: enfin, ça n'a aucun sens il n'essaie pas de nous attaquer ! Il mouline dans le vide comme un glandu !
+Ogre	: huh huh !
+Mago	: il est sans doute retenu par sa conscience !
+Paladin	: ha... tant qu'elle reste éveillée...
+Ranger	: et le Nain alors ? Il dit plus rien ?
+Elfe	: c'est pas grave hein !
+Mago	: il est aussi en état de choc. Il s'amuse avec la peluche du donjon...
+<Peluche euuuinn>
+Nain	: (loin) ha ha !
+Elfe	: lamentable !
+Ranger	: (soupir violent)... ça y est c'est la déprime.... je ne sais pas ce qui me retient de les laisser là !
+Mago	: bah... c'est le Barbare qui a les statuettes...
+Ranger	: bon... ça d'accord... mais pour le Nain ? A quoi il sert ??
+Elfe	: moi je vous l'avais dit !
+Paladin	: il a l'air plutôt habile au combat...
+Ranger	: plutôt habile ??? Non là franchement hein....
+Mago	: bahhh....
+<Peluche euuuinn>
+Nain	: (loin) ha ha Ha haa !
+Ranger	: putain.... j'en ai marre...
+Barbare	: heuuuuuurgh !
+<coups d'épée dans le vide>
+Elfe	: ça ne s'arrange pas....
+Ranger	: et toi... t'es bien sûre qu'on est sortis du chemin de l'oubli ?
+Mago	: et bien... en théorie... oui on doit être hors de son influence
+Elfe	: hey regardez mes cheveux sont tout le cas, on peut haaaaaaaaaaaaaaaaa !!
+[[ COMPTER DEUX MINUTES ]]
+Ranger	: (ensemble) haaaaaaaaaaaa !!
+Mago	: (ensemble) bon sang !
+Ogre	: (ensemble) takala !!!
+Paladin	: (ensemble) hola !
+<téléporteur du Survivaure>
+Ranger	: qu'est-ce que c'est que cette lumière ???
+Elfe	: le Nain a disparu !
+Mago	: (ensemble) hoooo !!
+Paladin	: (ensemble) quoi ??
+Ogre	: (ensemble) holala.....
+Ranger	: damned !
+Paladin	: c'est comme... si la lumière l'avait emporté !
+Mago	: pas tout a fait...
+Elfe	: ses affaires sont encore là !
+<pas sur le sentier>
+Ranger	: (s'éloignant) ouais... il a laissé la peluche aussi... c'est bizarre...
+<Peluche euuuinn>
+Mago	: Tu peux arrêter ?? C'est agaçant !
+Paladin	: est-ce que c'était une lumière magique ?
+Mago	: et bien... je n'ai rien senti en matière de vibration magique... néanmoins je vois difficilement quel genre de lumière peut emporter un Nain, même sans ses vêtements
+Elfe	: surtout celui-là...
+Ogre	: huk ???
+<pas sur le sentier>
+Ranger	: (s'approchant) et bien.... c'est peut-être une lumière divine ?
+Elfe	: hein ??
+Paladin	: c'est impensable !
+Ranger	: mais non.... imaginez... peut-être que le dieu des Nains a eu honte de lui...
+Mago	: ... et il aurait décidé de le faire disparaître...
+Ranger	: ... il a voulu le gommer de la réalité !
+Paladin	: ... et ainsi, il peut sauvegarder la dignité des Nains !
+Elfe	: c'est ultra débile !
+Mago	: hum... elle a raison, c'est n'importe quoi !
+Elfe	: et puis les Nains n'ont aucune dignité
+Ranger	: mais non, je la trouve très bien ma théorie !
+Ogre	: bourrino glok zpotla !
+Elfe	: hein ?
+Mago	: il dit que le Barbare fait une tête bizarre...
+Ranger	: hooo, mais c'est vrai... je l'avais oublié lui !
+Paladin	: il est complètement amorphe et il a l'air bête
+Ranger	: concernant ce dernier détail... ça ne change pas beaucoup...
+Mago	: le flash lui a bousillé le cerveau.... HE HO !! Tu nous vois ???
+Elfe	: pff... on dirait un zombi...
+Mago	: Y'a DU POULET ROTI !!
+Paladin	: où ça ?
+Ranger	: c'est quoi cette connerie ?
+Mago	: c'est un stimuli pour provoquer une réaction...
+Paladin	: (déçu) hooo....
+<paladin déplace>
+Ranger	: il faudrait quelque chose de plus frappant que du poulet rôti
+Mago	: mais il adore ça !
+Elfe	: et ben... on pourrait lui donner un coup de bâton ?
+Ranger	: heuu... de quelle façon ?
+Elfe	: un bon coup de bâton sur le crâne !
+Mago	: ouais, ça devrait lui remettre les idées en place
+Ranger	: hola hola ho hoooo... comptez pas sur moi... il suffirait qu'il se réveille... et si ça lui plaît pas....
+Mago	: là c'est sûr... il aurait envie de se venger...
+<Ronflements ON>
+Ranger	: non non... là je ne sais plus quoi faire... il faut récupérer les statuettes... et on se casse !
+Elfe	: hein ? On l'abandonne ici ?
+Ranger	: et ben quoi ?! T'arrêtes pas de dire qu'il est méchant !
+Elfe	: ouais mais là c'est pas pareil !
+Mago	: exactement !
+Ranger	: pffff... bon jey ça y est vous me faites tous chier là ! Vous êtes contents ??
+Elfe	: il faut être un peu plus positif !
+Ranger	: mais... comment veux-tu être positif avec des clampins pareils !
+Mago	: on va essayer d'assommer le Barbare, et puis on verra bien !
+Ranger	: d'accord... mais moi j'y vais pas !
+Mago	: je croyais que c'était toi le chef !
+Ranger	: et ben.... justement, mon devoir c'est de rester en vie ! Sinon qu'est-ce que vous allez devenir ?
+Mago	: hahem......
+Elfe	: on va demander à l'Ogre ? C'est son truc de frapper les gens !
+Ogre	: huk ??
+Ranger	: ouais... mais faudrait pas que l'envie lui prenne de lui bouffer un bras...
+Mago	: bon ben je vais toujours lui en parler... bourrino sprotch ? Eto spiri gladoul !
+Ogre	: huuu.... bourrino kopaing !
+Mago	: ha bah ça je m'y attendais !
+Elfe	: qu'est-ce qu'il dit ?
+Mago	: il veut pas le frapper parce que c'est un ami !
+Elfe	: hooo !
+Ranger	: bah tiens.... et tu ne peux pas le... convaincre ?
+Mago	: pour le convaincre il faudrait l'énerver... mais là, du coup... il pourrait le tuer !
+Elfe	: ha non.... c'est pas mieux...
+Ranger	: et... t'as pas un sortilège pour assommer les gens ?
+Mago	: Bonne idée !! Je vais lui balancer une Gifle de Namzar !
+<musique>
+Elfe	: ouiiiiii !
+Ranger	: et ben voilà ! Comme ça on peut se planquer !
+Mago	: ça porte jusqu'à 12 mètres ! En plus avec mon passage de niveaux, ça multiplie les effets par 1,8, et compte tenu de la constitution du barbare, je vais booster un peu l'incantation en utilisant une charge de ma bague de puissance... il n'a pas de résistance particulière à la magie... ce qui donne environ 80% de chances de succès d'engendrer une perte de connaissance !
+Ranger	: c'est bien tout ça mais... c'est quoi les 20% qui restent ?
+Mago	: ha ça, vaut mieux pas y penser... à 10% je lui casse tous les membres, à 5% je lui disloque les vertèbres en entraînant la mort, et à 5% ça se perd dans la nature
+Elfe	: beueehh !!
+Ranger	: t'as raison, faut pas y penser...
+Mago	: bon, allez ! C'est parti ! Chaud devant !
+Elfe	: on peut se dissimuler derrière ce gros chêne !
+Ranger	: ouais... faut dire au Paladin de... hey, mais.... ho mais regardez-moi ça !!! Il dort !
+Elfe	: il dit que c'est pour rendre hommage à son dieu !
+<deplacements>
+Ranger	: hommage mon cul ! Allez on se bouge !
+Elfe	: j'arrive !
+Ogre	: glouk ???
+Mago	: attention on y va ! Talomaaah akvo zodimiiiiiii !!
+<son du sort>
+<woooosh énorme + pain>
+Barbare	: (loin) heauuuuurrghhh !!!
+<chute du barbare>
+Ranger	: ouaiiis !
+Elfe	: ouaiiis !
+Mago	: excellent !
+<djingle>
+Paladin	: hein ??? qu'est-ce qui se passe ??? (baille)
+Ranger	: bon, et ben on aura au moins réussi quelque chose dans la journée !
+Mago	: enfin, surtout moi... parce que...
+Ranger	: parce que quoi ?
+Mago	: et bennn....
+Ogre	: doula zul talok !!
+Elfe	: il a l'air fâché !
+Mago	: il comprend rien et il pense qu'on est givrés !
+Paladin	: vous allez me dire ce qui se passe ?
+Ranger	: allez, je vais récupérer les statuettes et on file !
+<déplace>
+Paladin	: regardez, regardez... le Barbare est à terre ! Et il saigne du nez !
+Mago	: ta gueule
+Ranger	: (loin) il a l'air bien sonné ! Hey mais... qu'est-ce que c'est que...
+<Teleporteur sur un côté>
+Mago	: (ensemble) attention !
+Elfe	: (ensemble) haaaaaaaaaaa !
+Ranger	: (ensemble) haaaaaaaaaaa !
+Ranger	: (loin) encore cette lumière !
+Elfe	: derrière les buissons !
+Ranger	: y'a trop de feuilles on ne voit rien !
+Nain	: (loin) heauuuuuuuuaaaaaaa !!!!
+Ranger	: (loin) c'est le Nain !
+Mago	: allons-y !
+Paladin	: (baille)
+<deplacements>
+Nain	: (loin, se rapprochant) bordel ! Par les dix-mille poils de la barbe de Goltor l'Intrépide, c'est vraiment de la merde ces déplacements lumineux !!
+Mago	: mais on ne voit rien du tout là
+Ranger	: hey le Nain... c'est toi ???
+Nain	: (un peu loin) bah qui tu veux que ce soit ? Un ours en deltaplane ??
+Ranger	: peut pas voir... c'est trop touffu
+Elfe	: (ensemble) c'est bien lui !!
+Mago	: (ensemble) c'est bien lui !!
+Ranger	: ça va ? Pas de soucis ?
+Nain	: (un peu loin) il se passe que je suis à poil dans la forêt, et que cette aventure commence à me faire chier !
+Mago	: mais qu'est-ce qui s'est passé ?
+Nain	: (un peu loin) bah j'en sais rien ! Je me suis retrouvé dans un cagibi, et y'avait des types étranges qui me regardaient et qui racontaient n'importe quoi !
+Ranger	: hey ben....
+Elfe	: peuh !
+Paladin	: dites-moi, ça lui arrive souvent ?
+Mago	: il voyage beaucoup, mais en général c'est quand il est mort
+Nain	: alors vous allez me rendre mes fringues ?? Y'a des orties qui me grattent le cul !
+<transition>
+Voix off	: une fois le Nain habillé, et le Barbare redevenu lui-même, la compagnie reprend sa route et traverse une portion de territoire forestier classé dangereux. C'est le moment de faire un nouveau jet dans la table des rencontres, section forêt, tableau 24, page 452 du bestiaire insolite de la Terre de Fangh.
+<Jet de dé>
+Voix off	: 19... (soupir) et ben, c'est pas terrible...
+<Transition 2 kilomètres>
+Voix off 	: 2 kilomètres
+<Deplacement troupe sentier>
+Nain	: ... et là, le mec en pyjama rouge, qui avait l'air d'être le chef, a dit un truc du genre "Paix et guérison sur ton peuple"... et donc je me suis dit que c'était des elfes, mais ils n'avaient pas d'oreilles pointues, seulement après j'ai vu cette fille un peu blonde en pyjama rose, avec un air bête et une sacrée paire de....
+Ranger	: stop ! c'est incompréhensible ton histoire !
+Elfe	: et franchement, je ne vois pas le rapport avec les elfes !
+<musique indiens>
+Barbare	: moi j'en ai marre !
+Mago	: écoutez !
+Mago	: vous entendez ?
+Nain	: quoi, les oiseaux ?
+Mago	: chut !
+<ambiance indiens>
+Ranger	: hum...
+Paladin	: ce sont des percussions ethniques provenant certainement d'une tribu sauvage...
+Mago	: sans doute !
+Ranger	: t'es pas obligé de dire ça comme si on était des blaireaux !
+Paladin	: comment ?
+Ranger	: (gnagnagna) ce sont des percussions ethniques gnagnagnagna
+Paladin	: mais... pas du tout je...
+Ranger	: non, mais j'ai bien vu ton petit manège, monsieur le Paladin !
+Paladin	: he ho, du calme
+Mago	: dis donc, t'es vachement susceptible toi !
+Ranger	: chuis pas susceptible ! Mais faudrait pas trop me prendre pour un con !
+Paladin	: je disais juste que les sons provenant de...
+Ranger	: et voilà, il recommence !
+Nain	: dis-donc, tu m'as piqué mes Chiantos ?
+Ranger	: hein ? Mais de quoi j'me mêle ?
+Elfe	: c'est déjà assez difficile avec un Nain...
+Mago	: on a pas besoin d'un râleur supplémentaire !
+Nain	: parfaitement !
+Ranger	: j'ai pas piqué tes Chiantos, d'abord je sais pas ce que c'est !
+Nain	: c'est des petits bonbons qui sont dans cette bourse !
+Ranger	: ha ça ?? Bah si, ça j'en ai mangé un...
+Mago	: ha, zut !
+Barbare	: et merde...
+Ranger	: (énervé) ben quoi ? C'est quoi le problème ?
+Nain	: c'est rien, je t'expliquerai !
+Elfe	: regardez là-haut !!
+<terreur>
+Ogre	: (ensemble) gluk ?
+Paladin	: (ensemble) hein ?
+Barbare	: (ensemble) quoi ?
+Elfe	: y'a un squelette accroché dans un arbre !
+Ogre	: (ensemble) golo !
+Ranger	: (ensemble) ha ouais....
+Nain	: (ensemble) mince alors !
+Elfe	: ça veut dire qu'il y a du danger ?
+Ranger	: (railleur) mais non, c'est juste un type qui est mort en accrochant une guirlande !
+Nain	: ha ha ha !
+Mago	: c'est fini oui ?
+Paladin	: on dirait qu'il a été pendu et dévoré
+Mago	: ou alors dévoré, et pendu ensuite
+Elfe	: je ne vois pas trop ce que ça change !
+Mago	: c'est très important au contraire, car dans le deuxième cas, il aurait été mangé par des humains ou des créatures pensantes !
+Paladin	: (baille)
+Elfe	: je comprends rien !
+Nain	: elle a dit des créatures pensantes, pas des elfes !
+Ranger	: hahahaha !
+Barbare	: hahaha !
+Elfe	: crevard !
+Paladin	: s'il vous plaît ! Nous avons un mystère à éclaircir !
+Ranger	: ho lui hey... ha ha j'me la joue
+Nain	: on s'en tape du mystère !
+Mago	: j'ai trouvé !
+<tadaaaaaaaaaaa>
+Ranger	: ben quoi ?
+Mago	: tous ces indices démontrent que nous approchons de .... la clairière des mangeurs de chair humaine !
+<Terreur>
+Nain	: ouah !
+Elfe	: c'est affreux !
+Ranger	: tout de suite, ça impressionne !
+Mago	: (agacée) c'est pas drôle vous savez !
+Nain	: ha ha et dire qu'on avançait bêtement sans se douter de rien !!
+Mago	: c'est pas possible d'être aussi chiant !
+Barbare	: bon alors, on fait quoi ?
+Nain	: ben, on fait des gaufres !
+Ranger	: hahahaha !
+Indigène	: he ho ! Messieur-dames !
+<terreur>
+Ranger	: (ensemble) haaaa !
+Nain	: (ensemble) haaaa !
+Elfe	: (ensemble) haaaa !
+Ogre	: (ensemble) hoooooo
+Paladin	: (ensemble) mon Dlul !
+Elfe	: un homme sauvage !
+Mago	: il était caché dans les buissons !
+Nain	: il a de la peinture sur la gueule et un os dans l'nez...
+Paladin	: ... et des plumes dans les cheveux
+Indigène	: bah ouais, c'est moi....
+Elfe	: qu'il est beau !
+<dégaine>
+Barbare	: j'attaque !
+Mago	: ha non, tu fais chier !
+Barbare	: hoooo....
+<rengaine>
+Indigène	: dites... on aimerait savoir si vous allez vous décider à tomber dans le piège !
+Ranger	: comment ?
+Mago	: hein ?
+Indigène	: y'a une fosse piégée à 3 mètres, juste devant vous
+Ogre	: gluk ?
+Elfe	: une fosse piégée !
+Indigène	: parce que moi et mes potes, on commence à en avoir marre de vos discussions
+Nain	: he ben heuuu.....
+Indigène	: alors bon, si vous ne comptez pas tomber dans le piège, vous seriez gentils d'aller plus loin !
+Mago	: c'est à dire que...
+Indigène	: ... vous savez, c'est déjà pas facile de se tenir embusqué toute la journée, si en plus faut écouter les conneries des touristes...
+Nain	: ha bah merci !
+Mago	: ne vous inquiétez pas, on s'en va !
+Ranger	: heuu.. ouais, ouais...
+<deplacement sentier>
+Paladin	: nous allons passer à côté du piège, par ici !
+Indigène	: comme vous voulez ! L'important c'est surtout d'aller ailleurs !
+Barbare	: bon, bah salut !
+Indigène	: (loin) c'est ça, au-revoir !
+Ranger	: je me demande si ce n'était pas un de ces redoutables mangeurs de chair humaine !
+<event fin>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

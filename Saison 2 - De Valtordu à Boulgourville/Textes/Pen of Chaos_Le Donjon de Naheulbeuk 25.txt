@@ -1,0 +1,293 @@
+<Djingle>
+voix off	: Malgré les indications très CLAIRES laissées par les elfes, la compagnie s'égare et s'énerve dans les sentiers tortueux conduisant à la lisière de la forêt.
+Ranger	: Vous commencez à me gonfler la rate !
+Nain	: T'as déjà dit ça y'a une heure...
+Ranger	: Et ben, quoi ?
+Nain	: Et donc, tu ne peux pas dire que ça commence !
+Elfe	: C'est vrai !
+Ranger	: Ho hé ! Mais vous n'allez pas jouer sur les mots en plus !
+Mago	: (soupir) Pour une fois que l'Elfe est d'accord avec le Nain...
+Ranger	: Et oui, pour une fois... et comme par hasard, c'est pour me faire chier !
+Nain	: Mais non c'est toi qui raconte n'importe quoi.
+Elfe	: Tu ne peux pas dire que quelque chose commence, si...
+Ranger	: AH LA BARBE !
+Ogre	: Takala algo !
+Ranger	: Et puis toi si tu ne comprends rien, c'est pas la peine de la ramener...
+Ogre	: Huk ?
+Mago	: Qu'est-ce que tu en sais, qu'il n'a rien compris ?
+Ranger	: Mais c'est fini oui ? C'est la coalition des glandus ?
+Barbare	: Il fallait pas prendre à gauche au dernier croisement.
+Ranger	: Bah oui, évidemment ! Et c'était une idée de qui, hein ?
+Mago	: C'était ton idée.
+Barbare	: C'était ton idée.
+Ranger	: Ha bon ?
+Elfe	: Et pour le croisement précédent, c'était pareil...
+Ranger	: Mais...
+Mago	: Et aussi celui d'avant !
+Ranger	: Il faut bien que quelqu'un prenne des décisions !
+Nain	: Ouais, mais pas systématiquement des mauvaises...
+Ranger	: Ha ça c'est sûr, si on pouvait suivre un plan correct...
+Mago	: Je te fais remarquer que ce n'est pas facile de dessiner des sentiers forestiers tordus sur du parchemin à carreaux !
+Nain	: Gnagnagnagna.....
+Ranger	: Bah oui mais là regarde... ça ne ressemble à rien, on dirait un plat de spaghetti !
+Nain	: (loin) Et ben... c'est quand-même incroyable !
+Ogre	: Eto spaghetti glouk ?
+Mago	: Merci, ça fait plaisir !
+Nain	: (loin) Toujours la même histoire !
+Ranger	: Donc, c'est pas de ma faute si on perd l'orientation.
+Elfe	: C'est toi qui a insisté pour guider le groupe !
+Ranger	: (ensemble) Mais.... Mais....
+Mago	: (loin) Je t'en foutrai moi des spaghetti !
+Barbare	: Avec tes compétences de Ranger pourries...
+Ranger	: Tu sais ce qu'elles te disent mes compétences ?
+Nain	: Elles disent qu'on est perdus.
+Barbare	: Ha ha !
+Ranger	: Mais ça suffit !!! Mon pied au cul il va pas être perdu, lui !
+Elfe	: (soupir) Toujours et encore de la violence...
+Mago	: Un vrai chef de groupe devrait pouvoir nous sortir de là...
+Ranger	: Pfffffff !
+Nain	: Attention hein... On n'a jamais dit qu'il y avait un chef !
+Ranger	: Mais moi je l'ai dit !
+Mago	: On n'a pas voté !
+Barbare	: Ouaip !
+Ranger	: Écoutez... on ne va pas recommencer, on en a déjà parlé...
+Nain	: Justement, on avait dit qu'il y avait pas de chef !
+Barbare	: En plus on n'a jamais le droit de se battre...
+Ranger	: Bon.... puisque vous avez décidé d'être lourds, à vous de jouer. Sortez-nous de là, moi je ne dis plus rien !
+Nain	: A la bonne heure !
+Mago	: C'est un peu facile maintenant que tu nous a égaré !
+Ranger	: Mais on était déjà perdu !
+Nain	: T'as dit que tu ne disais plus rien !
+Ranger	: Rhaaaaaaaaa !
+Mago	: Et toi le Paladin, qu'est-ce que t'en penses ?
+Elfe	: On ne t'entend pas beaucoup.
+Paladin	: Moi... je m'en fous... je m'en fous complètement...
+Elfe	: Hein ?
+Nain	: Ca ne t'intéresse pas de savoir si on va crever là, dévorés par les furets ?
+Paladin	: Pas vraiment, non.
+Elfe	: Les furets ne dévorent pas les gens ! Ce sont des mustélidés carnivores qui...
+Nain	: Hé, lâche-nous la bourse, avec tes définitions !
+Mago	: Bon, alors ça serait sympa de nous participer quand-même...
+Paladin	: Vous voulez que je vous dise quelque chose ?
+Nain	: Pas vraiment, non...
+Mago	: Allez, vas-y !
+Paladin	: Je suis amoureux de l'Elfe !
+Mago	: (ensemble) Quoi ?
+Nain	: (ensemble) Quoi ? Hahahahahah !
+Ranger	: (ensemble) Hein ?
+Elfe	: (ensemble) Hein ???
+Barbare	: (ensemble) Wah !
+Elfe	: De... de moi ?
+Paladin	: Mais non... De Norelenilia, la somptueuse reine des Lunelbar !
+Elfe	: Ha....
+Nain	: Ha, je me disais aussi !
+Mago	: Incroyable !
+Ranger	: Mais... C'est une blague ?
+Nain	: Hey, toi t'as plus le droit de parler !
+Ranger	: Ho, mais pourquoi j'ai dit ça !
+Paladin	: Je n'arrête pas de penser à elle.
+Elfe	: Ouah....
+Nain	: C'est stupide !
+Paladin	: Je revois sa chevelure encadrer l'ovale de son visage, et la grâce de ses mouvements, les...
+Mago	: Ho, du calme...
+Nain	: J'hallucine !
+Elfe	: Mais c'est dommage, elle est partie !
+Ranger	: Heh heh !
+Paladin	: Oui... et maintenant que je suis là, je crois que j'aurai dû la suivre.
+Elfe	: Hooooooo...
+Mago	: Ha ouais...
+Barbare	: C'est grave.
+Nain	: (loin) Ha ha ha...
+Paladin	: J'ai réfléchi, et je me suis dit que c'était un peu ridicule de faire tout ce voyage pour seulement 224 pièces d'or et 4 pièces d'argent.
+Nain	: Hey ! J'ai pas compté les pièces de la guerrière !
+Paladin	: Justement !
+Mago	: Bah, c'est toi qui vois hein...
+Ranger	: C'est un peu tard maintenant pour...
+Nain	: Tatatata ! Ta bouche !
+Ranger	: Mais ça suffit là ho !
+Paladin	: En plus, c'est triste à dire, mais vous êtes vraiment des baltringues.
+Mago	: (ensemble) Quoi ?
+Ranger	: (ensemble) Quoi ?
+Nain	: (ensemble) Quoi ?
+Barbare	: Hé ho !
+Elfe	: C'est quoi un baltringue ?
+Nain	: C'est un truc entre les abrutis les connards.
+Elfe	: (indignée) Oh !
+Paladin	: Je suis vraiment désolé.
+Nain	: Tu t'es pas regardé toi avec ton dieu qui pionce tout le temps !
+Mago	: Je suis un peu d'accord...
+Ranger	: Il faudrait développer un peu ton propos !
+Paladin	: Ce n'est pas la peine, je m'en vais maintenant. Plus rien n'a d'importance...
+Elfe	: (ensemble) Ho non !
+Ranger	: (ensemble) Ha !
+Nain	: Allez, du vent !
+Mago	: Mais...
+Nain	: Non, mais il a dit qu'il partait !
+Paladin	: Je vais retrouver les elfes !
+Mago	: Mais tu vas te faire jeter.
+Nain	: Ouais, dégage !
+Ranger	: (de loin) Et puis heu... je ne pense pas qu'on soit des baltringues !
+Paladin	: (loin) Tant mieux pour vous !
+Elfe	: Adieu !
+Ogre	: Aglou !
+Paladin	: (loin) A Dlul !
+Mago	: Mince alors...
+Nain	: (genre de loin) Ca fait un crevard de moins dans ce groupe !
+Paladin	: (loin) Je m'en fiche !
+Ranger	: Bon... hum... alors voilà...
+Barbare	: Hum...
+Elfe	: C'est une belle histoire, le Paladin amoureux de la reine des Elfes !
+Nain	: Heu...
+Ranger	: Et ben... alors où on en était ?
+Barbare	: On était perdus.
+Mago	: Et en plus, tu ne devais plus parler...
+Ranger	: Mais la situation a changé !
+Nain	: C'est vrai, maintenant on sait que tu es un baltringue.
+Ranger	: Pffffff......
+Mago	: A mon avis, nous étions compris dans le lot...
+Barbare	: Ouais.
+<mode megaphone>
+Ranger	: Je vais vous dire ce qu'on va faire : on va prouver au monde que nous sommes une compagnie d'aventuriers valable !
+Elfe	: C'est vrai ?
+Nain	: J'en ai les sourcils qui frémissent, dis-donc !
+Ranger	: Terminé les conneries... nous avons réussi a traverser une bonne partie du pays, et maintenant que nous sommes près du but, personne ne peut dire que nous sommes des baltringues !
+Barbare	: Hum...
+Mago	: Faut voir les conditions aussi...
+Ranger	: Mais c'est le résultat qui compte !
+Elfe	: Et ben heu...
+Nain	: (insistant) Justement, le résultat c'est que nous sommes perdus !
+Ranger	: Je refuse de baisser les bras ! On va réfléchir tous ensemble ! Comme une équipe ! Et on ira à Boulgourville chercher nos pièces d'or !
+Nain	: Hey, tu veux bien lâcher ce mégaphone maintenant ?
+Barbare	: (ensemble) Mouais.
+Ranger	: Ha oui, he he... Excusez-moi.
+Elfe	: C'était beau !
+Mago	: Bon... Heu... Alors, par quoi on commence ?
+Ranger	: Et bien... par exemple... que savons-nous des objets récupérés pendant le voyage ?
+Elfe	: Des objets ?
+Ranger	: Oui, toutes ces choses trouvées pendant l'aventure... il arrive qu'elles aient une importance pour résoudre les problèmes !
+Mago	: C'est vrai !
+Nain	: Il arrive aussi qu'elles soient pourraves, et qu'on les jette rapidement dans la plus proche poubelle.
+Ranger	: Mais non ! Souvenez-vous des instruments de musique, dans le donjon, ils nous ont permis de vaincre Zangdar !
+Barbare	: (ensemble) C'était nul !
+Elfe	: (ensemble) C'était génial !
+Nain	: (ensemble) C'était à chier !
+Mago	: Oui mais... à quoi tu penses maintenant ?
+Ranger	: Les objets donnés par les Elfes ! La Reine a dit que ça pourrait nous être utile !
+Nain	: Mais elle est timbrée, cette gourdasse !
+Elfe	: He ho ! Un peu de respect !
+Ranger	: Attendez... voyons ce que nous avons...
+<équipement>
+Nain	: Holala....
+Ranger	: Des pics à brochettes, une boîte à sucre, des chaussons de danse...
+Nain	: C'est nase.
+Elfe	: ...des fourchettes, de l'essuie-tout, un arc...
+Nain	: Aucun intérêt.
+Mago	: ...une épée gonflable, une corde trop courte, des skis nautiques...
+Nain	: Mais arrêtez ! Vous voyez bien que c'est pourri !
+Ranger	: Bah... parfois une combinaison d'objets peut avoir une utilité cachée !
+Nain	: Je vois le genre... équipés des moufles à trois doigts, on utilise l'arc pour tuer des moineaux, on les fait cuire avec les pics à brochettes en faisant un feu dans la boîte à sucres avec des débris de skis nautiques, et on les mange avec les fourchettes du poulpe ! On essuie nos bouches pleine de bave avec l'essuie-tout magique, ensuite de quoi l'elfe s'enduit avec la fiole de beaume à la con, puis elle exécute une danse autour du feu avec les chaussons Chtarbés et le collier en dents d'ours en agitant l'épée gonflable ! Et pour finir on se PEND avec la corde parce qu'on est TOUJOURS PERDUS et qu'on est RIDICULES !
+<djingle>
+Ranger	: Heuuuuuuu...
+Elfe	: Mais...
+Mago	: (soupir) Effectivement, ça ne laisse pas des masses de solutions...
+Elfe	: Mais c'est ta combinaison qui n'est pas bonne !
+Nain	: Ha ouais ? Vas-y alors, t'as qu'à faire mieux !
+Ranger	: Et tu as oublié les pierres précieuses !
+Nain	: Ha !
+Elfe	: Mais là franchement... j'ai pas d'idée !
+Aztoona	: Bonjour tout le monde !!
+Ranger	: (ensemble) Haaaaaa !
+Mago	: (ensemble) Haaaaaa !
+Nain	: (ensemble) Haaaaaa !
+Elfe	: (ensemble) Haaaaaa !
+Aztoona	: Besoin d'un coup de main ?
+Mago	: Par tous les sortilèges de Gzor ! Mais qu'est-ce que tu fais là ?
+<Djingle>
+voix off	: C'est dans l'épisode suivant que viendra cette révélation ! Pour l'instant, retrouvons Zangdar et Reivax, alors que la nuit s'approche de la terre de Fangh pour plonger sa population dans la noirceur des ténèbres nocturnes de la nuit. Les voilà prêts à prendre place à bord d'un engin volant... disons, grotesque.
+<Djingle>
+Reivax	: Maître, vous êtes sûr que...
+Zangdar	: Certain ! Nous allons partir au crépuscule, et ainsi bénéficier de l'effet de surprise !
+Reivax	: Ce n'est déjà pas facile de naviguer de jour avec un digireable...
+Zangdar	: Balivernes ! Est-ce que les gobelins sont prêts ?
+Gobelin 1	: Charabia
+Gobelin 2	: Charabia
+Reivax	: Euuh oui, on dirait !
+Zangdar	: Et nous avons des provisions et un équipement valable ?
+Reivax	: Oui, oui, tout à fait... je ne suis pas un amateur...
+Zangdar	: Alors qu'on lève l'ancre !
+Reivax	: Alors... éloignez-vous de la machine à vapeur... ils vont lancer la combustion...
+Gobelin 1	: Charabia
+Gobelin 2	: Charabia
+Zangdar	: A nous à conquête du ciel, ha ha ha ha !
+Gobelin 1	: youpiiiii !
+Gobelin 2	: youpiiiii !
+Zangdar	: Mais... Qu'est-ce que ceci !?
+Reivax	: Heu... le démarrage du moteur je suppose...
+Zangdar	: Impressionnant...
+Gobelin 1	: Charabia
+Reivax	: Hem... Il dit de pas vous appuyer sur cette manette...
+Zangdar	: Ha... c'est dangereux ?
+Reivax	: Je suppose que oui...
+Gobelin 2	: Charabia
+Reivax	: Ils attendent les ordres de direction !
+Zangdar	: Il faudrait peut-être détacher la corde qui nous relie au donjon ?
+Reivax	: Heuu oui... oui tout de suite ! Allez hop vous autres !
+Gobelin 1	: Charabia
+Gobelin 2	: Charabia
+Reivax	: Attention au décollage...
+Gobelin 1	: youpiiiii !
+Gobelin 2	: youpiiiii !
+Reivax	: Hooooooaaaaaaaaaaa !
+Zangdar	: Parfait ! Direction le Nord-Est maintenant !
+Gobelin 1	: Charabia
+Reivax	: D'accord... mais il faudra les aider pour la manoeuvre directionnelle...
+Zangdar	: Comment ? Qu'est-ce donc que cette nouvelle farce ?
+Reivax	: Oui c'est vrai ça... pourquoi donc ?
+Gobelin 2	: Charabia
+Reivax	: Ha oui, c'est ballot... en fait, il dit qu'il faut 4 personnes pour manoeuvrer l'engin, mais il n'y a pas de place pour des passagers... C'est un dirigeable de guerre, vous comprenez... alors nous devons participer à la manoeuvre.
+Zangdar	: Hum... hum... Bon, je vois que nous n'avons pas le choix ! Alors, j'attends !
+Gobelin 2	: Charabia
+Reivax	: Hola... heu... Alors ils vont pousser ces leviers, pendant que j'active les soufflets à l'arrière... et vous devez manoeuvrer heu.... les deux manettes, en tenant la poignée avec les dents et avec heu... le pied sur la pédale...
+Zangdar	: Comment ? Mais qu'est-ce que c'est que cette opération ?
+Reivax	: C'est ce qu'ils ont dit... et heu... je vous signale que le vent nous pousse dans la mauvaise direction...
+Zangdar	: Rhaaa.... quelle déshonneur ! En plus il y a au moins 8 manettes, 3 pédales et 5 poignées ! Comment savoir de quoi ils parlent !
+Reivax	: Et bien... avec les couleurs... il y a plein de couleurs...
+Zangdar	: Oui, alors donnez-nous les couleurs !
+Gobelin 2	: Charabia
+Gobelin 1	: Charabia
+Reivax	: Oui... ha ça c'est un problème hein...
+Zangdar	: Quel problème ? Allez parle !
+Reivax	: Les gobelins ne voient pas les couleurs, mais seulement des nuances de vert... alors le rouge, là, c'est du vert, et aussi le jaune ici, et heu... le violet également...
+Zangdar	: Damned ! Mais qu'est-ce qu'on va faire ?
+Gobelin 1	: Charabia
+Reivax	: Attention on y va ! Ils... ils poussent les leviers ! Je vais activer les soufflets !
+Zangdar	: Je ne suis pas prêt !
+Gobelin 1	: Charabia
+Reivax	: (parlant fort) Poussez la manette de couleur vert Zwify !
+Zangdar	: C'est quoi le vert Zwify !
+Reivax	: (parlant fort) Heuu... Zwify... c'est la rouge !
+Zangdar	: Voilà !
+Gobelin 1	: Charabia
+Reivax	: (parlant fort) Maintenant, la pédale verte Xarg... c'est la grise à mon avis !
+Zangdar	: A ton avis ! Bon, voilà !
+Gobelin 1	: Charabia
+Reivax	: (panique) Holala... (parlant fort) Heuu... la poignée vert Katol.. heu... mauve... et en même temps tirez la manette vert Yafalouz heuu... sans-doute la jaune !
+Zangdar	: (truc entre les dents) Putain de bordel !
+Gobelin 1	: Charabia
+Reivax	: Haaaaaaaaa !!!! Il dit que c'est pas la bonne !
+Gobelin	1 : Charabia discontinu (panique)
+Gobelin	2 : Charabia discontinu (panique)
+Zangdar	: (truc entre les dents) Qu'est-ce que vous foutez bande d'incapables !
+Reivax	: Haaaaaaaa nooonnnnn ! Lâchez la poignée !
+Zangdar	: M'tuh... Que se passe-t-il à la fin !
+Reivax	: Je ne comprends pas ce qu'ils disent ! C'est la panique !
+Zangdar	: Mais nous partons dans la mauvaise direction !
+Reivax	: Et en plus on se rapproche du sol !
+Gobelin	1 : Charabia (paniiiiiiiique)
+Gobelin	2 : Charabia (paniiiiiiiique)
+Reivax	: Ils disent qu'il ne faut jamais lâcher cette pedaaaaaaaaaaaaaaaaaaaahhhhhh !
+Zangdar	: Haaaaaaaaaaaaaaaa !
+Gobelin	1 : Haaaaaaaaaaaaaaaaaaaaaaaa !
+Gobelin	2 : Haaaaaaaaaaaaaaaaaaaaaaaa !
+
+

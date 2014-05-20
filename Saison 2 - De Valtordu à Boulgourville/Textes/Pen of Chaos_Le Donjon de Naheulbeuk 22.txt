@@ -1,0 +1,342 @@
+<djingle>
+Mago	: ha.... c'est bien chouette un bon feu !
+Paladin	: surtout quand on ne se fatigue pas pour l'allumer....
+Mago	: une petite fireball, et hop !
+Elfe	: je trouve ça un peu malsain....
+Ranger	: ça prouve au moins que les mago servent à quelque chose...
+Nain	: ha ha
+Mago	: c'est quoi cette allusion ?!
+Barbare	: quelqu'un a vu le saucisson ?
+Nain	: tiens !
+<bruit de passage de chose>
+Ranger	: Ouais... enfin j'espère qu'on ne va pas se faire repérer...
+Barbare	: repérer ?
+Nain	: bah... je me demande bien qui pourrait nous repérer dans ce coin paumé !
+Elfe	: on ne risque rien, dans la forêt je n'ai que des amis !
+Ranger	: toi peut-être... mais nous ?
+Nain	: je pense pas que les hommes-poireaux vont nous chercher, avec ce qu'on leur a collé...
+Barbare	: ouais, ha ha
+Nain	: pas facile de poursuivre quelqu'un avec deux jambes cassées hein ?? ha ha !!! hahaha !!
+Barbare	: ouais hahahaha !
+Ranger	: ha ha !!
+Elfe	: beuuuahhh....
+Ranger	: hey, je peux avoir le saucisson ?
+Barbare	: voilà
+Ranger	: cool !
+Elfe	: il ne reste que 3 jours de voyage, c'est super !
+Nain	: super... 3 jours à marcher au milieu des arbres ! Et puis je voudrais un bout de pain !
+Ranger	: tiens il est là
+Mago	: mais on aura des pièces d'or à l'arrivée !
+Nain	: ouais, évidemment... tiens d'ailleurs il faudrai qu'on reparle de cette histoire de partage...
+Ranger	: c'est plutôt facile... on divise la somme, et puis voilà, on est quittes ! (mâche)
+Nain	: alors là, ça m'étonnerait... je ne vois pas pourquoi le paladin aurait la même somme que les autres alors qu'il vient seulement d'arriver !
+Paladin	: comment ?
+Ranger	: (mâche) hum.....
+Mago	: c'est pas bête... tu ne veux pas me couper une tranche ?
+Nain	: hey... bon d'accord... le Paladin est avec nous, mais si on y réfléchit, il n'a même pas participé à la récupération de la statuette...
+Barbare	: ouais
+Elfe	: (loin) c'est toi qui parle de réfléchir ? Et je peux avoir les tomates ?
+Nain	: tiens les voilà !
+<jet de tomates>
+Elfe	: aieee ! Attention !
+Mago	: c'est vrai que sans la quête de la statuette...
+Nain	: hey, y'a une notion qui est vachement importante dans ce genre de cas, c'est la notion de prorata !
+Barbare	: hein ?
+Ogre	: huk ?
+Ranger	: prorata ?
+Nain	: ouais.... nous autres, les Nains, on compte beaucoup sur le prorata pour éviter les arnaques
+Mago	: je vois où tu veux en venir !
+Paladin	: heuuu... pas moi...
+Elfe	: moi non plus... mais je prendrai bien un morceau de pain
+Nain	: alors par exemple, imaginez qu'on calcule sa part au prorata du temps passé, en nombre de jours...
+Paladin	: et alors ?
+Nain	: étant donné qu'on a démarré la quête depuis environ 7 jours, et qu'il reste 3 jours, ça nous donne 10 jours d'aventure... (mâche, mâche)
+Mago	: c'est à peu près ça...
+Ranger	: je veux bien goûter du pâté de lapin là...
+Paladin	: moi aussi
+Barbare	: ouais tiens
+<bruit de passage de chose>
+Elfe	: (loin) le pauvre petit lapin !!
+Nain	: (mâche) ...et puisqu'il est arrivé en soirée, on pourrait arrondir à 30% d'une part, ce qui nous donne en gros 342 pièces d'or, huit pièces d'argent, 5 pièces de cuivre et 7 pièces de bronze
+Ranger	: et beh !
+Paladin	: tout cela va un peu vite...
+Barbare	: je peux récupérer le saucisson ?
+Ranger	: bien sûr
+Nain	: et par conséquent ça nous laisse une part de 1276 pièces d'or à chacun, avec une pièce d'argent et 9 pièces de cuivre
+Elfe	: holala !
+Paladin	: ça fait une grosse différence...
+Barbare	: il est chouette ce saucisson...
+Mago	: ouais... c'est meilleur que les ovaires d'ourse en gelée
+Ranger	: (mâche, mâche) tout de même.... je me méfie un peu .... Est-ce que c'est vraiment juste ?
+Nain	: et ben, pour que ça soit juste, il faudrait aussi défalquer l'ajustement négatif de 2% environ, puisque les journées raccourcissent étant donné que nous sommes à la fin de la décade des moissons tardives...
+Ogre	: holala......
+Ranger	: hola holaaaa.... stop ! ça devient compliqué tout ça...
+Mago	: carrément !
+Nain	: tiens, d'ailleurs, faites un peu tourner le pinard...
+Barbare	: et hop !
+Mago	: les prorata là... je suis en train de m'y perdre....
+Elfe	: on ne peut peux pas parler d'autre chose ?
+Nain	: mais non, c'est pas tout !! On peut aussi calculer au prorata du nombre de kilomètres parcourus, en tenant compte du coéfficient de dangerosité du milieu par rapport à une grille pré-établie sur la base de sections temporelles d'un quart de journée, à moins d'un gros problème dans les 3 jours qui restent on peut faire un moyenne qui reviendrait à un solde tout compris de 224 pièces d'or et 4 pièces d'argent pour le paladin...
+Paladin	: hey..... heu... ça diminue encore !
+Ranger	: pffffff...... ça va on a dit ! Et rends-moi la bouteille !
+Nain	: ouais, ouais...
+<bruit de bouteille>
+Barbare	: hey l'ogre.. passe-moi le jambon...
+Ogre	: takala !
+Barbare	: (dégoûté) putain t'es chiant !
+Ogre	: grouf zoulada !
+Nain	: (claquement de palais) évidemment, avec des calculs corrects... ça nous fait des plus grosses parts...
+Mago	: c'est une bonne chose, mais heuu.... faudrait pas que ça devienne compliqué...
+Nain	: c'est un simple compte de pourcentages !!?
+Elfe	: pfffffff
+Paladin	: (baille)
+Ranger	: quelqu'un veut finir les groins de porc confits ?
+Mago	: sans façon
+Elfe	: non merci !
+Ogre	: koopaing !!!
+Ranger	: tiens voilà... ça m'aurait étonné...
+Ogre	: glok !
+Nain	: (mâche...) j'y pense comme ça... si on applique le calcul à chaque membre du groupe, avec un émargement relatif au nombre d'ennemis tués, les énigmes résolues, la quantité d'objets utiles trouvés et... (coupe)
+Ranger	: et je suppose qu'on peut compter aussi la quantité de bière ingurgitée ?
+Mago	: et on peut soustraire aussi un malus relatif à l'odeur des pieds ?
+Nain	: ah... faut voir...
+Ranger	: y'avait pas du fromage ?
+Ogre	: takala tol dak et splati mourk
+Elfe	: quoi ?
+Mago	: il dit qu'il comprend rien et que ça lui donne envie de frapper des gens
+Ranger	: bah on va peut-être s'arrêter là. Et puis J'ai retrouvé le claquos...
+Elfe	: (loin) beuuuahhhrr
+Nain	: on fera les calculs à l'arrivée
+Mago	: surtout qu'on a oublié de retirer les pièces d'or qu'on doit donner à la guerrière !
+Ranger	: (mâche, mâche) ha zut, j'avais oublié ça !
+Nain	: ha misère !! Il faut que je recommence tout !
+Mago	: (ensemble) ha non !
+Barbare	: (ensemble) ta gueule maintenant !
+Elfe	: (ensemble) ah non hein !
+Ranger	: bah... on va bien trouver une combine pour éviter de la payer !
+Barbare	: mouais...
+Nain	: 3000 pièces d'or, ça c'est pas rien !
+Elfe	: vous croyez qu'on gagnera autant d'argent quand on sera tous de niveau 8 ?
+Ranger	: bahh.... euh pffff
+Mago	: faudrait déjà que certains arrivent au niveau 2...
+Nain	: ouais bah ça va maintenant hein !
+Elfe	: hahhaaahaaha....
+Nain	: et puis il est où le fromage ?!
+Ogre	: zlipo eto takala glazdok
+Mago	: il propose de dormir et d'arrêter de raconter des conneries
+Paladin	: excellente idée ! Mais comment s'organisent les tours de garde ?
+Ranger	: les tours de garde ?
+Barbare	: quoi ?
+Nain	: où est-ce que tu vois une tour toi ?
+Paladin	: normalement, quand on dort dans un endroit non sécurisé, quelqu'un doit resté réveillé pour prévenir les autres du danger
+Nain	: ha bah, nous on n'a jamais fait ça !
+Paladin	: en tout cas, c'est ce qu'on dit dans les manuels de gestion de groupe d'aventuriers
+Barbare	: c'est des conneries
+Elfe	: mais... si jamais on nous attaque ?
+Ranger	: les pieds du barbare suffisent en général à éloigner les pires créatures...
+Barbare	: humpf...
+Paladin	: et bien, ça veut quand-même dire que quelqu'un doit rester réveillé
+Mago	: moi j'aurai pas confiance... t'es quand même un paladin du dieu du sommeil...
+Ranger	: ouais, ça m'étonnerait que tu restes éveillé longtemps...
+Paladin	: en fait, je suis aspirant paladin. Mais c'est globalement pareil... sauf que vous voyez, voilà, je ne suis pas vraiment paladin
+Nain	: (loin) aspirant ? Comme les trucs à poussière ?
+Mago	: (loin) mais non....
+Paladin	: je dois posséder une relique pour être vraiment paladin... avant je suis seulement un apprenti
+Nain	: et bah moi, je peux pas faire confiance à l'elfe ! Elle va apprivoiser des renards qui viendront pisser sur mon sac !
+Elfe	: et toi, je suis sûr que tu vas en profiter nous piquer notre argent !
+Ranger	: et l'ogre... s'il reste éveillé, il va dévorer nos provisions
+Mago	: quand il s'ennuie, ça lui donne faim...
+Ogre	: golo
+Elfe	: enfin lui au moins, il ne mettra pas ses mains dans ma culotte !
+Ranger	: ho mais... mais non !!
+Mago	: finalement, on ne peut compter sur personne !
+Paladin	: vous êtes vraiment compliqués vous...
+Ranger	: et ben, si c'est comme ça, on n'a qu'à se dire bonne nuit ! Voilà....
+Nain	: et vos tours de garde, je me torche avec !
+<transition>
+Voix off	: le lendemain à l'aube, nos amis rejoignent enfin la forêt de Schlipak. Après quelques rencontres sanglantes avec des écureuils, et plusieurs histoires sans intérêt racontées par l'elfe, ils arrivent à l'entrée du chemin de l'oubli...
+<musique>
+<transition - kilomètres>
+Voix off	: 6 kilomètres
+Mago	: alors voilà... ici ça va devenir compliqué !
+Ranger	: le chemin de l'oubli...
+<musique suspense>
+Nain	: ça ressemble à n'importe quel sentier pourri !
+Mago	: l'endroit a été ensorcelé par des elfes maléfiques, il y a bien longtemps
+Elfe	: des elfes maléfiques ?
+Nain	: (loin) ça fait un peu pléonasme...
+Mago	: Ce chemin est dangereux ! Nombreux sont les gens qui ont disparu en le traversant !
+Barbare	: y'a des monstres ?
+Nain	: des créatures à buter ?
+Mago	: pas du tout... il est ensorcelé pour effacer la mémoire
+Ogre	: huk ?
+Ranger	: (goguenard) he ben, heh, on dirait que c'est pas si méchant ?
+Barbare	: c'est nul !
+Mago	: faut pas croire ça... celui qui reste trop longtemps ici peut même oublier comment marcher !
+Elfe	: mais.... comment ça se fait ?
+Mago	: la zone ensorcelée efface les derniers évènements dans ta mémoire, puis elle remonte de plus en plus loin
+Nain	: ça m'arrangerait d'oublier que j'ai rencontré l'elfe...
+Elfe	: toi t'es trop nase !
+Nain	: he he....
+Ranger	: ça craint ça... c'est encore une combine de sorcier à deux ronds !
+Elfe	: comment on va faire ?
+Mago	: ha ha ! Mais justement, j'ai retrouvé mes notes de cours, qui expliquent comment traverser le chemin de l'oubli !
+Ranger	: et alors ?
+Mago	: alors j'ai pris des notes, sur ce parchemin ! Ca nous permettra de ne pas oublier les évènements récents, et d'arriver jusqu'au bout
+Barbare	: on y va maintenant ??!
+Elfe	: c'est bizarre !
+Mago	: ça conjure le sort à chaque fois qu'on retrouve la mémoire
+Paladin	: et le chemin... y'en a pour longtemps ?
+Mago	: logiquement, pas trop... la zone ensorcelée fait seulement 4 kilomètres
+Nain	: par les enclumes de Throd, j'en ai déjà marre !
+Ranger	: bon, et bien, c'est parti !
+<transition>
+Nain	: on ne sent pas trop les effets de la sorcellerie...
+Elfe	: ça fait seulement un kilomètre qu'on marche...
+Ogre	: akala miammiam
+Mago	: tout va bien... il n'a pas oublié qu'il a faim
+Paladin	: hin hin.... peut-être que mon pouvoir de paladin nous immunise ?
+Ranger	: nous immunise contre quoi ?
+Paladin	: heuu... humm.... je ne sais pas...
+Elfe	: contre le pouvoir du chemin de l'oubli !
+Nain	: c'est quoi ?
+Elfe	: heuu... c'est quoi quoi ?
+Nain	: bah, le chemin là, dont tu parlais ?
+Elfe	: quel chemin ?
+Nain	: je sais pas moi ! Pourquoi tu dis ça !
+Ranger	: hey vous deux là ! Qu'est-ce qui se passe encore ?
+Nain	: qu'est-ce qu'il veut lui !
+Mago	: laisse... ils étaient en train d'oublier !
+Ranger	: d'oublier quoi ?
+Nain	: (loin) c'est vrai quoi ! Il fait chier lui !
+Mago	: le chemin de l'oubli !
+Barbare	: hein ?
+Ranger	: le quoi ?
+Mago	: holala... faut pas oublier ça sinon on est foutus !
+Paladin	: vous savez que votre conversation n'a aucun sens ?
+Mago	: monsieur, je ne vous ai pas parlé !
+Paladin	: pardon ?
+Mago	: et puis arrêtez de nous suivre !
+Paladin	: mais heuu....
+Ranger	: mais c'est le paladin, il est avec nous !
+Mago	: ha bon ?
+Ranger	: hey tu perds la boule ou quoi ???
+Mago	: heuu bahh je...
+Barbare	: vous allez vous calmer ?
+Ranger	: mais c'est pas moi ! rhaa !
+Paladin	: je pense que nous sommes sous l'emprise du maléfice....
+Elfe	: quel maléfice ?
+Ogre	: glouk ?
+Mago	: mais j'en sais rien moi !! Puis laissez-moi tranquille vous tous !
+Paladin	: (soupir)
+Nain	: (loin) un jour, mon ancêtre Gurdil, fut envoyé creuser dans la forêt... talalalaaaaa.... talalalalalaaaaaaaaa
+Elfe	: bah on aura tout vu...
+Ranger	: le Nain se met à chanter
+Barbare	: c'est pas d'bol....
+Elfe	: et d'abord, qu'est-ce qu'un nain fait dans ma forêt ?
+Ranger	: mais depuis quand c'est ta forêt ici ?
+Nain	: (loin.... continue la chanson....)
+Elfe	: je ne sais pas.... je suppose que c'est ma forêt
+Barbare	: hey vous allez me lâcher là ?
+Elfe	: de toutes façons, moi je vais m'arrêter là, je ne sais pas pourquoi je marche avec vous !
+Mago	: moi non plus ! Et vous faites beaucoup de bruit !
+Barbare	: allez, j'me casse !
+<déplacement barbare forêt>
+Ranger	: j'ai l'impression d'avoir perdu quelque chose...
+Paladin	: madame, vous avez un papier qui dépasse de votre poche....
+Mago	: (étonnée) ha oui....
+Mago	: tiens mais... c'est mon écriture... ça... PUTAIN DE SALOPERIE !
+<event suspense>
+Ranger	: quoi ?
+Paladin	: je vous en prie, soyez polie !
+Mago	: on est dans le chemin de l'oubli !!
+Paladin	: et alors ?
+Mago	: nous sommes une compagnie en route vers Boulgourville !
+Ranger	: mais qui ça nous ?
+Mago	: souvenez-vous !! Allez !!! La Compagnie !
+Elfe	: ha oui, ça me revient !
+Ranger	: mais oui.... la statuette !! Le Nain super chiant !
+Elfe	: et les bottes du Barbare qui puent !
+Mago	: et l'ogre... bon sang il est parti !
+Ranger	: hhhaaaa mince !
+Paladin	: le Nain et le Barbare aussi....
+Mago	: leur mémoire va s'effacer complètement !
+Ranger	: rattrapez-les vite !!! hé hooooo !! Revenez bande d'abrutis !!!
+Mago	: ha ben on mal barrés....
+Ranger	: (s'éloignant) reveneeeeeeeezzzzz !!!! reveneeeeeez reveneeeeeez
+<djingle de fin grave et horrible>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

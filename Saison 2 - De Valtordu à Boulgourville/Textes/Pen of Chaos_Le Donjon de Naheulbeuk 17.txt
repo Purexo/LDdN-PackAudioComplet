@@ -1,0 +1,525 @@
+<ambiance intro>
+Voix off	: La taverne de Valtordu offre de nombreux divertissements. Après une soirée forte en chansons et musiques, plusieurs cornets de frites et une répétition elfique, nos aventuriers passent une nuit sans histoire, dans la chaleur douillette d'une paillasse infestée de puces. Nos vaillants compagnons reprennent la route au matin, se dirigeant à présent vers la cité perdue de Boulgourville, pour un voyage de plus de 200 kilomètres à travers la campagne.
+Ranger	: (ensemble) Quoi ?
+Nain	: (ensemble) Quoi ?
+Menestrel	: (ensemble) Quoi ?
+Elfe	: 200 kilomètres ?
+Mago	: bah oui, c'est un calcul réaliste
+Ranger	: attends attends... fais voir la carte...
+Mago	: si on marche 30 kilomètres par jour, on peut parcourir les 210 kilomètres en 7 jours
+Barbare	: facile
+Nain	: tu dis ça parce que t'as des grandes jambes !
+Ranger	: bon, d'abord j'aimerai savoir où nous sommes...
+Mago	: ici, c'est Valtordu, au sud-est
+Ranger	: d'accord
+Mago	: la ville qui n'est pas sur la carte est au nord de l'embranchement du fleuve Elibed
+Menestrel	: ha, c'est pour ça qu'on doit traverser cette fameuse forêt !
+Mago	: Exactement ! La route principale du nord passe par la ville de Mliuej, mais ça nous rallonge le voyage
+Nain	: Hey hey, moi je connais Mlieuj, c'est près des montagnes !
+Elfe	: (petasse) he ben justement, on y va pas !
+Nain	: (loin) ha merde
+Mago	: nous allons passer au nord du lac de Zblouf, et couper à travers la forêt par le chemin de l'oubli
+Ranger	: le chemin de l'oubli ? Tu sais pourquoi il s'appelle comme ça ?
+Mago	: baheuu... j'ai oublié
+Barbare	: bon alors on y va ?
+Ogre	: eto miammiam forlaa clog
+Mago	: il dit qu'on doit prendre des provisions pour la route
+Nain	: ouais t'inquiètes pas on a ce qu'il faut !
+Menestrel	: nous avons au moins 2 villes sur la route pour le ravitaillement
+Elfe	: et moi je pourrai vous trouver à manger dans la forêt !?
+Nain	: ah ouais, du genre... salade de fougères ?
+Ogre	: holalaa
+Barbare	: (agacé) on y va maintenant ?
+Ranger	: allez, en route !
+<bruit de course du barbare on>
+Nain	: (ensemble) hey !
+Mago	: (ensemble) ho !
+Elfe	: (ensemble) qu'est-ce qu'il fait ?
+Ranger	: heho, arrêtes-toi !
+Barbare	: (loin) alors vous avancez ?
+Ranger	: mais... pourquoi tu cours ?
+Barbare	: (loin) je voyage toujours comme ça !
+Mago	: he ben, il va falloir te calmer !
+Ogre	: glouk
+Nain	: ouais, moi j'ai vraiment pas envie de courir !
+Menestrel	: moi non plus, c'est vraiment... bestial !
+Barbare	: (loin) hoooo, les tarlouuuuuzes !
+Ranger	: allez, on y va en marchant, comme tout le monde
+<déplacement groupe sentier ON>
+Barbare	: c'est lourd...
+Menestrel	: haut les coeurs les amis, car au bout du voyage nous attendent 8000 pièces chatoyantes
+Nain	: et des ampoules au pieds
+Elfe	: moi j'ai des bottes de marche elfiques !
+Ranger	: et alors ?
+Elfe	: elles sont enchantées pour éviter les ampoules et rafraichir les pieds
+Barbare	: cool
+Nain	: (insistant) bah moi j'ai des bottes naines !
+Mago	: elles ont un pouvoir spécial aussi ?
+Nain	: elles sont très bien pour botter le cul des elfes !
+Ranger	: pffffffff
+Elfe	: ha, mais vraiment !!!
+Menestrel	: (soupirant) misère et humour pourri, nous voilà bien mal partis
+<transition>
+Voix off	: afin de vous éviter les commentaires de voyage durant les nombreux kilomètres qu'il nous reste à parcourir, nous allons sauter directement d'un évènement à l'autre de la façon suivante :
+<transition>
+Ranger	: stop !
+<keskya>
+Ranger	: bah rien, mais je pense qu'on pourrait faire une petite pause !
+Menestrel	: oui, et profitons de l'ombre de ce bosquet
+Nain	: bonne idée ! J'ai mal aux genoux !
+Elfe	: il y a même une petite rivière !
+Mago	: j'ai chaud
+Barbare	: j'ai soif
+Ranger	: j'ai faim
+Ogre	: golooooooooooo !
+Elfe	: j'ai mal à la tête
+Menestrel	: (théâtral) moi, j'ai une soudaine envie de chanter une histoire de voyage !
+<guitare>
+Ranger	: (mesquin) ce serait bien si t'allais chanter sur la colline, là-bas
+Nain	: (ensemble) ouais !
+Barbare	: (ensemble) ouais !
+Menestrel	: bien, je suppose que la fatigue vous empêche d'apprécier la musique ?
+Nain	: c'est ça ouais
+Menestrel	: (soupir) alors, je vais jouer... sur la colline !
+Ranger	: bonne idée
+<menestrel s'éloigne en chantonnant>
+Menestrel	: (chanson) j'aime la route et les chemins, sentir la rosée du matin
+Ogre	: akala volo
+Ranger	: et l'ogre aussi, ça nous fera des vacances
+Menestrel	: (chanson) et bientôt, au bout du voyage, on pourra poser nos bagages...
+Mago	: je vais me changer, la robe de Tholsadum n'est pas prévue pour marcher au soleil
+Nain	: ça doit être à cause de la fonction chauffante ! he he
+Ranger	: (soupir) ha... s'asseoir un peu dans l'herbe
+Nain	: j'en ai marre du soleil
+Elfe	: et qu'est-ce que je fais moi ?
+Nain	: si tu faisais un peu de silence, ça serait super
+Barbare	: ouais
+Elfe	: maisheuu vous êtes méchants !
+Ranger	: dites, ce serait possible de se reposer tranquillement ?
+Nain	: (loin) ouais ouais, ça va...
+Barbare	: ho, vous êtes chiants !
+Elfe	: j'ai trouvé, je vais me rafraichir dans la rivière
+Ranger	: humm... c'est vrai que ça donne envie d'y tremper les pieds !
+Elfe	: hi hi... mais pourquoi tremper ses pieds alors qu'on peut s'y baigner complètement ?
+Ranger	: j'ai pas envie de voyager avec des vêtements trempés !
+Elfe	: halala... t'es vraiment pas dégourdi ! Il suffit de les enlever !
+Barbare	: (ensemble) heiiin ?
+Nain	: (ensemble) quoi ?
+Ranger	: (ensemble) les enlever ???
+Elfe	: evidemment ! Vous prenez toujours des bains avec vos habits ?
+Barbare	: heuuu
+Nain	: bahhhhh
+Ranger	: ben non mais....
+Elfe	: je vais poser mes vêtements ici
+Ranger	: (rire jaune) heh heh...tu vas... tu vas
+Nain	: elle va poser ses vêtements ?
+Elfe	: l'eau est tellement claire, ce serait dommage de ne pas en profiter
+Nain	: bahhhhheuuu
+Barbare	: ouais, c'est vrai
+Elfe	: je meurs d'envie de sentir cette fraicheur
+Ranger	: (echo) bon sang, elle enlève sa tunique !
+<chbouing chbouing>
+Barbare	: wow
+Nain	: hahem.. keuf keuf...
+Barbare	: heu... je vais boire un coup
+Ranger	: (echo) quand je pense qu'elle est seulement niveau 2...
+Nain	: quelqu'un a vu ma hache ?
+Elfe	: nananananaaaa....
+Barbare	: (recrache) phtaeuuF... keuff keuff
+Ranger	: (echo) elle enlève sa jupe !
+Nain	: he ho !
+Elfe	: le soleil est magnifique
+Ranger	: oui heu... c'est bien pour la saison hein ? hahem...
+Barbare	: extra !
+Nain	: et heu... vous allez m'écouter ? Je cherche ma hache
+Barbare	: c'est mon sac que tu fouilles
+Nain	: ah !
+Ranger	: (echo) non, c'est pas possible... elle enlève même... (inspiration)
+<bruit d'élastique>
+Barbare	: Crom !!
+Nain	 : bon sang mais
+Elfe	: (s'étire) hum... c'est bon d'offrir son corps à la nature !
+Ranger	: (entre ses dents) moi je suis plutôt de nature à m'offrir son corps !
+Barbare	: attention, tu penses vachement fort
+Ranger	: pas grave, elle a rien entendu !
+Elfe	: vous ne voulez pas venir ?
+Ranger	: (ensemble) nan nan, ça va
+Barbare	: (ensemble) ça va...
+Nain	: (ensemble) nananananan on est bien dans l'herbe
+Elfe	: je vais dans l'eau, à tout à l'heure !
+Barbare	: (ensemble) ouais, ouais
+Ranger	: (ensemble) amuses-toi bien !
+Elfe	: (s'éloigne) naaanaananaanaaaaaaaaan ananana (an anfrey enan han)
+Barbare	: hahem...
+Nain	: hey, vous avez pas vu ma hache ?
+<bruits de baignade on>
+Ranger	: (sifflote)  (an anfrey enan han)
+Nain	: he ben...
+Ranger	: (sifflote)  (an anfrey enan han)
+Nain	: c'est dingue, je pensais l'avoir posée ici pourtant !
+Barbare	: j'ai la bouche un peu sèche.
+Ranger	: ouais, moi aussi
+Barbare	: c'est... à cause du vent.
+Ranger	: ouais... sans doute... 
+Barbare	: haham...
+Nain	: une hache toute neuve, j'espère qu'elle est pas tombée sur la route !
+Ranger	: (soupir) c'est... c'est original ces culottes heuu.. elfiques, avec un genre de ficelle derrière
+Barbare	: ouais, ouais
+Nain	: heu... ouais peut-être
+Ranger	: (soupir) ça... ça doit être bien pour heu... bronzer !
+Barbare	: ouais
+Nain	: moi je m'en fous des trucs elfiques !
+Elfe	: (loin) alors, vous venez ??
+Ranger	: (ensemble) ha, quelle cochonne !
+Barbare	: (ensemble) ha, la ribaude !
+Nain	: (ensemble) ha, la salope !
+Mago	: (approchant par l'arrière) et bien, qu'est-ce qui se passe ici ?
+Barbare	: (ensemble) hahummm...
+Nain	: (ensemble) keufff keufff...
+Ranger	: (ensemble) Heu... rien... on a vu... un écureuil !
+Mago	: un écureuil...
+Nain	: ouais !
+Mago	: et ben... c'est pour ça que vous êtes tout rouges ?
+Nain	: heu... non, c'est à cause heuu.. du soleil !
+Ranger	: c'est l'air de la campagne
+Mago	: he bien, en tout cas, c'est l'heure de manger
+Ogre	: golooooooooo
+Nain	: justement, le morfale est de retour !
+Mago	: mais... au fait, ou est passée l'elfe ?
+<transition>
+Voix off	: après un bivouac d'une heure, comprenant les 30 minutes nécessaires à l'elfe pour repeigner ses cheveux, le groupe reprend la route vers le nord.
+<transition>
+Nain	: arrrrrrrrrrêtez !
+<keskya>
+Nain	: j'en peux plus ! J'ai trop mal aux pieds !
+Barbare	: ho, la chochotte...
+Ranger	: il a raison, c'est le moment de s'arrêter
+Mago	: je crois qu'on a parcouru une bonne distance, on peut monter un campement
+Ogre	: glouk !
+Menestrel	: regardez les amis, on peut voir une cabane délabrée un peu plus loin
+Elfe	: on pourrait y passer la nuit ??
+Ranger	: tout à fait, allons-y !
+Mago	: je me demande à quoi sert cette cabane...
+Nain	: et qui pourrait être assez con pour construire une maison ici !
+Vieillard	: (loin) hola, voyageurs !
+<tadaaaa>
+Ranger	: haaa ???
+Menestrel	: bonsoir, noble vieillard !
+Barbare	: ouais, salut !
+Mago	: bonsoir !
+Vieillard	: (s'approchant) que venez-vous faire sur le territoire du vieux Gildas ?
+Ranger	: heu... je... je sais pas, c'est qui ?
+Vieillard	: il est en face de vous en c'moment même !
+Elfe	: mais alors, c'est vous ?
+Vieillard	: cette jeune fille est très habile !
+Mago	: nous pensions que cette cabane était abandonnée...
+Menestrel	: ...et pour tout dire, nous voulions y passer la nuit !
+Vieillard	: ha... mais non, mais non... c'est la maison du vieux Gildas !
+Ranger	: je suppose que vous n'allez pas nous inviter à... dormir chez vous ?
+Vieillard	: c'est vrai ! je suis un vieil ermite, et je ne cherche pas la compagnie des humains
+Nain	: (loin) ha, merde
+Menestrel	: et bien ce n'est pas grave mon ami, nous allons heuuain (coupe) ?
+Barbare	: (coupe) ATTENTION !!!
+Vieillard	: hein ??
+Mago	: quoi ?
+Ranger	: keskiya ?
+Nain	: heeeein ??
+<2 pas>
+<wooosh + coup gib>
+Vieillard	: harrrrrrrrghh nooon
+Elfe	: (ensemble) qu'est-ce qu'il fait !
+Ranger	: (ensemble) arrête !
+Barbare	: yaaaaaaaaghhhh
+<wooosh + coup + more gibs>
+Vieillard	: harrrrrrrrghhllllll !
+Ranger	: (ensemble) he hooooooooo !
+Mago	: (ensemble) il est taré !
+<chute vieil homme>
+Barbare	: ouaiis !
+Elfe	: (ensemble) quelle horreur !
+Ranger	: (ensemble) mais ca va pas t'es dingue !
+Barbare	: he, du calme !
+Menestrel	: ce comportement est intolérable !
+Ogre	: glok
+Barbare	: il voulait nous attaquer !
+Nain	: (ensemble) ha bon ?
+Menestrel	: (ensemble) ha bon ?
+Ranger	: mais non, c'est n'importe quoi !
+Elfe	: tu n'est qu'une brute !
+Mago	: pourquoi un vieil homme seul nous attaquerait ?
+Barbare	: c'est un sorcier !
+Nain	: un sorcier ?
+Barbare	: il a touché son baton pour nous ensorceler !
+Mago	: mais non, si c'était un sorcier, j'aurai senti son aura magique
+Barbare	: ha bon ?
+Mago	: bah oui, évidemment !
+Ogre	: huh huh huh
+Barbare	: bon, bah tant pis.
+Ranger	: comment ça tant pis !
+Barbare	: c'est trop tard
+Nain	: il a raison ! Et puis comme ça, on sait ou dormir ce soir !
+Ranger	: ha, mais je rêve !
+Mago	: hey, c'est vrai, tout le monde peut faire des erreurs
+Ranger	: des erreurs ?
+Elfe	: le pauvre homme !
+Barbare	: ho he...
+Nain	: c'est bon, vous allez pas nous en chier un sablier !
+Ranger	: mais vous vous rendez compte un peu, on vient de massacrer un innocent !
+Elfe	: (loin) bouhouhouuhh....
+Barbare	: whoh... c'est pas sûr...
+Nain	: il avait peut-être l'intention de nous détrousser pendant la nuit ?
+Menestrel	: on ne le saura jamais...
+Elfe	: (loin) bouhouhouuhh....
+Nain	: ouais, mais comme ça on risque rien !
+Ogre	: miammiam zaloss ?
+Ranger	: et qu'est-ce qu'il veut lui ?
+Mago	: il demande l'autorisation de manger les jambes de l'ermite
+Ranger	: raaaahh !!
+Elfe	: (loin) bouhouhouuhh....
+<djingle fin>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

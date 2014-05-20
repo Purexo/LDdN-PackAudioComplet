@@ -1,0 +1,388 @@
+<intro>
+<ambiance ronflements>
+<oiseaux légers>
+Ranger	: (baille)
+Mago	: alors, bien dormi ?
+Ranger	: si on oublie l'odeur des bottes du barbare, c'était pas mal
+Mago	: hey au moins t'as de la chance, le nain n'est pas venu te marcher dessus pendant la nuit
+<page de parchemin>
+Nain	: y fallait que j'aille pisser !
+Mago	: mais tu pouvais y aller en ouvrant les yeux !
+Nain	: c'est pas facile
+Ranger	: (soupir) ha bah, il est réveillé aussi...
+<page de parchemin>
+Nain	: évidemment que je suis réveillé, avec ces saloperies d'oiseaux qui crient dehors
+Ranger	: (soupir) j'arrive pas à croire que tu râles alors que t'es même pas encore levé
+<bruit de duvet>
+Menestrel	: dites, ce serait possible de dormir en paix ?
+Ranger	: ouais, ouais...
+Mago	: et moi j'aimerai bien réviser mes sorts
+<page de parchemin>
+Nain	: je vois pas pourquoi on laisserait dormir tous ces faineants
+Mago	: il est sans doute encore très tôt
+Nain	: ouais, bah tiens tu vas voir je vais les réveiller moi !
+Menestrel	: s'il vous plait... ?
+Ranger	: hey, mais...
+Nain	: voilà, avec le tambourin ça va être marrant
+<bruit de tambourin>
+<mouvement : le nain se lève>
+Mago	: (ensemble) mais qu'est-ce qu'il fait encore ?!
+Ranger	: ha, je le sens mal...
+Ranger	: (ensemble) ha... putain !
+Mago	: (ensemble) ha merdeuuh !
+<déplacement + jouer du tambourin>
+Nain	: (ensemble) il est six heures trente du matin, et tout va bien !
+Ranger	: (ensemble) heyyy !
+Mago	: (ensemble) ho, merde !
+Nain	: tralalalaaaaaaaaa !
+<bruits de duvets>
+Barbare	: (ensemble) hummfff.... heuu... arghh...
+Ogre	: (ensemble) takala ! takalaaaaaa !
+Elfe	: (ensemble) ouiiiiiii ? hein ? QUoi ? On nous attaque ?
+Ranger	: lâche ça !
+Nain	: Reveillez-vouuuuuuuus !!
+Ranger	: mais... tu vas t'arrêter oui ?
+Barbare	: ecrase un peu !
+<jouer du tambourin off>
+Elfe	: mais qu'est-ce que c'est ?
+Ranger	: rien, c'est le nain qui pourrit la vie
+Nain	: hahaha ! J'ai réussi !
+Barbare	: connard !
+Menestrel	: quel abruti !
+Ogre	: golo...
+Nain	: bon !, c'est l'heure du petit déjeuner  !
+<le nain se frotte les mains>
+Barbare	: tiens !
+<coup + douleur nain>
+Nain	: hey oh !!! qu'est-ce qui te prend !
+Barbare	: ça c'est ce qu'on appelle un petit déjeuner barbare
+Ranger	: (ensemble) hahaha !
+Mago	: ouais !
+Elfe	: (ensemble) hi hi hi hee !!
+Ogre	: huh huh
+<transition>
+Voix off : une heure plus tard, et après un bon petit déjeuner (Nain : tu parles!) notre groupe abandonne son logis temporaire pour une seconde journée de voyage
+<transition>
+<oiseaux>
+Mago	: j'ai bien fouillé la cabane de l'ermite, mais je n'ai trouvé aucun article magique
+Menestrel	: ho.... il n'y avait pas d'instruments de musique
+Nain	: et y'avait aucun objet précieux ! pfff...
+Barbare	: et pas d'armes
+Ranger	: et rien à manger...
+Ogre	: huh huh
+Ranger	: qu'est-ce qui te fait rire toi ?!
+Ogre	: miammiam zaloss dalouk ! huh huh !
+Mago	: il trouve ça drôle parce que justement il a mangé la moitié de l'ermite
+Ranger	: pff, c'est malin !
+Elfe	: moi je ne serai pas fier à sa place
+Menestrel	: mais toi, tu ne manges pas les gens !
+Ogre	: huh huh
+Ranger	: ok ok... on va oublier tout ça, il faut y aller maintenant !
+Mago	: on a encore plusieurs jours de voyage
+Menestrel	: allons... quelle est notre direction ?
+Mago	: nous sommes au sud-ouest, donc il faut monter vers le nord-est
+Menestrel	: d'accord !
+Nain	: hey... mais hier t'as dit qu'on était au sud-est !
+Ranger	: oui, c'est vrai !
+Mago	: ha bon ?
+Nain	: ouais, je m'en rappelle bien !
+Barbare	: ouaip !
+Mago	: ha, oui c'est possible..., Je confonds tout le temps les directions !
+Ranger	: (ensemble) quoi ?
+Nain	: (ensemble) quoi ?
+Elfe	: (ensemble) quoi ?
+Barbare	: (ensemble) quoi ?
+Ranger	: c'est maintenant que tu nous le dis ?
+Menestrel	: mais rassures-moi, on a pas marché dans le mauvais sens ?
+Barbare	: parce que sinon, ça va chier
+Mago	: bah heuu... en fait non, parce que j'ai aussi inversé la direction à prendre ! ha ha !
+Ranger	: et alors ?
+Mago	: ça veut dire qu'on est sur le bon chemin !
+Ranger	: (satisfait) ha !
+Elfe	: (soupir) j'ai failli m'évanouir !
+Nain	: (loin) c'est n'importe quoi !
+Ranger	: bon, files-moi la carte !!
+Mago	: t'es sûr ? Parce que... (coupé)
+Ranger	: évidemment ! On ne va pas se laisser guider par quelqu'un qui confond les directions !
+Mago	: mais, vous savez que... (coupé)
+Barbare	: (ensemble) donne la carte !
+Nain	: (ensemble) donne la carte !
+Menestrel	: (ensemble) donne la carte !
+Mago	: (agacée) ça va, ça va...
+<bruit carte>
+Nain	: bon, c'est par là, on y va !
+<transition>
+Voix off	: puisque le groupe entre à présent dans un territoire sauvage, nous devons faire un jet dans la table des rencontres
+<suspense>
+<bruit de dés>
+Voix off	: 14. hum...hum... ! Bon, et bien, c'est dommage
+Accélération : 6 kilomètres
+<transition>
+Ranger	: (terrifié) stop !
+<keskya>
+Ranger	: (terrifié) regardez ! Une grande créature vient de sortir de derrière un rocher, là-bas !
+Nain	: beuark !
+Elfe	: (terrifiée) mais ... mais... c'est gigantesque !
+<cri troll 1>
+Ranger	: (paniqué) mais qu'est-ce qu'on va faire ??
+Barbare	: On va le cogner !
+Mago	: arrêtes, tu ne peux pas l'attaquer !
+Barbare	: pourquoi !
+Mago	: c'est un troll géant des collines, berserk et il est armé d'une double mortensen !
+<cri troll 2>
+Barbare	: houa.. et qu'est-ce que ça change ?!
+Mago	: ça change ton espérance de vie, banane !
+Barbare	: hoooo...... pffffffffffffffff
+Ranger	: laissez tomber ! on va le contourner !
+Nain	: je suggère qu'on lui ligote les pieds et qu'on lui jette du sable dans les yeux, pendant ce temps je lui donne des coups de hache dans les genoux et la magicienne lui lance des boules de feu, et le ménestrel...
+Ranger	: hola, du calme avec les plans foireux !
+Mago	: trop tard, il nous a vu  !
+Ogre	: glok !
+<cri troll plus fort 3>
+<ambiant bataille montante>
+Ranger	: merde !
+Elfe	: construisons un mur avec des buissons et on pourra se cacher derrière !
+<bruits de pas trolls lointains>
+Mago	: mais non c'est trop tard je vous dit qu'il nous a vu !
+Menestrel	: vite ! Il vient vers nous !
+Nain	: (s'éloignant) ou alors on creuse une tranchée et on met des branchages dessus pour faire un piège....
+Barbare	: non !
+Mago	: alleeez ! foutons le camp !
+<dégaine>
+Barbare	: moi j'attaque !
+Ranger	: ha maisnoooooon !!!! il faut se replier et trouver un plan !
+Nain	: (loin) ou alors on pourrait fabriquer une catapulte
+Menestrel	: mes amis, il n'y a qu'un seul moyen de s'en sortir : la musique !
+<guitare>
+<déplacement menestrel>
+Mago	: quoi ?
+Elfe	: je vais préparer mon arc ! c'est trop tard pour le plan !
+Ranger	: vous êtes dingues, il fait au moins cinq mètres !
+Mago	: non, il fait 3 m 14
+Ogre	: wagago ! wagago !
+Barbare	: allez, approche !
+<woossh wosssh>
+Mago	: je vais pouvoir essayer la flèche d'acide !!! yaaaaaaaahaaaa !!
+Ranger	: mais qu'est-ce qu'il fout le ménestrel !!!
+<fin musique bataille>
+<guitare on>
+Menestrel	: gentil troll, gentil troll....
+<cri de troll étonné>
+Menestrel	: laisse mes amis passer leur chemin...
+Ranger	: (ensemble) ho non....
+Elfe	: (ensemble) incroyable...
+<grognement troll léger>
+Menestrel	: nous sommes de joyeux compagnons...
+Ranger	: on dirait que ça marche !
+Menestrel	: (loin) tralalaaaaaaaaa
+<cri troll + énervement>
+Barbare	 : fais gaffe !
+<WOOOOSH énorme>
+<SQUISH>
+Menestrel	: arghhlllllllllllouikkk !
+Ranger	: (ensemble) ahhh !
+Mago	: (ensemble) ahhh !
+Elfe	: (ensemble) ahhh !
+Barbare	: (ensemble) fais gaffe !
+<bruit de guitare qui tombe>
+Mago	: bon sang !
+Ranger	: merde !
+Elfe	: noooon !
+Troll	: beuarh !
+Menestrel	: aiee...
+Ranger	: il a écrabouillé le ménestrel !
+Barbare	: à moooooort !!!
+<musique bataille>
+<bataille contre le troll ON 15 sec>
+<bataille contre le troll OFF>
+Troll	: argggggggggllllllllll !!
+<troll qui tombe + équipement>
+Nain	: (ensemble) ha putain ! On l'a eu !
+Elfe	: on est trop forts !
+Barbare	: (ensemble) ouaiis !
+Mago	: heureusement que je l'avais paralysé !
+Nain	: ha, bah c'est pour ça qu'il bougeait pas bien !
+Ranger	: je suis blessé ! j'ai été touché !
+Menestrel	: aiiieee....
+Nain	: moi je vais fouiller le troll !
+Barbare	: moi aussi !
+<bruit fouille on>
+Mago	: je vais soigner le ranger !
+Elfe	: et moi je vais voir le menestrel !
+<deplacement elfe>
+Ogre	: ogla zouk !
+Mago	: c'est pas le moment !
+Ranger	: (souffrant) arhhhg... ça fait mal...
+Nain	: (loin) ouais, des pièces d'or !
+Ranger	: il m'a touché hein... il m'a touché ??
+Barbare	: ouais ! des armes !
+<bruit pièces d'or>
+Ranger	: (souffrant) j'ai pris un coup de mortensen sur le bras !
+Mago	: he ben, tu perds vachement de sang !
+Ranger	: haaa !
+Mago	: je vais te faire un soin magique !
+Ranger	: (souffrant) j'ai aussi un truc qui fait mal dans la jambe !
+Mago	: fais voir ? Ha bah !
+Ranger	: c'est quoi ? Hein , dis moi ce que c'est ??
+Mago	: et ben mon coco, tu t'es pris une flèche !
+Ranger	: (étonné énervé) comment ça, une flèche !!! Le troll n'avait pas d'arc !
+Mago	: bah heuu....
+Nain	: (s'approchant ) ha ha ha ha !! Hey on dirait que l'elfe a encore fait fort !
+Ranger	: haaa !
+Elfe	: (loin) quoi ??
+Ranger	: regarde-moi ça, espèce de gourde, tu m'as tiré dessus !
+Elfe	: (loin) chuis désolée, mais pour le moment, y'a plus important !
+Ranger	: bah ouais, c'est ça ! Et moi je peux crever !
+Elfe	: (larmoyant) le ménestrel va mourir !!
+Mago	: (ensemble) hein ?
+Ranger	: (ensemble) quoi ?!
+<déplacement barbare mago ranger 4 pas>
+Menestrel	: aiiiieee....
+Nain	: (loin) bien fait !! On aurait du faire une catapulte !
+Ogre	: holala... takala !!
+Mago	: fais voir... où est-ce qu'il est touché ?
+Elfe	: il a un bras et une jambe cassée, les côtes enfoncées, et il est salement touché à la tête
+Mago	: aiee....
+Menestrel	: je sens.... mon souffle diminuer.... mon sang bat la mesure de ma souffrance qui arghhh....
+Nain	: voilà ce qu'on gagne à vouloir chanter pour un troll berserk !
+Barbare	: ça fait mal si j'appuie là ?
+Menestrel	: aiieeuhh !!!!
+Mago	: mais t'es con toi !
+Barbare	: hahaha
+Elfe	: je ne sais pas comment on va pouvoir le soigner !
+Mago	: dans un état comme ça... il nous faudrait un soin des blessures graves
+Menestrel	: aiie !
+Nain	: et alors, t'en as un ?
+Mago	: bah non... et personne n'aurait une potion ?
+Nain	: (ensemble) nan !
+Barbare	: (ensemble) non
+Ogre	: takala
+Elfe	: si, moi j'en ai une, dans mon sac !
+<djingle>
+Mago	: génial !
+<équipement>
+Ranger	: (loin, larmoyant) ho.... vous croyez qu'on peut la partager ?
+Elfe	: tiens, regardes !
+Mago	: alors, lisons l'étiquette... soin réparateur et démélant pour cheveux blonds
+<tadaaa>
+Mago	: mais c'est pas une potion !
+Ranger	: (loin, larmoyant) rrrhaaa !
+Elfe	: ha bon ? mais le marchand m'avait dit que...
+Mago	: mais non, c'est du shampooing !
+Nain	: (loin) hahaha ! hahahahaha !!!! du shampooing !!!
+Ranger	: (ensemble) mais j'ai mal moi !
+Ogre	: (ensemble) huh huh
+Barbare	: (ensemble) ouais, terrible !
+<menestrel agonisant>
+Ranger	: bon, vous n'avez pas d'objets magiques ?
+Nain	: (loin) hahahahaha !!! je le crois pas !
+Mago	: j'ai toujours mon rune staff or curse, et mon scroll of stupidity
+Elfe	: mais on ne connait pas leur utilité !
+Mago	: c'est sans doute plus utile que du shampooing !
+Ogre	: golo !
+Nain	: (loin) hahaha ! putain, du shampooing !!!
+Menestrel	: adieu, les amis ! beuugrgkkk (bave du sang)
+Ranger	: bon sang ! il est en train de crever !
+Elfe	: haaaaaaaaaaa !! Nooooooooon !!
+Nain	: (loin) il a la bouche pleine de sang, et il riiiiiiiiitt
+Ranger	: c'est pas possible !!!
+Elfe	: (secouant le menestrel) tiens bon !! alleeeeeez !!
+<gémissements du menestrel qu'on secoue>
+Mago	: arrête de le secouer !
+Nain	: (loin) hahaha
+Ranger	: mais fais quelque chose toi... au lieu de bailler !
+Mago	: he ho, on l'avait prévenu de ne pas attaquer avec sa guitare !
+Elfe	: (larmoyante) c'est pas une raison pour le laisser mourir !!
+Barbare	: ben....
+Mago	: de toutes façon dans son état, je ne peux rien faire !
+Ranger	: mais... on pourrait user un point de destin !
+Mago	: le problème c'est qu'il en a pas !
+Ranger	: rhaa ! pfffffffff
+<déplacement nain>
+Nain	: (loin) alors, 8000 pièces d'or divisé par six...
+Ranger	: mais faites donc taire ce nain !!!
+Elfe	: (loin) bouuuuuuuuhouhouhouuuuuuuuuu !!! Il est mort ! c'est fini !
+Ranger	: hey, toi, un peu de respect !
+Mago	: franchement, c'est pas drôle hein....
+<transition>
+Voix off	: après avoir pleuré leur compagnon...
+Nain	: mort de rire !!! hahaha !
+Voix off	: hum.... après avoir pleuré leur compagnon et partagé ses possessions terrestres, nos aventuriers reprennent la route.
+Accélération : 13 kilomètres
+<transition>
+Ranger	: stop !
+<keskya (sans menestrel)>
+Ranger	: regardez, y'a un type qui s'approche !
+<dégaine>
+Mago	: range cette épée !
+Barbare	: (loin) et merde...
+<rengaine>
+<musique merveilleuse>
+Elfe	: c'est un aventurier solitaire, parcourant la plaine à la recherche de gloire et de conquête
+<fin musique merveilleuse>
+Ranger	: il nous a vu
+Nain	: il vient vers nous !
+Barbare	: il a l'air riche...
+Elfe	: on pourrait l'engager ?
+Nain	: on pourrait le dépouiller ?
+Mago	: c'est un humain visiblement natif des plaines du centre, avec une armure de cuir, des bottes de forestier et une grande cape rouge, il est armé d'une épée bâtarde et d'un arc composite
+Nain	: et tu connais le nom de son coiffeur aussi ?
+Ranger	: (agaçé) ho, ça va !
+Nain	: hahahaha
+Ranger	: bon, laissez-moi parler, on va éviter le massacre cette fois-ci
+Elfe	: il a l'air plutôt amical !
+Ranger	: je sais, mais le vieux Gildas AUSSI avait l'air amical !
+Barbare	: c'était un sorcier !
+Ranger	: (agaçé) pfffffff
+Ogre	: miammiam zaloss dalouk !
+Mago	: attention, le voilà !
+Ranger	: (parlant fort) salutations, toi l'aventurier solitaire dont la cape rouge fend la brise des plaines
+<pas s'approchant>
+Québecois	:  (jargon) salut bande de gnioufs
+Elfe	: hein ?
+Ranger	: hum. Tu sembles parler un dialecte étrange de quelque contrée qui m'est inconnue !
+Québecois	: (jargon) ben ici on parle comme ça pis de toutes façons c'est toué qu'a un accent po moué
+Ranger	: ha, oui, forcément. Et bien heuu.... nous sommes en route vers le nord pour une... noble quête
+Nain	: on va se marrer
+Québecois	: (jargon) hey le calice de ranger, sacre-moi a paix
+Nain	: (loin) mais... qu'est-ce qu'il dit ?
+Mago	: chuuut !
+Ranger	: certes, certes.... c'est vrai que l'on peut paraître impressionnants, mais nous ne sommes pas des bandits
+Québecois	: (jargon) (rires) si c'était le cas j'vous aurai bien rossé puis je vous aurai toute pete la yeule en sang
+Barbare	: hooo....
+Ranger	: ha... heuu...
+Nain	: pfff... hahaha
+Elfe	: dis donc, tu n'as pas envie de te joindre à nous ?
+Ranger	: he mais...
+Québecois	: (jargon) (rires) chus d'level 7 et pis ça m'intéresse et pis j'men va par yous vous arrivez
+Ranger	: hum !
+Mago	: hein ?
+Nain	: (loin) je comprends rien !
+Québecois	: (jargon) Tassez-vous de d'la, j'décrisse d'icitte j'ai un party avec ma gang
+<bruits de pas>
+Ranger	: (ensemble) heuu....
+Barbare	: (ensemble) ouais, bah salut !
+Mago	: (ensemble) au revoir !
+Elfe	:  hooo, tu pars déjà ?
+Ogre	: hatlouuuk !
+Nain	: (loin) c'est ça, fout le camp !
+Ranger	: (plus fort) on se reverra, hein !
+<silence>
+Mago	: bon, bah il est parti
+Nain	: tant mieux
+Barbare	: j'aimais bien son épée moi
+Elfe	: vous avez compris quelque chose ?
+Ranger	: ben, heuu...
+Mago	: moi j'ai compris qu'il avait pas envie de voyager avec nous
+Elfe	: mais pourtant j'ai essayé de l'inviter !
+Nain	: il avait pas l'air convaincu !
+Mago	: peut-être que tu aurais du retirer encore tes vêtements !
+Elfe	: ha bon ? Mais pourquoi ?
+Mago	: espèce d'exhibitionniste !
+Ranger	: heuuu
+Elfe	: heuu.. c'est quoi un exitibi... triste ?
+Ranger	: ha non, vous allez pas vous y mettre aussi ??
+Elfe 	: bon d'accord, j'essaierai la prochaine fois
+Barbare	: cool
+Ranger	: ha.... mais j'en ai marre moi !!
+<djingle de fin>

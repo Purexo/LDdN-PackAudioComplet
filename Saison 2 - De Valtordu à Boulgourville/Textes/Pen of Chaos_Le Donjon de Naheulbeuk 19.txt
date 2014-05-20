@@ -1,0 +1,464 @@
+<Ambiant : wheel of pain>
+Voix off	: Nos aventuriers traversent un village miteux, peuplé de villageois susceptibles. A la suite d'une altercation, ils prennent la fuite pendant quelques kilomètres, avant de dresser un bivouac au pied d'un rocher. Ils passent une nuit pénible au milieu des moustiques et des coyotes, et repartent au lever du jour à travers les plaines.
+<transition : 20 km>
+<ambiant vent>
+<deplacement troupe>
+Elfe	: (mélodie pourrie) naaaa naaa naananana naaaanananaaaa
+Ranger	: (soupir) c'est vraiment pénible quand tu chantes
+Barbare	: ouais !
+Elfe	: (mélodie pourrie) naaaa naaa naananana naaaanananaaaa
+Nain	: si j'étais pas aussi crevé, je t'aurai cousu la bouche
+Mago	: je pense qu'il existe un sort pour régler ce genre de problème
+<bruit de pages>
+Elfe	: (mélodie s'arrête) bah... il faut bien que quelqu'un chante puisque le ménestrel est mort !
+Ranger	: on peut très bien voyager sans chanter !
+Nain	: on peut très bien voyager sans chanter !
+Elfe	: (boude) mais moi je m'ennuie !
+Barbare	: moi aussi
+Ogre	: holala....
+Mago	: mais tout le monde s'ennuie !
+Ranger	: mais non pas du tout ! Je suis très occupé à gratter mes boutons de moustiques !
+Mago	: on aurait du dormir en ville !
+Nain	: (loin) tout ça c'est à cause de cette pourriture d'aubergiste !
+Ranger	: mais t'étais pas obligé de lui dire que sa bière sentait la sueur
+Nain	: (loin) haaa....
+Mago	: et tu n'avais pas besoin de lui mettre un coup de hache dans la jambe
+Elfe	: et c'était pas la peine de démolir son mobilier
+Nain	: (loin) tout ça, c'est des détails !
+Mago	: et si je n'avais pas jeté un sort d'entrave sur les gardes, on serait en prison !
+Barbare 	: on aurait pu se battre !
+Nain	: ouais, vous êtes des tafioles
+Ranger	: pfffffffff....
+Ogre	: kazda hol !
+Mago	: quoi ?
+Ogre	: kazda hol !
+Mago	: ha, mais c'est vrai ! Regardez, l'ogre a vu une maison !
+Elfe	: mais ça fait longtemps que je l'ai vu !
+Ranger	: mais pourquoi t'as rien dit ?
+Elfe	: vous ne m'avez rien demandé...
+<loose>
+Nain	: (ensemble) hooo
+Ranger	: (ensemble) hoooo
+Mago	: (ensemble) hoooo
+Elfe	: ben quoi ?
+Mago	: rien, rien.... ça va
+Elfe	: (fière) d'ailleurs, ce n'est pas une maison !
+Barbare	: ça ressemble vachement à une maison quand c'est loin
+Elfe	: vous oubliez que ma vision est nettement... (coupée)
+Nain	: (ensemble) on sait...
+Ranger	: (ensemble) ça va ! Bon alors qu'est-ce que c'est ?
+Elfe	: on dirait... un truc pour mettre les gens quand ils sont morts
+<ambiant>
+Ranger	: une crypte ?
+Mago	: un mausolée ?
+Nain	: (loin) un volcan ?
+Ranger	: ça pourrait être bien d'y faire une petite pause
+Barbare	: je ne suis pas fatigué moi...
+Nain	: on pourrait voir si y'a pas des trésors en même temps
+Mago	: bonne idée !
+Ranger	: allons-y !
+<transition>
+Nain	: bon, bah ça doit être la porte d'entrée...
+Mago	: regardez cette inscription !
+Ranger	: j'y comprends que dalle
+Elfe	: on dirait des dessins !
+<Pages du livre>
+Mago	: ce sont des hiéroglyphes mortuaires de Moriaquie
+Nain	: et je parie que tu vas encore trouver l'explication dans un livre !
+Mago	: voilà ! je vais pouvoir le traduire !
+Elfe	: c'est un peu inquiétant toutes ces sculptures
+Barbare	: c'est moche
+Ranger	: on dirait le résultat d'un concours d'invocation de monstres
+Mago	: alors écoutez ça : ci-git Archein Von Drekkenov, prince de Moriaquie, chevalier de l'ordre de la Wyverne
+Nain	: encore un bourgeois pourri !
+Barbare 	: il était sûrement riche...
+Nain	: ha ouais ! T'as raison, entrons !
+<déplacement nain>
+Ranger	: hey ! Mais, attend, il faut vérifier si....
+<déclenche porte>
+Mago	: trop tard
+<ouverture de porte>
+Nain	: alors, vous venez ?
+<déplacement groupe>
+<musique inquiétante>
+Elfe	: un escalier descend dans les profondeurs obscures
+Nain	: (statisfait) exc-el-lent !
+Barbare	: il faudrait une torche
+Ranger	: moi j'en ai pas
+Elfe	: moi non plus
+Ogre	: glok
+Mago	: bah moi non plus
+Nain	: (loin) ha, c'est malin ça !
+Mago	: bon c'est pas grave, je vais allumer mon baton : sh'ta imiss anzzerrrr
+<bruit magique>
+Elfe	: quelle magnifique lumière bleue !
+Ranger	: dis donc c'est pratique ça, pourquoi tu l'as pas fait plus tôt ?
+Mago	: je n'avais pas le niveau...
+<descente escalier>
+Barbare	: il faut descendre
+Ogre	: znivo takala ashim'tar !
+Mago	: il dit que ça ne sent pas pareil que dans un caveau normal
+Ranger	: il vaut mieux se méfier.... ça m'étonnerait qu'on enterre un type normal dans un endroit aussi perdu
+Barbare	: les morts c'est pas dangereux
+Nain	: bah ça dépend, des fois ils sont vivants
+Mago	: (apparté) qu'est-ce qu'il faut pas entendre...
+Elfe	: on arrive en bas, et y'a une porte
+Ranger	: c'est marrant, mais ça ressemble à un donjon
+Barbare	: mais non...
+Mago	: il faudrait faire une détection des pièges
+Elfe	: mais y'a plus de voleur dans ce groupe !
+Nain	: ouais, il a pris la porte, hahaha
+Barbare	: ha ha
+Mago	: hahaha
+Ranger	: ha, ce que t'es abruti
+Elfe	: vraiment c'est d'un mauvais goût...
+Mago	: bon alors, qui va ouvrir ?
+<bruit de porte>
+<ouverture porte>
+<musique horreur>
+Mago	: <ensemble> haaaa !
+Elfe	: <ensemble> haaaa !
+Nain	: <ensemble> haaaa !
+Ranger	: <ensemble> haaaa !
+Archein	: bonsoirrr, je vous attendais....
+Barbare	: salut !
+Ranger	: (agacé) he ben, vous auriez pu frapper vous nous avez foutu la trouille !
+Archein	: (accent transylvanien) je frappe rarement pour ouvrir mon propre porte
+Mago	: on ne s'attendait pas à trouver quelqu'un de vivant dans une crypte
+Nain	: (satisfait) moi j'vous l'avais dit !
+Ogre	: golo
+Archein	: ce n'est pas une crypte, c'est un chateau
+Ranger	: heuuuu
+Nain	: mais normalement un chateau ça dépasse du sol ??
+Elfe	: alors, qu'est-ce que vous faites ici ?
+Archein	: c'est ma demeurrre.... et vous êtes... mes invités
+Mago	: et donc, vous êtes...
+Archein	: Archein Von Drekkenov, prince de Moriaquie, (ensemble) chevalier de l'ordre de la Wyverne
+Mago	: (ensemble) chevalier de l'ordre de la Wyverne
+Nain	: (ensemble) gnagnagnagna...
+Ranger	: enchanté, nous sommes la compagnie de heuu... nous sommes une compagnie
+Nain	: hahemm
+Mago	: voilà !
+Barbare	: moi j'comprends rien...
+Archein	: peu imporrrte, suivez-moi 
+<mouvement de cape>
+Ranger	: (bas) pourquoi il bouge sa cape comme ça ?
+Mago	: je pense que ça lui donne un genre...
+Barbare	: alors, qu'est-ce qu'on fait ?
+Nain	: eh ben, on le suit !
+<deplacement ON sans bruit de pas>
+Mago	: ici, ça doit être le vestibule
+Elfe	: vous avez vu, il y a de la moquette partout
+Mago	: effectivement, c'est la première fois que je vois ça dans une crypte
+Nain	: (loin) il a dit que c'était un chateau !
+Ranger	: hum, c'est agréable de marcher là-dessus
+Nain	: (loin) j't'en foutrai moi du chateau...
+Archein	: (loin + reverb) vous appréciez mon ameublement ?
+Ranger	: oui, surtout la moquette !
+Elfe	: sinon, le reste est plutôt quelconque
+Archein	: (loin) vous dites ?
+Ranger	: non non, rien du tout !
+Mago	: ha, nous voici dans un salon
+Barbare	: y'a des bougies partout
+Ogre	: akoul djinglebelh
+Mago	: il dit que ça fait noel
+<deplacement OFF>
+Archein	: voilà, c'est ici que vous pourrez venir discuter... après dîner
+Nain	: (loin) après dîner ?
+Ranger	: comment ça, après dîner ?
+Archein	: et bien... (coupe)
+Mago	: vous savez, on ne pensait pas rester longtemps
+Archein	: mais moi, j'ai compris que vous vouliez dormir ici....
+Ranger	: (ensemble) ha heuu... Mais non....
+Nain	: (ensemble) bah....
+Barbare	: (ensemble) heuuu....
+Archein	: je sais être très persuasif vous savez....
+Nain	: (loin) j'aimerai bien voir ça !
+Ranger	: ha non ! Nous devons reprendre la route !
+Mago	: c'est définitif !
+Barbare	: (ensemble) ouais
+Ogre	: (ensemble) golo !
+<musique hypnose>
+Archein	: VOUS ALLEZ DORRRMIRRR ICI !
+Mago	: (ensemble) nous allons dormir ici
+Nain	: (ensemble) nous allons dormir ici
+Elfe	: (ensemble) nous allons dormir ici
+Ranger	: (ensemble) nous allons dormir ici
+Barbare	: (ensemble) nous allons dormir ici
+Ogre	: glok ??
+Archein	: c'est bien, continuons la visite
+<mouvement de cape>
+<deplacement ON>
+Elfe	: qu'est-ce qu'il a dit juste avant ?
+Mago	: j'en ai aucune idée....
+Ranger	: j'ai une impression bizarre
+Archein	: (loin + reverb) ici c'est la galerie de tableaux de mes ancêtres
+Nain	: putain, les gueules d'endives !
+Mago	: chuut !
+<deplacement OFF>
+Archein	: maitrrre nain, que disiez-vous ?
+Nain	: he ben heuuu (coupe)
+Ranger	: notre ami a très faim et il aimerait manger des endives
+Mago	: des endives au jambon
+Archein	: je vois... malheureusement nous n'avons pas souvent de légumes à notre menu
+Elfe	: hooooo, c'est dommage !
+Archein	: nous sommes plutôt carnivores...
+Barbare	: c'est cool !
+Ogre	: huh huh kopainnng !
+Nain	: ouais, du moment qu'il y a du pinard...
+Archein	: je ne bois jamais... de vin....
+<musique dracula>
+Nain	: ha !
+Archein	: maintenant suivez-moi !
+<mouvement de cape>
+Archein	: (loin + reverb) ha ha ha ha haaaaaaaaaaa....
+Mago	: il se déplace drôlement vite
+<deplacement ON>
+Nain	: c'est normal, t'as vu la taille de son appartement ?!
+Elfe	: ce couloir est immense !
+Ranger	: heu... au fait, c'est où la Moriaquie ?
+<deplacement OFF>
+Barbare	: moi ça me rappelle un truc...
+Mago	: et oui, c'est un des premiers royaumes du deuxième âge, né des invasions barbares et qui a disparu depuis 500 ans
+Nain	: les barbares Moriacs !
+Mago	: exactement ! 
+<nain se déplace>
+Ranger	: mais il est prince de quoi, si le royaume a disparu ??
+Nain	: (loin) de mes fesses !
+Mago	: je pense tout simplement que... cet homme est âgé de plus de 500 ans !
+<musique tragique>
+Ranger	: mais comment est-ce possible ??
+Elfe	: ben oui, ça devrait être un elfe ?
+<suspense>
+Mago	: il n'y a qu'une seule explication...
+Archein	: alors ???
+<musique horreur>
+Mago	: <ensemble> haaaa !
+Elfe	: <ensemble> haaaa !
+Nain	: <ensemble> haaaa !
+Ranger	: <ensemble> haaaa !
+Archein	: vous êtes perdus ?
+Ranger	: (apeuré) heuu... non, on parlait de la décoration
+Archein	: ne perdez pas de temps, venez !
+<mouvement de cape>
+<deplacement ON>
+Nain	: comment il fait pour apparaître comme ça ?
+Mago	: je crois que j'ai compris : c'est un vampire !
+Ranger	: un vampire ?
+Nain	: un vampire ?
+Elfe	:  un vampire ?
+Barbare	: Hein ?
+Mago	: mais taisez-vous !! Il ne doit pas savoir qu'on sait !
+Ranger	: mais qu'est-ce qu'il nous veut ?
+Mago	: il attendra qu'on dorme pour venir boire notre sang !
+Elfe	: beehhh ! c'est ignoble !
+Nain	: ah merde, faut qu'on se tire d'ici !
+Mago	: c'est impossible, il nous surveille !
+Ranger	: mais alors qu'est-ce qu'on va faire ?
+Mago	: heuu... faudra improviser !
+Barbare : d'accord...
+<deplacement OFF>
+Archein	: vous voilà... je vous laisse découvrir tous mes objets...
+Elfe	: ça alors !
+Ranger	: vous avez fabriqué toutes ces choses ?
+Archein	: et oui... comme je ne sors pas beaucoup, je bricole....
+Elfe	: et c'est quoi ça ?
+Archein	: un genre de jeu avec des cases noires et blanches, et on bouge des rois et des soldats dessus
+Nain	: j'ai jamais entendu parler de ça !
+Archein	: c'est norrrmal, je viens juste de l'inventer
+Ranger	: (loin) ha ha, mais qui aurait envie de jouer à ça ??
+Mago	: et ce machin, là, c'est quoi ?
+Archein	: ha, celui-là, c'est un vieux... c'est une table avec des trous dans les coins, et on pousse des boules colorées avec un baton
+Elfe	: c'est original
+Ogre	: glok
+Ranger	: mais y'a des dizaines de... trucs ici, qu'est-ce que vous allez en faire ?
+Archein	: rien du tout... c'est juste pour m'occuper.. que... que faites-vous ?
+<dégaine>
+<musique bataille>
+Barbare 	: yaaaaaaaahhh !!!
+<coup + tranche>
+Archein	: arghhhhhhhhh !
+Ranger	: (ensemble) hey !!
+Mago	: (ensemble) attention !
+<coup + tranche>
+<fin musique bataille>
+Archein	: (blessé) ahhh arghhhhhhh je souffre !
+Ranger	: Bien joué !
+Nain	: ouais tu l'as eu !!!
+Barbare	: j'ai improvisé !
+<clap clap>
+Mago	: (ensemble) ouais, mais bon heuu....
+Archein	: (blessé) Arghhhh ahhh je souffre !
+Ogre	: (ensemble) huh huh huh
+Nain	: tiens, hey, un petit coup de hache pour la route !
+<coup + tranche>
+Archein	: ARghhhhhhhh ! ARhhahhhhh !!
+Mago	: tiens, c'est bizarre je pensais qu'il se défendrait un peu
+Archein	: (loin) ARghhhhhhhh ! aghhh... je souffrrrrre.....
+Elfe	: il n'a pas l'air bien dangereux finalement
+Barbare	: ouais
+Ranger	: tiens, je vais lui mettre un coup d'épée aussi
+<coup + tranche>
+Archein	: ARghhhhhhhh ! Arrrrêtez !!!
+Ranger	: meurt donc, créature infernale !
+Archein	: bande d'abrutis ! Je suis le vampire hemophile ! La moindre blessure entraine ma mort !
+Mago	: il va perdre tout son sang
+Nain	: tant mieux ! Comme ça tu ne pourras pas nous dévorer !
+Archein	: (agonisant) mais... je n'ai jamais.... arghhhh........ grrkjjfffhhh
+<s'affale>
+Ranger	: bon voilà, c'est fini !
+Elfe	: c'est un peu violent comme méthode
+Barbare	: j'aime pas qu'on boive mon sang
+Mago	: attendez... ça me rappelle quelque chose maintenant cette histoire de vampire hémophile...
+<Pages du livre>
+Nain	: (loin) mais arrête avec tes bouquins !
+Ranger	: c'est quoi, y'a un trésor ?
+Mago	: ha voilà : l'oubliette du vampire hémophile ! C'est dans le livre des légendes de la terre de Fangh
+Nain	: bon alors, il est où son trésor !?
+Mago	: bah heuu... ils disent que c'est un mort-vivant sympa, qui offre l'hébergement aux voyageurs égarés
+Ogre	: huk ?
+Elfe	: et alors, à quel moment il boit leur sang ?
+Nain	: ha ouais parce que ça c'est pas très sympa !
+Mago	: et bien... hahem... justement, ils disent qu'il n'a jamais mordu personne...
+Ranger	: quoi ?
+Elfe	: hein ?
+Mago	: il se nourrit de sang de coyote !
+Nain	: ça explique beaucoup de choses concernant son haleine !
+Ranger	: et merde alors, on a encore tout faux !
+Elfe	: et toi tu... tu as encore tué un innocent !
+Barbare 	: hoooo, hey, moi j'improvise....
+Ranger	: rhaa mais tu pouvais pas nous le dire avant ??!
+Mago	: bah je ne suis pas forcée de connaître tous mes livres par coeur !
+Nain	: en tout cas on a pourri la moquette
+Barbare	: qu'est-ce qu'on fait maintenant ?
+Nain	: on va chercher des richesses ! he heh eeeeeeeee
+<djingle de fin>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,404 @@
+<intro>	
+Voix off	: L'auberge du Rat d'égoût lubrique n'étant pas des plus calmes, nous préférons passer sous silence les évènements de la soirée. C'est par la force des choses que nos aventuriers y ont passé la nuit malgré les problèmes de voisinage, voyant que le Barbare ne pouvait plus marcher après avoir goûté le contenu de cette fameuse bouteille jaune, dans laquelle macéraient plusieurs frelons.
+Nain	: faut admettre... c'est plutôt une boisson d'homme !
+Voix off	:  Après un réveil difficile, une longue étape de marche amène notre groupe à longer le lac de Zblouf vers l'Est, et à traverser un sous-bois...
+<transition 32 kilomètres>	
+<déplacement groupe forêt>	
+Barbare	: c'est lourd, on n'avance pas !
+Ranger	: (soupir...) bah je sais pas ce qu'il te faut....
+Nain	: (loin) moi il me faudrait des nouveaux pieds !
+Mago	: on a vraiment progressé aujourd'hui
+Elfe	: on approche de la forêt de Schlipak
+Barbare	: ça irait plus vite en courant !
+Elfe	: hey ! Regardez, là-bas !
+<ambiance suspense>	
+Elfe	: y'a un cadavre au bord du chemin !
+Ranger	: hum... un type en armure...
+Mago	: ha, j'aime pas ça !
+Barbare	: on devrait le fouiller !
+Nain	: tatata !! Non je connais le truc, c'est une arnaque !
+Elfe	: mais de quoi tu parles ?
+Nain	: c'est une technique que les gobelins utilisent pour piéger les Nains dans les mines !
+Barbare	: encore de la ruse ?
+Ranger	: je suis content de voir que tu commences à comprendre le concept
+Nain	: et ben : on fait croire qu'un gobelin est mort puis quand on arrive pour lui faire les poches, ses copains embusqués nous sautent dessus !
+Mago	: c'est pas con
+Barbare	: c'est lâche
+Elfe	: mais enfin, nous on est pas bêtes... on ne va pas tomber dans le panneau ?
+Nain	: bah non, heureusement que je suis là !
+Ogre	: zadouk ?
+Mago	: Excusez-moi je dois lui expliquer... Eto gald az zplati mourk !
+Ogre	: aka balgour et hop sprotch
+Mago	: heuu... il propose de le tuer pour voir s'il est vraiment mort
+Ranger	: hein ?
+Elfe	: comment on va faire ?
+Nain	: je sais ! On pourrait construire un trébuchet avec des troncs d'arbres et pendant ce temps l'ogre va chercher des grosses pierres
+Mago	: he ben...
+Ranger	: mais t'es con ou quoi ? ca va nous prendre 2 jours !
+Nain	: j'en sais rien moi... j'ai jamais construit un trébuchet
+Elfe	: moi je pense qu'on devrait apprivoiser une belette !
+Ranger	: (ensemble) hein ?
+Barbare	: (ensemble) quoi ?
+Nain	: ha ha ha ha !!!!
+Mago	: et ça recommence...
+Nain	: (loin) ha ha ha ha !!!!
+Elfe	: mais si ! Comme ça on l'envoie en reconnaissance pour déjouer l'embuscade !
+Nain	: (loin) ha ha ha ha !!!!
+Ranger	: mais noonnn ! Ha puis, arrêtez avec vos idées ! J'ai mal, alors j'aimerai qu'on avance
+Mago	: fais voir cet oeil au beurre noir... hum, ça s'arrange pas
+Ogre	: huh huh !
+Nain	: moi je trouve ça marrant, ça te fait comme un bandeau de pirate !
+Ranger	: (entre ses dents) tais-toi ou je te colle un pain
+Elfe	: la prochaine fois, tu n'essaiera pas de voler des bourses à l'auberge
+Ranger	: c'était juste pour voir si j'avais des compétences de voleur !
+Nain	: et ben, t'en a pas, hahaha
+Elfe	: pffff bon alors qu'est-ce qu'on fait ?
+Nain	: remarque, t'as eu de la chance à l'auberge, parce que toi au moins on a pas vomi dans ton casque
+Mago	: ha... mais il s'est excusé le gars...
+Ranger	: c'était pas méchant...
+Nain	: n'empêche que s'il avait pas fait deux mètres douze et qu'il avait pas 3 copains, je lui aurai meulé sa face
+Elfe	: de toutes façons, tu ne sens pas plus mauvais que d'habitude
+Nain	: va coiffer ta mère
+Elfe	: ma mère ce coiffe très bien toute seule
+Nain	: connasse !
+Elfe	: crevure !
+Barbare	: vos gueules ! Le mec mort a bougé !
+Ranger	: (ensemble) comment ça ?
+Mago	: (ensemble) hein ?
+Nain	: (loin) je le savais ! je le savais !
+Barbare	: il est assis maintenant
+Paladin	: (baille)
+Mago	: il nous a vu !
+Ranger	: mince
+Paladin	: (loin) ho hé !
+Elfe	: il nous fait coucou !
+Nain	: (loin) ma théorie d'embuscade s'écroule...
+Ranger	: on va s'approcher !
+<déplacement groupe forêt>	
+Mago	: faites gaffe quand-même
+Barbare	: chuis prêt à dégainer !
+Nain	: moi aussi !
+Paladin	: (loin approchant) alors, c'est une belle promenade ?
+<déplacement stop>	
+Ranger	: heu... ouais, ça peut aller
+Mago	: qu'est-ce que tu fais ici ?
+Paladin	: tel que vous me voyez, je priais Dlul à l'instant même
+Nain	: une prière ?
+Mago	: une prière ?
+Paladin	: disons qu'en pratiquant la sieste, je rendais hommage à mon dieu
+Nain	: wah !
+Elfe	: il s'appelle... Dlul ?
+Paladin	: oui, c'est le dieu du sommeil et de l'ennui. Et je suis son paladin.
+Nain	: ça a l'air palpitant dis donc !
+Barbare	: mouais...
+Mago	: effectivement j'ai entendu parler de ce dieu en cours de théologie
+Paladin	: tu sembles être pratiquante des arcanes ?
+Mago	: heu... oui c'est vrai j'ai pris mes cours à l'Université de Glargh et ensuite...(coupé)
+Ranger	: Bon ! C'était bien, c'était sympa, mais nous on va continuer notre chemin
+Barbare	: ouais !
+Paladin	: qu'est-il arrivé à ton oeil ?
+Ranger	: hein ?? Mais... de quoi je me mêle ?
+Nain	: (pouffe)
+Mago	: (pouffe)
+Elfe	: (pouffe)
+Ogre	: huh huh
+Ranger	: ho ça va pfff !
+Barbare	: allez, on bouge !
+Paladin	: dites... je vois que votre compagnie ne comporte aucun paladin...
+Nain	: ouais, et c'est pas dommage
+<déplacement nain on>	
+Ranger	: heu... oui et alors ?
+Paladin	: je cherche actuellement une noble quête à accomplir à la gloire de Dlul
+Nain	: (loin) rhaaa... j'me casse !
+Elfe	: mais notre quête.... heuu..
+Mago	: disons... qu'elle n'est pas spécialement noble
+<déplacement nain off>	
+Nain	: (loin) et puis on n'a pas besoin de paladin
+Paladin	: mais je possède des sorts de soin
+Ranger	: ha !
+Nain	: (loin) mais puisqu'on te dit que notre quête n'est pas noble !
+Paladin	: pour la quête, n'importe quoi en fait ça m'est égal
+Elfe	: n'importe quoi ?
+Paladin	: du moment qu'on y gagne quelque rétribution...
+Mago	: et en quoi un paladin aurait besoin d'argent ?
+Paladin	: j'ai besoin d'acheter une puissante relique, le Polochon Mystique de Zuggira
+Nain	: (loin) c'est pas possible
+Ranger	: bahhh
+Paladin	: ça fait 3 ans que j'économise !
+Nain	: (loin) un polochon ??
+Mago	: et ben....
+Paladin	: et sinon j'ai une hallebarde +4 contre les démons et des bracelets de force qui déchirent
+Barbare	: (ensemble) ouais ça c'est cool !
+Nain	: (ensemble) excellent !
+Ranger	: (ensemble) ha bah voilà !
+Ogre	: akala miam miam !
+<transition>	
+Voix off	: la compagnie partage un cake aux anchois avant de reprendre sa route à travers le sous-bois
+<transition>	
+<déplacement groupe forêt + armure>	
+Nain	: c'est pas bon les anchois !
+Barbare	: ouaip
+Mago	: fallait pas en manger
+Ranger	: alors dis-moi, comment devient-on paladin de Dlul ?
+Paladin	: j'ai choisi sur catalogue
+Ranger	: ha !
+Mago	: y'a des catalogues de dieux ?
+Paladin	: Quand on doit devenir paladin, il faut choisir son dieu.
+Elfe	: moi je pensais que c'était une histoire de destin et d'illumination...
+Paladin	: je voulais être notaire, mais mon père disait que j'avais trop de force et de dextérité
+Nain	: hey dites, vous ne trouvez pas que le sentier ici est ....
+<musique terreur>	
+<bruit de filet ???? + équipement>	
+Nain	: (ensemble chute) haaaaaaaaa
+Ranger	: (ensemble chute) meeerde
+Elfe	: (ensemble chute) aaaahhhhhhhhh
+Ogre	: (ensemble chute) takala !
+Mago	: (ensemble chute) bon sang !
+<event fin>	
+Elfe	: hey, ho ! Réveille-toi !
+Ranger	: hMmmmMMmmmmm...
+Elfe	: allez ! Réveille-toi !
+Ranger	: hein ? Quoi ?? hein ???
+Elfe	: ha... j'étais inquiète !
+Ranger	: mais... mais... qu'est-ce qui s'est passé ?
+Elfe	: nous avons été capturés !
+Ranger	: capturés ?
+Elfe	: On nous a pris dans un filet, et on a perdu connaissance !
+Ranger	: ah oui... je crois que je me suis pris une grosse branche derrière la tête...
+Elfe	: ça va ?
+Ranger	: boahf.... comme un chien écrasé
+Elfe	: moi j'ai perdu mon sac à main, et ma tunique est déchirée
+Ranger	: ha... heuu... hoh, je vois ça oui c'est... c'est terrible... hum
+Elfe	: j'ai peur !
+Ranger	: et... où est-ce qu'on est ? Où sont les autres ?
+Elfe	: je n'en sais rien... il fait nuit et on nous a enfermé dans cette cabane, avec une bougie
+Ranger	: On dirait un genre de hutte
+Elfe	: j'ai peur !
+Ranger	: du calme ! Ha mince, on m'a pris mon équipement aussi.
+Elfe	: attention quelqu'un approche...
+<bruit de porte de hutte>	
+Garde poireau 1	: hey vous là !
+<event terreur>	
+Ranger	: (ensemble, peur) haaaaaaaaa !
+Elfe	: (ensemble, peur) haaaaaaaaaaaa !
+<musique action>	
+Garde poireau 1	: dehors, les prisonniers !
+Ranger	: (chuchote) qu'est-ce que c'est que ce monstre !
+Elfe	: (chuchote) j'en sais rien mais on devrait le suivre !
+Ranger	: (chuchote) on dirait un poireau géant !
+Garde poireau 1	: allez, plus vite !
+Ranger	: ouais ouais ça va...
+Elfe	: (chuchote) j'ai peur !
+<ambiance tribale + forte - nuit campagne>	
+Garde poireau 2	: avancez !
+Ranger	: (chuchote) bon sang y'en a partout !
+Garde poireau 1	: approchez du totem !
+Elfe	: c'est quoi un totem ?
+Garde poireau 2	: le grand truc qui dépasse du sol, un peu plus loin...
+Ranger	: hey mais...  Ils ont attaché la magicienne et le Nain !
+Garde poireau 1	: avance !
+<coup + douleur>	
+<transition>	
+Voix off	: pendant ce temps, à 96,4 kilomètres au sud-ouest...
+<ambiant Zangdar>	
+Zangdar	: alors, comment se passe la traque des aventuriers ?!
+Reivax	: c'est que... j'ai envoyé tous nos espions à leur poursuite, maître
+Zangdar	: Et bien ? Des résultats ?
+Reivax	: heuu.. oui oui, ils sont revenus... tous les deux
+Zangdar	: Quoi ? Nous n'avons que deux espions ??
+Reivax	: avec les réductions budgétaires et les frais, vous savez...
+Zangdar	: rhaaa ! Qu'importe ! Quelles sont les nouvelles ?
+Reivax	: Borthar le fourbe a entendu dire qu'ils sont partis vers le nord-est...
+Zangdar	: rhaa.... damned !
+<coup sur la table>	
+Zangdar	: mais que vont-il faire au Nord-Est !? Il faut les retrouver !
+Reivax	: Bien sûr... j'ai déjà envoyé des chevaucheurs de sanglier pour les rattraper !
+Zangdar	: Ha, très bien... Mais... depuis quand avons-nous des chevaucheurs de sanglier ?
+Reivax	: heuu... des mercenaires que j'ai du louer... la facture est ici... hum... si vous voulez signer...
+Zangdar	: ahhhhhhhhrggghhhhhhhh !!! 1200 pièces d'or !!
+Reivax	: oui... il faudra sans doute encore vendre du mobilier...
+<transition>	
+<ambiance tribale + forte - nuit campagne>	
+Chef poireaux	: alors, vous allez vous mettre à table ?
+Mago	: nous n'avons rien à vous dire !
+Nain	: moi j'aurai bien deux-trois trucs à vous dire !
+Garde poireau 2	: pour vous les carottes sont cuites !
+Elfe	: occupez-vous de vos oignons !
+Chef poireaux	: Ha, ça suffit avec vos salades !
+Ranger	: mais... qu'est-ce que vous avez contre nous ?
+Elfe	: c'est pénible à la fin !
+Chef poireaux	: je sais qui vous êtes ! ha ha
+Mago	: mais on vous l'a déjà dit ! Nous sommes des aventuriers qui...(coupe)
+Chef poireaux	: non ! Vous êtes des espions des hommes-navets !
+<musique>	
+Nain	: (ensemble) quoi ?
+Ranger	: (ensemble) quoi ?
+Mago	: (ensemble) hein ?
+Barbare	: (ensemble) hein ?
+Chef poireaux	: parfaitement !
+Ranger	: mais on ne sait même pas qui sont les hommes-navets !
+Paladin	: et puis on ne sait pas qui vous êtes !
+Mago	: exactement !
+Chef poireaux	: nous sommes les hommes-poireaux !
+Garde poireau 1	: c'est pourtant évident !
+Ranger	: oui bon ça va c'est évident mais ça n'explique pas qui vous êtes !
+Garde poireau 2	: on vient d'vous le dire !
+Mago	: ha mais vous êtes abrutis c'est pas vrai ??!
+Elfe	: qu'est-ce que vous nous voulez ?
+Garde poireau 2 	: moi j'aimerai bien arracher le reste de sa tunique et (coupe)...
+Chef poireaux	: ça suffit ! Nous allons procéder au rituel
+Garde poireau 2	 : ben justement on pourrait (coupe)...
+Chef poireaux	: je vous ai déjà dit non !
+Elfe	: je peux enlever mes vêtements tout seule... pas besoin de les déchirer !
+Nain	: parfaitement !
+Barbare	: ouais !
+Ranger	: et qu'est-ce que c'est que cette histoire de rituel ?
+Chef poireaux	: puisque vous êtes des espions,...
+Nain	: c'est même pas vrai !
+Chef poireaux	: ...vous allez disparaître dans (ensemble) le grand pot-au-feu
+<GONG>	
+Garde poireau 1	 : (ensemble) le grand pot-au-feu !
+Garde poireau 2	: (ensemble) le grand pot-au-feu
+Ranger	: hein ?
+Mago	: le grand pot-au-feu ?
+Ogre	: akala miam miam
+Chef poireaux	: depuis longtemps les hommes-navets tentent de nous dérober notre secret !
+Ranger	: mais ça va bien oui ?! On les connaît pas vos hommes-navets !
+Nain	: et on en n'a rien à cirer !
+Paladin	: et puis vous êtes fatiguants...
+Garde poireau 1	: c'est ce qu'ils disent tous !
+Chef poireaux	: peu importe, ça peut très bien être les hommes-carottes !
+Garde poireau 2	: ou les hommes-patates !
+Barbare	: si j'étais pas attaché je vous pêterai la gueule !
+Garde poireau 1	: justement ça tombe bien t'es attaché !
+Garde poireau 2	: on va voir si t'es un dur à cuire !
+Ogre	: glok !!
+<GONG>	
+<ambiant grave>	
+Chef poireaux	: il est temps de préparer le grand pot-au-feu !
+Garde poireau 1	: (ensemble) le grand pot-au-feu !
+Garde poireau 2 	: (ensemble) le grand pot-au-feu !
+<GONG>	
+Guerrière	: (loin) ça suffit maintenant !
+<musique foire>	
+Garde poireau 1	: hein, quoi ?
+Guerrière	: (loin) qu'on arrête cette cérémonie débile !
+Chef poireaux	: ho non, pas elle !
+Garde poireau 2	: elle va encore tout gâcher !
+Guerrière	: (s'approchant) vous allez libérer immédiatement ces prisonniers !
+Ranger	: exactement !
+Mago	: bonne idée !
+Chef poireaux	: mais... mais non... il est important pour nous de (coupe)
+Guerrière	: magnez-vous le train ou vous allez finir en vinaigrette !
+Garde poireau 2	: noooooon !!!
+Garde poireau 1	: pas la vinaigrette !
+Garde poireau 2	: ça pique affreusement les yeux !
+Chef poireaux	: ça suffit ! Vous deux, arrêtez cette femme !
+Garde poireau 1	: impossible elle est trop forte !
+Garde poireau 2	: elle nous a déjà battu deux fois !
+Barbare	: (loin) ouais, cool !
+Ranger	: (loin) ha vous faites moins les malins !
+Garde poireau 1	: on abandonne et on rend les armes
+<armes tombant>	
+Chef poireaux	: bande de lâches ! 
+Garde poireau 2	: y'en a marre de se faire assaisonner !
+Guerrière	: allez allez plus vite que ça ! Détachez-les !
+Ogre	: (loin) golo !!
+Nain	: (loin) c'est ça plus vite !
+Garde poireau 2	: (éloignant) oui tout de suite !
+Chef poireaux	: mais... mais... ne faites pas ce qu'elle dit !
+Garde poireau 1	: (éloignant) désolé chef...
+Guerrière	: et vous, c'est la dernière fois que je vous vois faire vos rituels à la con !
+Chef poireaux	: mais... vous savez bien que... (coupe)
+Guerrière	: Stop ! N'en rajoutez pas ! La prochaine fois je vous taille en julienne !
+Chef poireaux	: haa.... bon.... heuu...
+Nain	: (loin) ha ha ha, je suis liiiibre ! Et je vais vous botter le cul !
+<transition>	
+Voix off	: après 234 coups de pied bien placés....
+<musique épilogue>	
+Ranger	: bon bah heuu... merci hein...
+Mago	: c'était très sympa de venir nous délivrer
+Paladin	: vraiment impressionnant
+Guerrière	: ho vous savez, moi je fais ça pour l'argent !
+Nain	: ha, bah c'est comme nous alors !
+Mago	: mais heuu... quel argent ?
+Ranger	: ha ouais, c'est vrai quel argent ?
+Guerrière	: vous ne croyez quand-même pas que je vous ai délivré gratuitement ?
+Nain	: heuuu....
+Barbare	: bahhh
+Mago	: c'est qu'en fait...
+Guerrière	: je suis une guerrière plutôt sympa, mais quand-même...
+Ranger	: on s'est pas posé la question !
+Guerrière	: alors... je vous ai fait une petite fiche... heu attendez... il faut que je la retrouve...
+Ranger	: je ne suis pas sûr de bien comprendre
+Nain	: bah... on aimerait bien avoir le choix...
+Paladin	: (baille) en tout cas, c'est bientôt l'heure de se coucher
+Guerrière	: voilà, ça fait 3000 pièces d'or
+Ranger	: (ensemble) quoi ??
+Nain	: (ensemble) combien ??
+Mago	: (ensemble) quoi ?
+Elfe	: (ensemble) hein ?
+Guerrière : mais, j'ai arrondi
+<terreur>	
+Nain	: 3000 pièces d'or ?? (s'éloignant) Keuff keuff...
+Ranger	: il doit y avoir une erreur !!
+Guerrière	: hum... oui effectivement je n'ai pas compté la créature massive
+Ogre	: glok ?
+Guerrière	: ça fait 200 pièces d'or normalement, mais je vous ai fait un prix !
+Elfe	: mais... nous n'avons pas autant d'argent !
+Nain	: (loin) 3000 pièces d'or !!! Keuuuuf keuuufff !
+Ranger	: et puis heuu... on n'a pas tellement envie de payer !
+Guerrière	: (agacée) ha bon ?
+Barbare	: bah ouais...
+Mago	: ça fait drôlement cher...
+Guerrière	: dites-moi... vous allez bien récupérer un trésor bientôt ?
+Paladin	: oui, nous allons à Boulgourville, pour recevoir 8000 pièces d'or et pour heuuuu (coup)
+Ranger	: (ensemble) ha ta gueule !
+Nain	: (ensemble) la ferme !
+Guerrière	: c'est parfait ! Je vous retrouve là-bas !
+Ranger	: mais heuu....
+Nain	: (ensemble) ha non !!! non non !!!
+Mago	: (ensemble) et ben...
+Elfe	: mais vous ne voulez pas voyager avec nous ?
+Nain	: quoi ???!!
+Guerrière	: ha non merci ! J'ai pas envie qu'on me voie traîner avec des bouseux, vous comprenez...
+Ranger	: des bouseux ???
+Guerrière	: y'en a aucun qui ressemble à BradPythe, je ne vais quand-même pas venir avec vous !
+Mago	: ha bah merci !
+Barbare	: chuis pas un bouseux !
+Paladin	: quelle énergie !
+<pas guerrière>	
+Guerrière	: (s'éloignant) bon, et bien... on se retrouve là-bas... allez, salut maintenant !
+Paladin	: oui, au revoir !!
+Elfe	: à bientôt !
+Nain	: mais tu va te taire toi !
+<sbaf + elfe douleur>	
+Mago	: alors ça....
+Ranger	: mais... c'est pas possible de voir ça !
+Nain	: c'est l'arnaque du siècle !
+Ranger	: mais pourquoi tu lui as raconté ça ?
+Mago	: maintenant elle sait qu'on va gagner de l'or !
+Paladin	: elle nous a sauvé la vie !
+Nain	: c'est pas une raison !
+Mago	: je suppose que t'as une solution pour éviter de payer ?
+Paladin	: mais...
+Barbare	: on pourrait lui foutre sur la gueule !
+Nain	: mais ouais !
+Elfe	: mais non elle est sympa !
+Ranger	: on a aucune chance, elle est niveau 8 !
+Mago	: c'est l'homme-poireau qui nous l'a dit
+Ranger	: elle va nous arracher la tête en trois attaques
+Nain	: waohhh
+Barbare	: ah ouais, ça calme...
+Elfe	: bah moi j'ai rien compris
+Paladin	: et bien heuuu...
+Ranger	: allez, moi j'en ai marre, on va pas continuer à se prendre la tête et on va monter le bivouac !
+Nain	: on a vraiment du talent pour ramasser les boulets !
+Barbare	: ouaip
+Elfe	: j'ai sommeil !
+Paladin	: L'heure du sommeil ! Dlul appelle à lui ses enfants, dans la noirceur (coupe)
+Ranger	: stop !
+Nain	: Moi ça m'énerve, je crois que je vais retourner frapper le poireau géant !
+Ogre	: copainng !
+Barbare	: j'arrive !
+<fin>	

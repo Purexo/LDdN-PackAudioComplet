@@ -1,0 +1,460 @@
+<INTRO>
+Nain	: Mais c'est qui encore cette timbrée ?
+Aztoona	: Timbrée ?
+Mago	: C'est ma cousine Aztoona !
+Barbare	: (ensemble) Ta cousine ?
+Ranger	: (ensemble) Ta cousine ?
+Aztoona	: Comment ça, timbrée ?
+Mago	: Ho, il ne faut pas écouter le Nain...
+Elfe	: Il est aussi stupide que puant !
+Nain	: Même pas vrai !
+Mago	: On a fait l'université de magie ensemble !
+Aztoona	: Ha, oui, qu'est-ce qu'on a rigolé !
+Ranger	: Ça nous fait une belle jambe !
+Nain	: Ouaip !
+Mago	: Et tu te souviens quand on congelé la fontaine ?
+Aztoona	: C'était du délire !
+Ranger	: Hum hum !
+Mago	: Et la fois où on a mis le feu au dortoir des cinquième années !
+Aztoona	: Evidemment !
+Elfe	: Est-ce que des gens sont morts ?
+Mago	: Et le jour où Norbert a invoqué une sangsue géante dans la piscine ! Ha ha ha !
+Aztoona	: Je te rappelle que j'étais dans la piscine...
+Mago	: Ha oui ! Et puis y'avait aussi machin, là... (coupe)
+Ranger	: Hop hop hop ! Je vous arrête tout de suite !
+Mago	: Bah oui mais...
+Ranger	: Mais rien du tout ! Je te fais remarquer qu'on doit sortir de la forêt et qu'on n'en a rien à cirer de vos histoires d'étudiantes !
+Nain	: Et les auditeurs non plus !
+Barbare	: Ouais !
+Ogre	: Glouk ?
+Mago	: Mais... C'est ma cousine enfin !
+Nain	: Ça pourrait aussi bien être Bécassine, c'est pas elle qui va nous donner nos pièces d'or !
+Ranger	: Voilà ! Alors maintenant, on va se dire au revoir, et nous on va tracer !
+Barbare	: Ouais !
+Mago	: Ce n'est pas très sympa !
+Aztoona	: Je dérange peut-être ?
+Nain	: (ensemble) Et ouais...
+Elfe	: (ensemble) Mais non pas du tout !
+Mago	: Il faut préciser que nous sommes perdus grâce aux compétences du soit-disant chef de groupe !
+Ranger	: Ha, mais tu vas me lâcher avec ça ?
+Mago	: Le problème c'est qu'on doit aller à Boulgourville assez rapidement...
+Aztoona	: A Boulgourville ?
+Mago	: Alors, c'est un peu compliqué... Tout a commencé avec ce mystérieux magicien, que j'ai rencontré à Glargh devant une boutique de sorciers, et qui nous a proposé...
+
+<musique fade in>
+<djingle>
+Voix off	: Pour échapper au récit interminable de la magicienne, je vous propose un voyage à la poissonnerie du petit village de Loubet, dans laquelle on apprend des choses beaucoup plus intéressantes !
+<transition warp zone>
+<ambiance village>
+Marchand	: Alors, qu'est-ce qu'elle prend aujourd'hui ?
+Cliente	: Ils sont comment, vos calamars ?
+Marchand	: Et bien... Ils sont frais, comme d'habitude !
+Cliente	: Ha... bon si c'est comme d'habitude, je n'en veux pas !
+Marchand	: Bien... Elle veut pas des crevettes à la place ?
+Cliente	: Bonne idée ! Donnez-m'en pour 5 pièces d'argent !
+Marchand	: C'est parti.... Et toujours pas de nouvelles de son fils ?
+Cliente	: Ho non, vous savez... Depuis qu'il a décidé de partir à l'aventure...
+Marchand	: Ho, c'est dommage ! Il était plutôt doué pour rempailler les chaises !
+Cliente	: A qui le dites-vous ! J'ai vraiment cru qu'on allait en faire quelque chose, de ce gamin-là !
+Marchand	: Et voilà ses crevettes ! Ça vous fera 5 pièces d'argent !
+Cliente	: Merci !
+<pieces>
+Marchand	: Merci bien, bonne soirée !
+<transition warp zone>
+
+Aztoona	: Et vous faites tout ce chemin pour 8000 pièces d'or ?
+Ranger	: Bah oui, mais c'est pas rien !
+Mago	: Il faut bien commencer par quelque chose...
+Nain	: Et d'ailleurs, on est un peu à la bourre, alors il faudrait vraiment qu'on avance !
+Barbare	: Ouais !
+Mago	: Sauf qu'on ne sait pas où aller...
+Aztoona	: Mais moi, je pourrais vous aider...
+Ranger	: Oui, alors non ! Parce que je commence à en avoir plein mon sac, des gens qui sortent de nulle part et qui ramènent leur science !
+Mago	: Holala, mais du calme !
+Nain	: En plus c'est toujours payant et c'est super cher !
+Ranger	: Et puis les clampins qui viennent soit-disant renforcer l'équipe, ils ne servent jamais à rien, ils nous foutent dans le pétrin, ils meurent bêtement et n'écoutent jamais ce qu'on leur dit !
+Nain	: Ha mais pour ça, je vous avais prévenu !
+Barbare	: Et puis sinon, ils se barrent pour aller draguer des elfes !
+Mago	: Mais...
+Elfe	: Vous avez encore mangé des chiantos !
+Ogre	: Holala !
+Ranger	: En plus de ça, on n'a pas vraiment besoin d'une deuxième magicienne !
+Nain	: Ça c'est clair...
+Barbare	: (loin) La magie c'est nase.
+Mago	: Mais...
+Ranger	: Il est clairement stipulé dans les manuels d'aventure que tous les personnages d'un groupe doivent être d'une classe et d'une profession différente !
+Mago	: T'as lu des manuels toi ?
+Ranger	: Non, mais heu... On m'a raconté !
+Elfe	: Mais tous les gens qu'on rencontre sont vachement sympas !
+Nain	: Bah !
+Ranger	: Ouais... Alors, ils sont gentils, mais il ne suffit pas d'être un bon copain pour mériter sa place dans une compagnie d'aventuriers. He !
+Nain	: La preuve, moi je suis copain avec personne !
+Ranger	: Ouais... Enfin toi, c'est différent...
+Aztoona	: Si je puis me permettre... Je n'ai encore jamais parlé de faire partie de votre compagnie.
+Mago	: Ha bon ?
+Nain	: Mais tu veux nous aider comment alors ?
+Aztoona	: Je vends des objets magiques !
+Ranger	: Haaaaa ! (soulagement)
+Mago	: Ah, d'accord !
+Nain	: Bon, bah c'est réglé ! On n'a pas d'argent !
+Ranger	: En plus, tu n'as pas l'air d'avoir beaucoup d'objets sur toi...
+Aztoona	: Je transporte mes marchandises dans un sac multiplan à condensation astrale.
+Elfe	: Hein ?
+Mago	: Ha, c'est cool ça !
+Ranger	: Hola... Bon j'ai rien compris.
+Nain	: N'empêche... Je ne vois pas trop quel genre d'objet pourrait nous sortir de cette forêt merdique !
+Mago	: On pourrait la faire cramer ?
+Elfe	: (terrifiée) Ha non hein ! Ça c'est pas possible !
+Ranger	: Et puis, on aurait des chances de mourir dans les flammes...
+Aztoona	: Vous pourriez utiliser... La couronne de Pronfyo !
+Ranger	: Hein ?
+Mago	: La couronne de quoi ?
+Aztoona	: La couronne de téléportation de groupe de l'archimage Pronfyo !
+Mago	: (épatée) Houaaaa !
+Nain	: C'est qui lui ?
+Aztoona	: Vendue avec tout ses accessoires dans son sac de transport en cuir, la notice d'utilisation en trois langues et un schéma d'installation, elle permet à un magicien de niveau 2 ou plus de faire voyager instantanément jusqu'à huit aventuriers vers n'importe quelle destination accessible aux humains.
+Elfe	: He ben !
+Mago	: C'est pas de la camelote !
+Nain	: Ouais, mais attends elle a pas encore annoncé le tarif !
+Aztoona	: Elle est à vous pour seulement 6000 pièces d'or !
+<musique horreur>
+Elfe	: 6000 ?
+Nain	: Quoi ?
+Ranger	: Quoi ?
+Barbare	: Quoi ?
+Mago	: C'est un bon prix !
+Ranger	: T'es dingue !
+Nain	: Mais c'est la peau du cul qu'on s'arrache à la pince !
+Mago	: Les objets magiques sont toujours hors de prix, c'est normal.
+Ranger	: Ouais mais là... Mis à part le fait qu'on n'a pas cette somme, je ne vois pas trop l'intérêt d'acheter un objet à 6000 pièces d'or, pour aller en gagner 8000 !
+Nain : On va finir par être déficitaires !
+Aztoona	: Vous ne savez toujours pas comment fonctionne la balance financière d'une aventure ?
+Barbare	: Quoi ?
+Elfe	: La balance financière ?
+Ranger	: C'est quoi ce truc ?
+Nain	: T'as été élevée chez les Nains ?
+Aztoona	: Le théorème de Zakk démontre que le chemin parcouru au cours d'une quête génère environ trois fois plus de bénéfices que la somme promise par le commanditaire.
+Mago	: Ha bon ?
+Nain	: Sérieux ?
+Ranger	: C'est marrant, parce que pour nous c'est plutôt l'inverse...
+Elfe	: Je ne comprends rien !
+Aztoona	: Alors prenons un exemple... La robe de Tholsadum, vous l'avez trouvée pendant la quête ?
+Nain	: Tout à fait !
+Mago	: Et oui ! C'était dans le magasin chez Zangdar !
+<bruits de pages rapides>
+Aztoona	: Dans mon catalogue d'évaluation des services et des objets magiques... Sa valeur est estimée à 6000 pièces d'or !
+Ranger : Un catalogue ?
+Nain	: 6000 ?
+Mago	: Mais oui, ça ne m'étonne pas !
+Ranger 	: Carrément ?
+Nain 	: Délire !
+<bruits de pages rapides>
+Nain	: Trop fort !
+Aztoona	: Et un arc elfique enchanté comme celui-là... Y'en a pour 5000 pièces d'or.
+Nain	: 5000 !
+Barbare	: Ouah !
+Elfe	: Mais je ne peux pas l'utiliser !
+Nain 	: Hey tu ne veux pas me le prêter ?
+Mago	: Hey t'es vraiment douée pour le commerce !
+Aztoona	: Disons que... J'ai eu quelques problèmes avec la magie... Alors j'ai trouvé un moyen de me reconvertir.
+Ranger	: Etonnant !
+Nain	: Ha ha... On imagine !
+Mago	: Ha oui... Ce genre de problème... Hum hum...
+Ranger	: ALors... On arrête de se faire arnaquer quand on connaît la vraie valeur des objets...
+Nain	: Mais alors on est déjà riches ! Ha ha ha !
+Ranger	: Et si ça se trouve, on a d'autres machins qu'on pourrait échanger contre la couronne de téléportation ?
+Elfe	: Et puis j'ai aussi des pierres précieuses !
+Aztoona	: Hum... Ça m'intéresse !
+Ranger	: Quelqu'un a des compétences en marchandage ?
+<effet>
+<transition>
+Voix off	: Au terme d'une heure de tractations, la cousine Aztoona repars avec toutes les pierres précieuses et une partie du matériel bizarre récolté par les aventuriers. La magicienne étudie alors le fonctionnement de la couronne de Pronfyo, et prépare le transfert du groupe.
+<transition>
+Mago	: Cet objet agit sur la concentration psycho-angulaire du corps intrinsèque, et augmente la puissance primaire relative à l'organisation cosmoploubique utilisée pour le déplacement des corps matériels !
+Ranger	: Ouah... Délire (soupir).
+Barbare	: Heu...
+Mago	: Il est donc possible d'activer la résonance longitudinale du mana spécifique par un rapprochement des fréquences plasmiques...
+Ranger	: Stop ! J'en ai marre !
+Elfe	: Ça ne veut rien dire !
+Barbare	: C'est le bordel dans ma tête !
+Mago	: Vous ne voulez pas savoir comment ça marche ?
+Ranger	: (ensemble) Non !
+Elfe	: (ensemble) Non !
+Ogre	: (ensemble) Talaka !
+Barbare	: (ensemble) Non !
+Elfe	: C'est pas dangereux ?
+Nain	: Et on aura encore nos vêtements à l'arrivée ?
+Mago	: A priori, on ne risque rien, et on aura encore nos vêtements...
+Nain	: Parce que les déplacements lumineux, moi la dernière fois...
+Ranger	: Allez, c'est notre unique chance d'arriver à temps, alors on va se concentrer !
+Mago	: Bon ! Pour commencer, il nous faudrait objet magique inutile...
+Ranger	: Heu...
+Elfe	: C'est quoi cette histoire ?
+Mago	: La couronne brûle un objet magique à chaque fois qu'on l'utilise... Alors il vaut mieux prendre un truc qui ne sert à rien !
+Ranger	: Heu... Tiens, prend l'essuie-tout magique de Gloufila, on ne connaît pas son utilité !
+Nain	: Et ta cousine n'en voulait pas...
+Mago	: Il faut espérer que ce soit vraiment magique, ce truc...
+Elfe	: Mais c'est un cadeau !
+Nain	: Sinon, y'a la bague d'intelligence du Ranger aussi ! Ha ha ha !
+Barbare	: (ensemble) Ha ha ha !
+Ranger	: C'est pas le moment pour les blagues de merde ! On prend l'essuie-tout !
+Mago	: Voilà... Et maintenant, mettez chacun une barrette à cheveux !
+Nain	: (ensemble) Quoi ?
+Barbare	: (ensemble) Quoi ?
+Ranger	: (ensemble) Quoi ? Une barrette à cheveux ?
+Mago	: C'est pour vous connecter à la couronne !
+Nain	: C'est vachement moche !
+Ranger	: Mais... Elle est en forme de lapin !
+Mago	: Allez, c'est pas le moment de discuter !
+Elfe	: Moi c'est fait !
+Barbare	: C'est la honte !
+Mago	: Vaut mieux être ridicule que perdu !
+Nain	: Ça dépend !
+Ranger	: Bon, voilà c'est bon pour moi ! Pffff...
+Ogre	: Dougla veuk takala !
+Mago	: Heu... Si tu n'as pas de cheveux, tu peux l'accrocher à tes poils d'oreilles !
+Ogre	: Doula...
+Nain	: J'aurai jamais cru voir ça dans une vie !
+Mago	: Alors tout le monde est prêt ?
+Ranger	: (désabusé) OK !
+Barbare	: (lassé) Ouais...
+Nain	: (énervé) Ouais ouais !
+Elfe	: Ouiiiiii !
+Ogre	: Golo !
+Mago	: C'est bon, attention je pose la couronne...
+Nain	: (ensemble) Hahaha !
+Ranger	: (ensemble) Haha !
+Barbare	: (ensemble) Hahahaha !
+Mago	: Et ben quoi ?
+Ranger	: Non rien... C'est la couronne...
+Nain	: La tête de lapin avec des pattes de crabe qui s'enroulent autour des carottes..
+Elfe	: C'est original !
+Mago	: C'est vrai que la déco n'est pas terrible !
+Nain	: Ça ferait vomir un gobelin.
+Barbare	: Bon alors, on se tire ?
+Elfe	: T'es mignon avec la barrette ! Hi hi !
+Barbare	: Ta gueule.
+Ranger	: Alors avant de partir moi j'aimerai juste être sûr que tu sais où on va.
+Mago	: He ben oui... Plus ou moins par là...
+Ranger	: Plus ou moins ?
+Mago	: Oui, c'est la bonne direction pour s'approcher de Boulgourville.
+Ranger	: Mais comment tu le sais ? C'est plutôt ça qui m'inquiète...
+Mago	: J'utilise le GPS qui est fourni avec la couronne... Et il indique qu'on va par là...
+Nain	: C'est ce petit machin pourri là ?
+Mago	: Ouais ! C'est un géolocalisateur à perception subharmonique, qui analyse les notes crées par les variations telluriques et...
+Ranger	: Rhaaaa non pas encore ça !
+Nain	: On s'en fout !
+Mago	: Bon d'accord...
+Ranger	: Alors y'a quelque chose d'autre à faire ?
+Mago	: Ben non, je pense qu'on est prêts !
+Ranger	: Et bien, en route !
+Nain	: Accrochez-vous à vos barbes !
+Ranger	: Alors ?
+Elfe	: Ça vibre !
+Mago	: Attention...
+Mago	: (sort) Tir nalock az hoo eth'skavo !
+<téléportation depart>
+Ranger	: (ensemble) Haaaaaaaaa !
+Mago	: (ensemble) Haaaaaaaaa !
+Barbare	: (ensemble) Haaaaaaaaa !
+Nain	: (ensemble) Meeeeeerde !
+Ogre	: (ensemble) Haaaaaaaaa !
+Elfe	: (ensemble) Haaaaaaaaa !
+Nain	: Par les 10.000 poils de la barbe de Goltor l'Intrépide !
+<son bizarre de voyage>
+<téléportation arrivée>
+<ambiance chateau>
+Nain	: Ça y est on est morts ?
+Elfe	: Ho non !
+Ranger	: Je ne vois plus rien !
+Ogre	: Glouk ?
+Barbare	: Moi non plus...
+Nain	: Qu'est-ce que vous faites dans le paradis des Nains ?
+Mago	: Je suppose qu'on est vivants, parce que ça sent les pieds.
+Barbare	: On va rencontrer Crom !
+Ranger	: Il doit y avoir un problème.
+Mago	: Sh'ta imiss anzzerrrr
+<bruit magique>
+Ranger	: Ha ! On voit mieux !
+Nain	: Et ben !
+Mago	: On était juste dans l'obscurité, en fait...
+Elfe	: Et alors c'est quoi cet endroit ?
+Nain	: C'est une mine ?
+<déplacement nain>
+Ranger	: Peut-être une cave à Boulgourville ?
+Mago	: Y'a comme un genre de vibration magique...
+Nain	: (loin) Hey y'a un portemanteau en forme de lézard !
+Mago	: Cette ambiance me dit quelque chose...
+Barbare	: On dirait un donjon.
+Elfe	: J'ai peur !
+Nain	: Le portemanteau heu... il a bougé les yeux !
+Ranger	: Quoi ?
+<Cri homme-lézard mutant>
+Nain	: Haaaaaaa !
+Ranger	: (ensemble) Bordel !
+Elfe	: (ensemble) Haaaaaaaaa !
+Ogre	: (ensemble) Takala !
+Mago	: (ensemble) Bon sang !
+Mago	: (ensemble) Ho !
+<dégaine>
+Ranger	: On nous attaque !
+<musique baston>
+<Cri homme-lézard mutant>
+<dégaine>
+Barbare	: Baston !
+<coup sur le Nain>
+Ranger	: Vite !
+Nain	: Argh !
+Elfe	: Je vais tirer une flèche !
+Ranger	: Ecartez-vous !
+<tir de fleche>
+Ogre	: Askal douk !
+Mago	: (sort) Doun'kihala vate che troz !
+<bruit magique>
+<Cri homme-lézard mutant>
+Ranger	: Vite ! Quelqu'un sur la gauche !
+<coups donnés par le Barbare et l'ogre>
+Barbare	: Han ! Ha ! Yah ! Haaaan !
+Ogre	: Takala ! Askal !
+<tir de fleche>
+Ranger	: Le Nain sur la droite !
+Nain	: Prends ça !
+<2 coups donnés par le Nain>
+<Attaque homme-lézard>
+Ogre	: Huuuuurgh !
+Nain	: Raclure !
+<Cris douleur homme-lézard mutant>
+Ranger	: Poussez-le contre le mur !
+Mago	: Attention !
+Nain	: Aieeeee !
+<tir de fleche>
+<Cri douleur homme-lézard mutant>
+Elfe	: Et voilà !
+Ranger	: Ouais !
+Mago	: Ouais comme ça !
+Barbare	: Crève enfoiré ! han !
+<Cri douleur homme-lézard mutant>
+Nain	: A mort ! Haaan !
+<Cri douleur homme-lézard mutant>
+<Cri mort homme-lézard mutant>
+<Chute homme-lézard mutant>
+Elfe	: (ensemble) Ouiiiiiii !
+Nain	: (ensemble) Yahhhhh !
+Barbare	: (ensemble) Ouais !
+Ranger	: On l'a eu !
+Mago	: Bravo !
+Nain	: (ensemble) Ouchakacha ouchakacha ouchakacha YEAH !
+Barbare	: (ensemble) Ouchakacha ouchakacha ouchakacha YEAH !
+Ogre	: (ensemble) Ouchakacha ouchakacha ouchakacha YEAH !
+Ranger	: Ha ben ça c'était pas du monstre en soldes !
+Barbare	: Ouais !
+Mago	: Pourtant, je lui ai jeté la Malédiction du Bras Droit !
+Nain	: Mais il était ambidextre ! Il avait une arme dans chaque main !
+Ranger	: C'était peut-être pas le meilleur sort, effectivement.
+Mago	: Rhaaaaa !
+Nain	: Et il m'a quand-même explosé l'épaule.
+Ogre	: Ougla det skolka !
+Mago	: Et l'ogre a été touché au ventre !
+Elfe	: Je vais pouvoir le soigner ! C'est pas grand-chose !
+Ranger	: Au fait, c'était quoi cette bestiole ?
+Mago	: Heu... Un homme-lézard mutant ?
+Elfe	: Il est vraiment affreux !
+Barbare	: Ouaip.
+Mago	: Ce qui m'inquiète... C'est que je pense qu'on en trouve à un seul endroit...
+Ranger	: Et alors ce serait où ?
+Nain	: Dans ton c.... aie
+<COUP NAIN>
+Mago	: Le château de Gzor ?
+<musique>
+Ranger	: Quoi !
+Nain	: LE château de Gzor ?
+Elfe	: Quel malheur !
+Ranger	: Ha mince !
+Barbare	: Heu... Alors c'est quoi ?
+Mago	: Tout simplement l'épicentre de toute l'énergie chaotique et mauvaise concentrée sur la Terre de Fangh !
+Barbare	: Hein ?
+Ranger	: Il paraît que c'est la plus grosse concentration de monstres de tout le territoire !
+Barbare	: Ouais cool !
+Nain	: Des créatures à buter !
+Ogre	: Doula !
+Mago	: Heu... Vous savez que des aventuriers de niveau 30 y ont perdu la vie ?
+Barbare	: Ha...
+Nain	: Heu...
+Elfe	: Holala !
+Ranger	: Mais... Comment est-il possible que parmi tous les endroits, on arrive ici ?
+Mago	: Une petite erreur de triangulation dans l'interfaçage avec la zone astrale !
+Nain	: Te fous pas de notre gueule !
+Ranger	: Une erreur de 80 kilomètres quand-même !
+Mago	: Heu... J'ai peut-être pas pris assez de temps pour la préparation du transfert kiltonien ! En plus, y'a des chances pour que le château agisse comme un attractif sur l'onde primaire cosmoploubique !
+Ranger	: Mais tu vas arrêter avec les termes techniques !
+Ogre	: Glok !
+Barbare	: Ça fait chier !
+Nain	: Y'en a marre !
+Mago	: En tout cas il faut se tirer vite fait avant que d'autres bestioles plus puissantes ne viennent nous arracher les membres.
+Elfe	: J'ai peur !
+Ranger	: Et si possible, il faudrait quand-même aller à Boulgourville... Et pas dans la citadelle d'un génie du mal.
+Barbare	: Ouais !
+Nain	: Et ben moi en tout cas, j'ai buté le machin lézard !
+<djingle>
+Voix	: Le Nain gagne un niveau
+<son niveau>
+Ranger	: (ensemble) Comment ?
+Mago	: (ensemble) Hein ?
+Elfe	: (ensemble) Quoi ?
+Nain	: Quoi ? J'ai mal entendu ?
+<djingle>
+Voix	: Le comité de la caisse des donjons assigné à l'étude des attributions de niveaux a détecté une erreur dans le décompte de vos points d'expérience.
+Nain	: Une erreur ?
+Voix	: La résolution d'une énigme elfique de haut niveau attribuée par erreur à un coéquipier et l'achèvement d'un monstre de catégorie 2 a augmenté votre total de points d'expérience au seuil du niveau suivant.
+Mago	: Hein ?
+Nain	: Mais alors, j'ai vraiment gagné un niveau ?
+Voix	: Vous êtes maintenant un Nain Guerrier niveau 2.
+Nain	: Ouaiiiiiiiiiiiiiiiiis !
+<DJINGLE>
+<Foule applause>
+Nain	: ha ha ha !
+Elfe	: (ensemble) Ho non !
+Ranger	: (ensemble) Ho non !
+Barbare	: Bravo !
+Mago	: Ça alors !
+Nain	: Trop fort ! Je savais bien que j'avais dit Flip !
+Elfe	: Ho ça va hein !
+Nain	: C'est trop la classe !
+Ranger	: Je me demande bien ce que ça va changer...
+Nain	: Alors, j'ai +3 en maîtrise de la hache, augmentation de la résistance aux insultes, +8 à la pioche à deux mains, une compétence de niveau apprenti à la forge pour réaliser des améliorations sur les armes contondantes, une meilleure gestion des effets de l'alcool, + 5 en calcul des pièces d'or, +2 en marchandage, et une capacité accrue à énerver les gens avec 18 races supplémentaires !
+Elfe	: (dégoût) Hooooooooo !
+Mago	: Ha zut !
+Ranger	: Je ne suis pas très étonné !
+Nain	: Ha ha ! Vous allez pleurer vos mères !
+Ogre	: Kalounga !
+Mago	: Heu... Je pense qu'on devrait partir, parce qu'il a entendu du bruit dans le couloir...
+Ranger	: Notre présence va finir par attirer tous les monstres aux alentours...
+Nain	: Je m'en fous, je suis niveau 2 !
+Barbare	: Baaaaaaston !
+Nain	: (loin) Je suis niveau 2 ! Je suis niveau 2 !
+Ranger	: Et toi t'es lourd hein !
+Elfe	: On va encore se téléporter ?
+Mago	: On n'a pas le choix, on ne sortira jamais d'ici vivants !
+Ranger	: Mais alors cette fois, il faudrait viser un peu mieux la destination...
+Mago	: Occupez les monstres pendant que je calcule un nouveau point de chute !
+Nain	: (loin) Je suis niveau 2 !
+<Cri de monstre>
+Ranger	: Hola !
+Mago	: Hey !
+Elfe	: Ha ! C'est quoi ce truc qui s'approche ?
+Mago	: Une taupe-garou géante !
+Ranger	: Tirons-nous ! Vite !
+Barbare	: A l'assaut !
+Mago	: C'est la panique !
+<Cri de monstre approchant>
+Ranger	: (ensemble) Haaaaaaaa !
+Mago	: (ensemble) Haaaaaaaa !
+Elfe	: (ensemble) Haaaaaaaa !
+Nain	: (ensemble) Ouais !
+Barbare	: (ensemble) Yaaaaaaaah ! 
+<musique>
+Nain	: Je suis niveau 2, talatatatala, je suis niveau 2... Et ben... Comment je les ai pas envoyé dans la sciure !
+
+
+
+

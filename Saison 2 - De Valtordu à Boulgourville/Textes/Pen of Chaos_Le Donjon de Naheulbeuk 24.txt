@@ -1,0 +1,501 @@
+<Djingle>
+Voix off	: dans la tour du maléfique Zangdar se trame un terrifiant complot...
+Zangdar	: ha !! Te voilà !
+Reivax	: oui maiiiitre...
+Zangdar	: as-tu des nouvelles des chevaucheurs de sangliers ?
+Reivax	: (effet stereo) hum... et bien, en quelque sorte... si l'on peut dire... d'une certaine façon.... heuu... on pourrait effectivement avancer que (coupé)...
+Zangdar	: ahhh ! Cesse de tourner en rond !
+Reivax	: hem.... disons que... j'avais envoyé un corbeau espion et qu'il a rapporté heuu.. des nouvelles!
+Zangdar	: haaaa ! Bien ! Et ensuite ?!
+Reivax	: ensuite heuu... ce ne sont pas forcément de très très bonnes nouvelles...
+Zangdar	: (grognement) hmm..... hum....
+Reivax	: alors... le corbeau a fait flapflap croa, puis deux séries de flapflapflap avec l'aile gauche, et ensuite trois croaaaaa plus aigus, vous savez...
+Zangdar	: je ne connais pas le code des corbeaux, imbécile !
+Reivax	: (se déplace) d'accord, d'accord ! En fait, ils n'ont pas encore rattrapé les aventuriers, étant donné qu'ils sont restés un peu trop longtemps heuu.... à la taverne... à Valtordu...
+Zangdar	: quoi ?? Mais quand sont-ils partis ??
+Reivax	: et bien... il y a une heure environ...
+Zangdar	: damned !! On ne peut compter sur personne !
+Reivax	: mais si mais si... vous pouvez compter sur moi... mon bon maître...
+Zangdar	: est-il nécessaire de rappeler qu'ils ont eu les statuettes à cause de TA trahison ?
+Reivax	: heuu.... mais ils m'ont torturé de façon atroce ! Et vous m'avez déjà cassé deux dents...
+Zangdar	: (grognement soupir) hmmmm..... bon ! Qu'on prépare le dirigeable !
+<musique>
+Reivax	: (effrayé) le... le dirigeable ??
+Zangdar	: oui... 
+Reivax	: Vous... voulez sortir le dirigeable ?
+Zangdar	: celui que nous avons dérobé aux ingénieurs gobelins...
+Reivax	: bon... heuu... bien...
+Zangdar	: nous allons nous déplacer... en personne ! Je ne laisserai pas cette bande d'abrutis me défier, et partir avec ma collection de statuettes ! L'heure de la vengeance a sonné, les trompettes de l'apocalypse résonnent à présent, et la foudre de ma colère va s'abattre sur leur destin pitoyable ! Ha ha ha ha !!!!!!
+Reivax	: (s'éloignant) haaaaaa !! Misère de misère !!
+<transition>
+Voix off	: et à cet instant précis dans la forêt de Schlipak, les aventuriers vantent leurs actes héroïques
+<transition>
+Nain	: hahahah ! Vous avez vu comment on a triomphé des mangeurs de chair humaine ?
+Barbare	: ben....
+Mago	: (dubitative) huuMmmm...
+Ranger	: ha ça ! Du grand art ! Quand je pense qu'on m'en avait fait tout un plat ! (bande annonce) Les mangeurs de chair humaine ! Des monstres assoiffés de sang !
+Nain	: une simple détection des pièges, et hop ! Du gâteau !!
+Ranger	: ils n'ont même pas osé nous attaquer ! haha !
+Mago	: heu... ce n'est pas vraiment ce qui s'est passé !
+Paladin	: (baille)
+Ranger	: (crâneur) c'est grâce à mes compétences de Ranger... j'ai 54 pour cent au pistage... c'est l'idéal pour le milieu forestier !
+Nain	: mais non, c'est ma compétence naturelle d'observation !
+Elfe	: n'importe quoi ! C'est moi la meilleure à l'observation ! Dans les sous-bois, j'ai un bonus de 22% pour... (coupé)
+Nain	: (ensemble) on s'en fout !
+Ranger	: (ensemble) on s'en fout !
+Elfe	: peuh ! N'empêche que j'ai quand-même 22% !
+Nain	: ouais mais on s'en fout quand-même
+Elfe	: 22% ! Nanana !
+Nain	: rhaaa, va mourir ! Tiens !
+Elfe	: et hop ! Esquive !
+Nain	: meerde !
+Paladin	: (loin) ce n'est pas comme ça qu'on arrivera à Boulgourville...
+Barbare	: c'est vrai !
+Mago	: regardez, nous arrivons à un croisement !
+Ranger	: ha oui effectivement ! STOP !
+Nain	: bon alors ?
+Elfe	: qu'est-ce qui se passe maintenant ?
+Ranger	: je crois que c'est le moment de faire le point !
+Mago	: excellente idée !
+Ranger	: on va regarder la carte...
+Barbare	: j'aime pas ça les cartes !
+Elfe	: tu n'aimes rien de toutes façons !
+Barbare	: (conan style) j'aime la baston ! Ecraser ses ennemis, les voir mourir devant soi, et...
+Ranger	: ho, un peu de silence !
+Mago	: nous sommes à peu près ici, et il nous reste moins de 10 kilomètres pour sortir de la forêt
+Nain	: enfin !
+Paladin	: ce sera juste l'heure de la sieste, avant d'aller se coucher !
+Ogre	: (ensemble) glok !!
+Barbare	: (ensemble) mauviette !
+Ranger	: pas si vite... nous sommes encore en territoire classé dangereux...
+Mago	: ... et on peut faire des rencontres...
+Elfe	: (émerveillée) on pourrait voir... des poneys sauvages ! Ou des licornes à la crinière soyeuse !
+Nain	: ou alors des castors mutants qui crachent de l'acide par les yeux, et qui bouffent nos intestins... c'est au choix !
+Elfe	: hoooooo !
+Mago	: pour le moment, il faudrait se décider à choisir l'un de ces deux sentiers...
+Nain	: on a qu'à demander à l'Elfe !
+Elfe	: c'est vrai !
+Ranger	: hum... tu suivrais les conseils de l'elfe ?
+Nain	: bah non... on lui demande de choisir une direction, et puis nous on prend l'autre... comme ça on ne risque pas de se planter !
+Elfe	: c'est nul !
+Barbare	: hahaha !
+Mago	: halala... (soupir)
+Ranger	: (lassé) bon, c'est bien ce que je pensais...
+Barbare	: alors on va où ?
+Ogre	: (renifle) snif snif... ???
+Nain	: qu'est-ce qu'il a lui ?
+Mago	: heu... il renifle...
+Ogre	: glouk ???
+Mago	: attendez !
+Ogre	: (renifle) snif snif... grrr...
+Ranger	: mais tu vas nous dire ce qui se passe ?
+Mago	: y'a quelque chose de pas normal...
+Ogre	: (renifle) snif snif...
+Nain	: des castors mutants !
+Elfe	: mais non !
+Ogre	: znivo bwafi !
+Mago	: il dit que ça sent les framboises !
+Nain	: (ensemble) hein ??
+Ranger	: (ensemble) quoi ??
+Elfe	: mais oui ! snif... C'est l'odeur du shampooing Loreliane excelsior, pour cheveux secs, longs et dorés ! Il donne plus de souplesse et nourrit les racines en profondeur, et... 
+Nain	: mais qu'est-ce que tu racontes ?
+Mago	: laisse-la finir !
+Elfe	: ce shampooing très rare n'est utilisé que par les elfes de Lunelbar, les descendants des Meuldor !
+Barbare	: hummmf !
+Ranger	: et alors ?
+Elfe	: Je suis certaine qu'ils nous observent !
+<chuchotis elfes>
+Nain	: regardez là !
+Reine	: effectivement
+Ogre	: (ensemble) takala !!
+Mago	: (ensemble) bon sang !
+Ranger	: (ensemble) ho non !!!
+Nain	: hah ! Et là !
+Reine	: vous êtes cernés !
+Garde Elfe 1	: (loin, triomphant) ha ha !
+Nain	: des elfes !
+Elfe	: les elfes Lunelbar !!
+Nain	: y'en a encore ici !
+Mago	: mince !
+Nain	: et là ! Y'en a là aussi !
+Garde Elfe 1	: vous êtes sur notre territoire ! Pour passer, vous devez parler à notre reine, Norelenilia de Nilnerolinor, la reine aux pieds d'argent, beauté céleste parlant toutes les langues connues, celle pour qui les papillons s'inclinent, dont la chevelure...
+Reine	: ça ira !!
+Garde Elfe 1	: ma reine ! Laissez-moi leur compter vos louanges !
+Reine	: ça ira j'ai dit !!
+Nain	: (loin) ouais c'est bon maintenant !
+Elfe	: c'est un grand honneur de vous rencontrer !
+Paladin	: (émerveillé) vos cheveux sont sublimes...
+Reine	: je sais !
+Nain	: (loin) ils sont moches !
+Ranger	: mais que voulez-vous donc, Nirleilaenir... noble Reine
+Garde Elfe 2	: notre Reine.... va vous soumettre une énigme...
+Garde Elfe 1	: le premier qui d'entre vous répondra correctement sera récompensé...
+Garde Elfe 2	: et si nul d'entre vous la réponse ne trouve, de cent flèches vous serez percés !
+Ogre	: huk ?
+Garde Elfe 1	: et ça sera bien fait pour vous !
+Nain	: hein, c'est quoi ce traquenard bidon !
+Barbare	: on va vous latter !
+<dégaine>
+Ranger	: (ensemble) hé ho !
+Mago	: (ensemble) Chuuuuuuut ! Vous ne voyez pas qu'il y a des archers partout !
+Barbare	: (regarde autour) hmm.....
+Nain	: ha merde !
+Barbare	: ho pfffffff.....
+<rengaine>
+Elfe	: ce serait mieux d'écouter l'énigme !
+Ranger	: bon heuu... pardonnez l'emportement de mes compagnons, Nielbenoria... sublime Reine... et sachez que nous sommes prêts à écouter heuu... votre énigme !
+Mago	: voilà !
+Garde Elfe 1	: c'est plus sage en effet !
+Reine	: alors écoutez bien... 
+<GONG>
+Reine	: quel était le nom de la mascotte hybride de chien et de rat qui avait une oreille trouée, et qui apparaissait sur le couvercle des boîtes édition limitée de chocolat en poudre Brenoria ?!
+<Musique jeu télévisé>
+Elfe	: (ensemble) wouaah....
+Ogre	: (ensemble) huk ????
+Ranger	: mince alors...
+Mago	: c'est dommage, je n'ai jamais bu de chocolat...
+Barbare	: moi non plus ! C'est nase comme question !
+Nain	: Hey heyy.... moi ça me dit quelque chose !
+Paladin	: heuu....
+Elfe	: oui.... je crois que je m'en souviens.... la boîte était jaune....
+Nain	: ...et .... des fois quand on l'ouvrait.... on trouvait un cadeau !
+Elfe	: le petit animal...  il avait un oeil rouge et un oeil vert...
+Nain	: et son nom... heuu... c'était.... Flip !
+Elfe	: Flip !
+<djingle>
+<applaudissement>
+Reine	: (ensemble) bravo !
+Garde Elfe 1	: (ensemble) bravo !
+Garde Elfe 2	: (ensemble) excellent !
+Ranger	: houa.... on a eu chaud !
+Nain	: he he ! C'est la classe !!
+Reine	: puisque l'elfe qui vous accompagne a donné la bonne réponse, soyez les bienvenus !
+Elfe	: merci !!
+Nain	: (outré) quoi ???
+Garde Elfe 1	: oui, ce n'était pas facile !
+Nain	: (outré) mais c'était moi !! Je l'ai dit en premier !!
+Garde Elfe 2	: mais non voyons...
+Reine	: soyez beau joueur, maître Nain !
+Nain	: vous êtes dingues !!
+Garde Elfe 1	: il est évident qu'une elfe a forcément l'avantage sur vous dans la résolution d'une énigme !
+Nain	: hein ?
+Elfe	: ben oui, c'est normal !
+Ranger	: (ensemble) heuu.....
+Mago	: (ensemble) hahem....
+Nain	: c'est pas vrai j'ai dit Flip en premier ! Hmmmmmmmmm !!!! Huuuuhhh !!
+Garde Elfe 2	: allons, calmez-vous...
+Ranger	: ouais, c'est pas la peine d'en faire un plat...
+<dégaine>
+<wooosh wossssh>
+Ranger	: ho hé !
+Elfe	: attention !
+Nain	: putain de bouffeurs de salade !!! Je vais vous montrer si j'ai pas dit Flip !
+Ranger	: (ensemble) holaaaaaa !!! Arrête ça ! Attention !!
+Barbare	: (ensemble) attention !!!!
+Mago	: (ensemble) du calme !!!
+Elfe	: (ensemble) mais heuuuu !!!
+Nain	: lâchez-moi bordel !
+Ranger	: (entre ses dents) t'as vraiment envie de mourir sous les flèches des elfes ??
+Mago	: imagine un peu ce que va penser ta famille !
+Ranger	: arrête ça !
+Nain	: haaaarhghh !! Merrrde !
+Garde Elfe 1	: alors ?? Que se passe-t'il ??
+Garde Elfe 2	: devons-nous ordonner la mise à mort de votre misérable groupe ?
+Ranger	: nonnonnononnon ! Notre ami le Nain va très bien !
+Mago	: il est juste un peu nerveux.... heuu.. à cause des arbres
+Nain	: Grrmblll....... chieeeer......
+<déplacement Nain>
+Barbare	: c'est pas cool !
+Garde Elfe 1	: je vois que tout est réglé....
+Nain	: (loin) bande de cons !
+Reine	: bien... puisque l'elfe a trouvé la bonne réponse, nous allons lui offrir quelques objets précieux
+Elfe	: mais c'est génial !!
+Ranger	: c'est bien aimable à vous !
+Nain	: (loin) c'est pourri !
+Garde Elfe 1	: les présents de notre Reine sont inestimables !
+Paladin	: comment pourrait-il en être autrement ? Elle est si belle....
+<cui cui cui>
+Elfe	: (super vite) alors c'est quoi c'est quoi c'est quoi ??
+<musique>
+Reine	: voici ....la fiole de Glimed ! Lorsque toute lumière vous aura quitté...elle sera votre allié le plus précieux !
+Elfe	: (ensemble) hooooooo !
+Ogre	: (ensemble) hoooooooo !!!
+Mago	: (ensemble) he ben !
+Barbare	: pas terrible....
+Nain	: (loin) en plus, j'avais dit Flip !
+Elfe	: mais..... comment je peux l'utiliser ?
+Garde Elfe 2	: c'est un beaume tonifiant et raffermissant pour le visage... un bonus redoutable au charisme !
+Garde Elfe 1	: il vous donnera un tein lumineux !
+Elfe	: waaaaaaaaah !
+Ranger	: (ensemble) hem... super...
+Barbare	: (ensemble) hein ?
+Nain	: (ensemble) quoi ?
+Mago	: (se retient de rire)
+Reine	: mon second présent est.... ceci....
+<musique>
+Elfe	: (ensemble) hooooooo !!!
+Ogre	: (ensemble) hoooooooo !
+Ranger	: (ensemble) ouaaaah !
+Paladin	: (ensemble) hoooooo !
+Mago	: la vache !
+Barbare	: hum...
+Nain	: (loin) j'ai dit Flip en premier, ensuite c'était l'elfe....
+Elfe	: il est magnifique !
+Garde Elfe 1	: voici l'arc long de Yemisold.... sculpté par 3 vierges dans la plus haute branche d'un Boulorne millénaire, enchanté par le grand Talifurne lui-même, il est équipé d'une corde en crinière de Centaure !
+Elfe	: ouaiiiis ! C'est trop coooooool ! Je vais pouvoir rendre son arc à mon cousin !
+Mago	: heh beh !
+Ranger	: pas mal.... ça va nous changer !
+Mago	: évidemment, il faut aussi savoir s'en servir...
+Garde Elfe 2	: aucun problème... il est possible d'utiliser cet excellent arc à partir du niveau 6 !
+Elfe	: niveau 6 ??
+Ranger	: ha ! He he...
+Nain	: (loin) hahahahaha !
+Elfe	: mais comment on va faire ???
+Mago	: bahhhh....
+Nain	: (loin) hahaha ! La loose !
+Garde Elfe 1	: comment.... vous n'avez pas le niveau ???
+Ranger	: heuuu....
+Elfe	: (énervée) mais noooooon !
+Nain	: (loin) en plus, elle a même pas dit Flip !
+Reine	: s'il vous plaît... prenez vos derniers présents.... car nous n'avons pas toute la journée à vous consacrer....
+Elfe	: encore des choses ????
+Reine	: ils pourront vous être utile dans votre quête.... voilà....
+Nain	: ça m'étonnerait...
+<donner chaussons>
+Ogre	: huuuuuk ??
+Barbare	: ha ha !
+Ranger	: une paire de godasses ?
+Garde Elfe 1	: ce sont les chaussons de danse de Rizmo Jarbé...
+Elfe	: hooooooooo
+Ranger	: heh beh...
+Garde Elfe 2	: et aussi la boîte à sucres enchantée des 5 chamanes...
+<donner boîte à sucres>
+Nain	: (loin) wah....
+Elfe	: hein ?
+Garde Elfe 1	: une corde elfique de deux mètres
+Ranger	: génial....
+Mago	: 2 mètres ? C'est court !
+Reine	: les 6 fourchettes du calamar catcheur
+Nain	: quoi ?
+Ranger	: des fourchettes ?
+Mago	: des fourchettes ?
+<donner fourchettes>
+Nain	: quoi ?
+Garde Elfe 2	: l'essuie-tout magique de Gloufila
+<donner essuie-tout>
+Elfe	: mais...
+Garde Elfe 1	: les moufles à 3 doigts du mendiant lépreux de Zoyek
+<donner moufle>
+Barbare	: mortel...
+Garde Elfe 2	: les skis nautiques de la Dame Dullak
+<donner skis>
+Garde Elfe 1	: les 9 pics à brochette de Zatoichi
+<donner pics à brochette>
+Nain	: on va pouvoir jouer à la dinette...
+Garde Elfe 2	: l'épée gonflable de Casimir
+Mago	: (soupir)
+<donner l'épée gonflable>
+Reine	: et pour finir, le collier en dents d'ours de l'arrière-grand-oncle de Gamenor
+<donner collier>
+Nain	: ça c'est la classe ! ha ha ha
+<djingle>
+Elfe	: heuuu......
+Mago	: hem... on ne sait pas trop quoi dire....
+Nain	: (loin) hahahaha !!!!
+Paladin	: (émerveillé) tous ces merveilleux objets....
+Ranger	: (agaçé) mais.... mais qu'est-ce que vous voulez qu'on en fasse ???
+Nain	: (loin) hahaha.... ils vous ont refilé toutes leurs merdes !!! (rires)
+Barbare	: c'est naze !
+Reine	: ha, j'allais oublier.... voici également une bourse contenant 12 pierres précieuses !
+<pierres précieuses>
+Nain	: (loin) haha... (ensemble) quoi ????
+Ranger	: (ensemble) quoi ???
+Ogre	: huk ???
+Elfe	: hooooooo merci !!!
+Garde Elfe 1	: ce sera sans doute utile pour vos frais de voyage
+Nain	: des pierres précieuses ????!!! (tousse et râle)
+Paladin	: on pourrait s'acheter des oreillers !
+Reine	: nous devons partir maintenant ! Adieu !
+Elfe	: déjà ?
+Garde Elfe 2	: que l'étoile de Shabrani vous guide
+Garde Elfe 1	: et prenez soin de vos cheveux
+Barbare	: (ensemble) tarlouze !
+Nain	: (ensemble) connard !
+Reine	: adieu !
+<bruits déplacement forêt>
+Ranger	: hey... attendez !!!
+Elfe	: vous êtes super !!
+Mago	: mais... quelle direction devons-nous prendre ???
+Garde Elfe 2	: (ensemble loin) à droite !
+Garde Elfe 1	: (ensemble loin) à gauche !
+Paladin	: merci !
+Ranger	: qu'est-ce qu'ils ont dit ??
+<bruit magique>
+Nain	: hey !!
+Elfe	: ils ont disparu !!!
+Mago	: zut alors !
+Nain	: (loin) sparu ??
+Ranger	: mince... j'ai pas compris pour la direction !
+Barbare	: moi non plus
+Elfe	: c'est trop bête, on aurait pu sortir facilement de la forêt !
+Nain	: (se rapproche) hey toi ta gueule, sale tricheuse !!!
+Ranger	: ho, mais non, faut pas le prendre comme ça...
+Nain	: j'ai gagné l'énigme, alors les pierres précieuses elles sont pour moi !
+Elfe	: la reine me les a données !
+Mago	: calmez-vous maintenant !
+Ranger	: de toutes façons, toutes les richesses gagnées pendant la quête appartiennent au groupe !
+Paladin	: exactement !!
+Nain	: ben ouais, vous prenez les skis, les moufles et les fourchettes, et moi les pierres précieuses !
+Elfe	: ha non alors !!
+Ranger	: alors voilà ce qu'on va faire.... on va ramasser tout ce bordel, on va sortir de la forêt et on verra plus tard pour le partage
+Mago	: allez hop c'est parti !
+Golo	: glok !
+Barbare	: on aurait du les pourrir !
+Mago	: je n'ai pas envie de finir ma vie avec une flèche dans l'oreille
+Paladin	: quand on n'a pas l'avantage, il vaut mieux rester calme...
+Barbare	: c'est nul !
+Nain	: (loin) n'empêche que j'avais dit Flip !
+<djingle de fin>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

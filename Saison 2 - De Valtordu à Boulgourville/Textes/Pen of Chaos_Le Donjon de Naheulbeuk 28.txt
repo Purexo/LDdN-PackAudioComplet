@@ -1,0 +1,394 @@
+<INTRO>
+Voix off	: Après avoir soigné les blessures et achevé les restes d'un jambonneau bien jûteux, la compagnie monte un bivouac au coin d'un bosquet. Ils s'endorment rapidement pour récupèrer d'une longue journée riche en péripéties. Mais la nuit n'est pas forcément des plus calmes...
+<AMBIANCE FORET>
+<Ronflements>
+<Cris de singes>
+Elfe	: (voix endormie) Hein, qu'est-ce que c'est ?
+Mago	: Aieuh ! On m'attaque !
+Ranger	: Hein ? Quoi ?
+Barbare	: Aahhhh !
+Nain	: On nous attaque !
+Ogre	: Takala slitok !
+Barbare	: Aahhhh !
+Ranger	: Mais qu'est-ce que c'est !
+Elfe	: Ha ! Y'en a partout !
+Mago	: Des globzoules !
+Ranger	: Qu'est-ce qu'elle a dit ?
+Mago	: Des globzoules ! Haaa !
+Ranger	: On ne comprend rien de ce qu'elle raconte !
+Nain	: C'est quoi ce bordel !
+Barbare	: Saloperies ! Han !
+Elfe	: Je ne sais pas où j'ai rangé mon arc !
+Ranger	: Il faut s'organiser !
+Nain	: J'ai retrouvé ma hache ! Ha !
+Mago	: (loin) Lâchez mon sac ! Prend ça !
+Ranger	: Le Nain, va aider la Magicienne !
+Nain	: Hey, j'ai pas d'ordres à recevoir !
+Mago	: Haaa !
+Ranger	: Bon sang, mais c'est pas le moment !
+Nain	: Ouais bah tu nous fais déjà chier dans la journée, alors la nuit ça va bien !
+Elfe	: Ils attaquent le Barbare !
+Ranger	: Mais nom d'un chien, faut faire quelque chose !
+Elfe	: Moi j'ai pas d'arc.
+Nain	: Si on y va tous les deux, on pourrait faire un mouvement de pince en faisant le tour du feu de camp !
+Ranger	: D'accord ! Mais tu pars devant le temps que je retrouve mon épée !
+Nain	: Ha non, ça c'est trop facile !
+Ranger	: Quoi ?
+Elfe	: On ne sait même pas combien y'en a !
+Ranger	: Mais c'est pas à toi que je parlais !
+Nain	: C'est trop facile quand-même !
+Ranger	: Et si heu... On crée une diversion en agitant des tissus colorés !
+Elfe	: C'est super !
+Nain	: Non, c'est nul.
+Ranger	: Mais allez, quoi !
+Nain	: Et d'ailleurs, tu vas les trouver où les tissus ?
+Ranger	: Mais j'en sais rien moi ! C'était une idée comme ça !
+Elfe	: Ah, voilà mon arc !
+Ranger	: Et voilà mon épée ! Ha ! C'est trop con elle était sous mon sac !
+Nain	: Okay, alors on y va !
+Mago	: (sort) Tagh Him zapeliah !
+<bruit électrique>
+<cri de mort, et fin bataille>
+Barbare	: Ouais !
+Ogre	: Houaou !
+Ranger	: Hein ?
+Mago	: Je les ai eus ! Ha ha !
+Nain	: Mais qu'est-ce qui s'est passé ?
+Barbare	: On les a massacrés !
+Elfe	: C'était quoi cette chose lumineuse ?
+Mago	: Un éclair en chaîne ! Il était vachement réussi !
+Ranger	: Mais... Et nous, qu'est-ce qu'on fait là-dedans ?
+Nain	: Ouais, vous vous faites pas chier quand-même !
+Ranger	: On était en train d'élaborer un plan pour vous sauver.
+Nain	: Et là, hop, y'a plus d'ennemis !
+Ranger	: Alors de quoi on a l'air hein ?
+Mago	: Vous avez l'air de deux couillons.
+Elfe	: On est trois, parce que j'étais avec eux.
+Nain	: Je refuse d'être dans le même groupe que l'Elfe.
+Mago	: (soupir) On est plus à ça près...
+Elfe	: (loin) Et c'est quoi un couillon ?
+Ranger	: En tout cas, on s'est fait surprendre.
+Nain	: C'était bien la peine de se réveiller.
+Mago	: Si on veut éviter ça, il faudrait reconsidérer l'histoire des tours de gardes.
+Ranger	: Ho, mais on en a déjà parlé !
+Nain	: C'est pas si simple !
+Mago	: Bon, en tout cas nous avons tué une dizaine de globzoules, ça va nous faire quelques points d'expérience !
+Ogre	: Miammiam zaloss !
+Nain	: C'est quoi ces bestioles ?
+<début mastiquation>
+Mago	: Ce sont des singes buveurs de sang, qu'on peut trouver dans la partie Nord du pays.
+Ranger	: Je pensais que les singes ne vivaient que dans le Sud.
+Elfe	: Ils n'ont pas l'air sympathiques.
+Ranger	: Mais je remarque que leur viande est comestible pour les ogres.
+Ogre	: Huh huh. Glazor !
+Mago	: Il dit que tu devrais goûter.
+Ranger	: Bèèèèh !
+Elfe	: C'est dégueulasse !
+Ranger	: Alors, à part ça, personne n'a été blessé dans la bataille ?
+Nain	: Bah moi non, j'ai pas bougé.
+Mago	: Quelques griffures et des ecchymoses superficielles pour moi. Mais je n'ai pas été mordue.
+Barbare	: Moi j'ai pas mal.
+Elfe	: Tu as des traces de dents sur le bras !
+Barbare	: C'est rien du tout.
+Mago	: Si tu as été mordu, il faut désinfecter sur le champ. Les morsures de globzoules ont quatre-vingt deux pour cent de chances de s'infecter !
+Ranger	: Ha mince !
+Barbare	: C'est des conneries !
+Mago	: Allez allez ! On va s'en occuper !
+Elfe	: Est-ce qu'on a de l'alcool ?
+Nain	: Bah, moi j'ai du picrate, mais c'est pour boire.
+Mago	: C'est pas assez fort.
+Ranger	: J'ai récupéré la bouteille jaune avec les frelons, il en restait un peu dans le fond.
+<fin mastiquation>
+Mago	: Ha bon ? Mais qu'est-ce qui t'a pris de garder cette horreur ?
+Ranger	: Bah, je me suis dit qu'on pouvait s'en servir pour tuer des monstres.
+Nain	: (loin) Bon, moi je vais me recoucher ! Ha !
+Elfe	: Ça doit pouvoir tuer les infections aussi !
+Mago	: C'est vrai ! Allez, fais voir ton bras !
+Barbare	: Ouais, ouais.
+Elfe	: Attention ça va faire un peu mal.
+Barbare	: La douleur est une simple information.
+<bruit de bouchon>
+Ranger	: Voilà la bouteille.
+Elfe	: Quelqu'un doit tenir le bras, je vais verser l'alcool.
+Ranger	: Voilà, c'est bon.
+Elfe	: Et hop !
+Barbare	: Gheuuuuuguughhhh....
+Mago	: Ça pique ?
+Barbare	: Gheuuuuuguughhhh....
+Elfe	: Il fait une drôle de tête.
+Barbare	: GheuuuARRRGH !
+<coup dans le Ranger>
+Ranger	: Aieuh !
+Elfe	: (ensemble) Attention !
+Mago	: (ensemble) Doucement !
+Ranger	: (nasillard) Mais ho ! Pourquoi tu m'as frappé !
+Barbare	: C'était un réflexe.
+Elfe	: Évidemment, ça fait drôlement mal !
+Barbare	: Non ! Un Barbare n'a jamais mal !
+Ranger	: (nasillard) Ha, putain !
+Mago	: Enfin, là, quand-même tu avais l'air de...
+Barbare	: Non.
+Elfe	: Y'a pas de honte à ressentir la souffrance quand on est humain.
+Barbare	: Chuis un Barbare.
+Mago	: (soupir) Bon...
+Ranger	: (nasillard) La discussion ne risque pas d'avancer, alors je propose qu'on se recouche (renifle).
+Mago	: C'est ça. En attendant la prochaine attaque.
+Elfe	: Mais on ne va pas dormir au milieu des cadavres ? Il faudrait nettoyer un peu non ?
+Nain	: (loin) Bah t'as qu'à le faire ! Moi je dors !
+Ranger	: (nasillard) Et y'aurait pas un chiffon pour mon nez là ? Ho...
+<transition musique>
+Voix off	: La nuit s'achève sans autre incident, dans les ronflements et les habituelles odeurs de pieds. Après une grasse matinée plutôt longue, le groupe disposant d'une journée d'avance se dirige tranquillement vers Boulgourville. Une pluie violente se met à tomber, la Magicienne propose alors de s'arrêter dans une étrange baraque en bois.
+<ambiance pluie>
+Mago	: Qu'est-ce que vous en pensez ?
+Elfe	: C'est beau !
+Nain	: C'est moche.
+Barbare	: C'est coloré.
+Ranger	: Moi je m'en fous, j'aimerai juste me mettre à l'abri !
+Mago	: Mais On frappe, ou bien on pousse la porte ?
+Ogre	: Kadola glouki !
+Mago	: Oui, je suppose que ça n'a pas trop d'importance...
+Barbare	: Bon, alors j'ouvre...
+<porte qui s'ouvre>
+Ranger	: Allons-y !
+<pas sur le parquet>
+Elfe	: Ha, il fait meilleur ici ! Brrr...
+Mago	: C'est assez sombre...
+Nain	: Ha merde, y'a quelqu'un !
+Ranger	: Zut...
+<musique asiatique>
+Sage	: Que signifie cette intrusion ?
+Ranger	: Heu... Bonjour bonjour... Tout ça... Hum.
+Elfe	: Oui bonjour !
+Mago	: Salutations !
+Barbare	: Ouais !
+Sage	: Hum... Des aventuriers...
+Ranger	: C'est exact !
+Nain	: Sauf que moi, je suis un Nain.
+Sage	: Il y a plusieurs cycles lunaires que je n'ai pas eu la visite d'aventuriers... Je constate qu'ils sont toujours aussi malpolis.
+Ranger	: Ha, heu... Nous sommes désolés !
+Elfe	: C'est à cause de la pluie !
+Sage	: La pluie ! L'eau du ciel ! Elle ruisselle sur la feuille dorée, mais toujours s'arrête sur la carapace du cancrelat.
+Nain	: Ha.
+Ranger	: Hum.
+Barbare	: Hein ?
+Mago	: Et bien... En ce qui nous concerne, nous sommes en route vers Boulgourville.
+Sage	: Boulgourville. Noble cité qui se dit perdue mais dont l'ardeur à se cacher n'a d'égale que son envie d'apparaître. Toujours plus haut, le vol du vautour qui scrute la plaine pour y trouver la chèvre morte. Oui, Boulgourville.
+Ranger	: Hum.
+Elfe	: Holala. Mais qu'est-ce qu'il dit ?
+Ogre	: Huk ?
+Ranger	: On n'a vu aucune chèvre morte.
+Mago	: Mais... Qui êtes vous donc, vieil homme ?
+Sage	: Le corbeau mouillé doit toujours se présenter avant d'aller puiser les mots à la source claire !
+Ranger	: (ensemble) Hein ?
+Mago	: (ensemble) Quoi ? C'est moi le corbeau mouillé ?
+Elfe	: Heu...
+Nain	: Bon bah ça y est, j'en ai marre.
+Ranger	: Il faut qu'on se présente j'ai l'impression.
+Mago	: (soupir) Nous sommes une compagnie d'aventuriers, mais nous n'avons pas encore de nom !
+Ranger	: C'est un peu nouveau, vous voyez.
+Nain	: Ouais, enfin ça fait quand-même une semaine du coup !
+Sage	: Vous avez donc la jeunesse du roseau. S'il n'est pas possible de vous nommer, vous ne le serez pas, et néanmoins cela n'empêchera pas la grande course du temps. Comme les fourmis qui cherchent la confiture dans les placards. Je suis moi-même Song-Fu, de l'école de la Montagne Blanche.
+Mago	: Song-Fu ?
+Sage	: Mais les gens d'ici m'appelle le Vieux Sage.
+Ranger	: Ha, voilà ça explique !
+Nain	: Ouais !
+Ranger	: On m'a dit que c'était normal si on ne comprenait pas les sages.
+Sage	: L'horizon qui prend sa couleur au matin dans la brume ne la garde pas jusqu'au soir.
+Nain	: Voilà ! Encore une phrase qui ne sert à rien.
+Barbare	: Bon alors qu'est-ce qu'on fait ?
+Mago	: Monsieur Song-Fu, nous aimerions passer un moment à l'abri dans votre maison.
+Ranger	: Ouais, voilà. C'est parce qu'il pleut dehors.
+Nain	: Et ça fait rouiller les haches.
+Sage	: Prenez place sur le sol, car le vieux Song-Fu a bien des choses à raconter aux aventuriers.
+Nain	: Bah en fait, c'est surtout ça qui m'ennuie moi... Quand vous parlez là...
+Mago	: Rha ! Mais la ferme !
+Nain	: Non mais bon, c'est toujours mieux que dehors hein !
+Ranger	: Voilà, on s'installe.
+<bruits d'aventuriers s'installant>
+Elfe	: C'est joli chez vous !
+Sage	: Rien ne peut égaler la brillance magnifique des écailles du grand dragon de jade.
+Ranger	: Ha, si vous le dites...
+Elfe	: Et puis nous on n'a pas le niveau pour les dragons.
+Sage	: Bien, bien. Alors quelles questions voulez-vous donc poser au vieux Song-Fu ?
+Ranger	: Bah...
+Barbare	: Rien du tout.
+Mago	: C'est vrai qu'en fait on est surtout venus pour éviter la pluie.
+Nain	: Par contre, si vous avez un peu de pinard...
+Ogre	: Glouglou !
+Sage	: Nombreux sont les jeunes loups qui ont traversé le monde pour chercher la connaissance du vieux Song-Fu. Il en est passé autant que les feuille d'un grand Boulorne.
+Ranger	: Ha... Et ben, c'est super ça.
+Nain	: Ça vous fait des bonnes soirées !
+Sage	: Maintenant que vous êtes sous mon toit, la vérité sur bien des mystères pourra vous être révélée.
+Ranger	: Non non, ça va.
+Nain	: (loin) Et sinon pour le pinard ?
+Elfe	: Mais... Vous voulez dire que vous pouvez répondre à des questions ?
+Sage	: Tel est le destin lumineux qui est le mien depuis l'avènement du Grand Trilobique.
+Ranger	: Le quoi ?
+Mago	: Ha, c'est chouette !
+Nain	: Sauf qu'on ne va rien comprendre aux réponses...
+Barbare	: Ouaip.
+Elfe	: Et bien moi, j'aimerai savoir à quoi servent mes bracelets !
+Ranger	: Pfff !
+Nain	: En tout cas ils ne donnent pas l'air intelligent !
+Elfe	: Mais heu !
+Sage	: Ces bracelets en cuir d'Uruk sont enchantés par la méthode de Galdaz et donnent un bonus à la parade de +2 lors des combats rapprochés.
+Ranger	: Ouah !
+Mago	: Incroyable !
+Nain	: Hey bah, il parle normalement !
+Elfe	: Mais... Je ne fais jamais les combats rapprochés ! Je tire des flèches.
+Sage	: Ceci est bien dommage, pour une jeune fille à la poitrine si arrogante.
+Ranger	: Ha ! C'est exactement ce qu'on lui a dit !
+Nain	: En plus, elle vise n'importe comment.
+Elfe	: Mais non c'est pas vrai !
+Ranger	: Bon c'est mon tour !
+Sage	: Faites comme bon vous semble.
+Ranger	: J'aimerai savoir pourquoi on n'arrive jamais à garder les aventuriers qui viennent se joindre à notre équipe !
+Mago	: Ha, voilà une bonne question !
+Nain	: Parce que c'est des gros nases ! Voilà !
+Barbare	: Ouais.
+Ranger	: He ho, on ne vous a pas sonné !
+Mago	: Laissez parler le sage !
+Ranger	: Alors, monsieur Tufong ?
+Sage	: Song-Fu est mon nom.
+Mago	: Oui, d'accord mais pour la question ?
+Sage	: Hum... Disons que... En cherchant dans une voie on ne trouve rien dans une autre, mais souvent cela ne sert à rien d'autre qu'à s'oublier soi-même.
+Nain	: (ensemble) Ha bah, voilà !
+Ranger	: (ensemble) Comment ?
+Elfe	: (ensemble) Hein ?
+Barbare	: (ensemble) Quoi ?
+Mago	: Mais... Je suis désolé, maitre Futong, nous n'avons pas compris la réponse.
+Sage	: SONG-FU !
+Mago	: Que veut dire cette énigme ?
+Sage	: Quand vous aurez compris le sens de mes mots, vous aurez également compris pourquoi vous êtes peut-être assez nombreux dans cette compagnie.
+Nain	: Ha ! Bah moi j'ai pas besoin de ça, je trouve qu'on est déjà trop nombreux !
+Elfe	: Mais tais-toi !
+Ranger	: Ouais, tu pourrais la fermer un peu ?
+Barbare	: On pourrait ajouter des Barbares dans l'équipe.
+Mago	: Et moi, je peux poser une question ?
+Sage	: Cela m'emplit d'une joie sans limite.
+Mago	: Alors voilà : quel est l'aboutissement final de la prophétie de la porte de Zaral Bak ?
+Nain	: Parce que nous, on trimbale la dernière statuette depuis une semaine.
+Sage	: Ho !
+Ranger	: Voilà.
+Barbare	: Mais moi j'en ai d'autres aussi dans un sac.
+Sage	: Ho. Ma joie s'évanouit à présent.
+Ranger	: Comment ça ?
+Sage	: Comme l'oiseau qui voit ses petits tombés du nid piétinés par les éléphants, il m'est difficile de vous répondre sans avoir de pensée mélancolique.
+Elfe	: Hein ?
+Nain	: C'est un truc avec des piafs ?
+Sage	: Le désert de l'oubli recouvre à présent mon esprit, quand toute vie s'apprête à disparaître dans le grand néant par la faute de quelques ignorants.
+Ranger	: Hein ?
+Mago	: C'est votre réponse ça ?
+Sage	: Hélas, je dois maintenant mettre un terme à mon existence.
+Elfe	: Mais qu'est-ce que vous racontez ?
+Ranger	: Ho, vous déconnez là ?
+Mago	: Et la réponse alors ?
+Sage	: Je n'ai pas su guider les hommes vers la sagesse.
+Barbare	: J'en ai marre.
+Mago	: Mais... Maître Songsong...
+Sage	: Le fantôme de l'échec se rit de moi.
+Ranger	: C'est pas la peine de faire cette tête !
+Nain	: Non sérieux, ça devient chiant !
+<dégaine>
+Sage	: Adieu ! Argl !
+Mago	: Hé !
+Ranger	: Ho !
+Mago	: Bon sang !
+Nain	: Ha !
+<bruit gore>
+Nain	: Faites pas le con !
+Elfe	: Nooooon !
+Ranger	: Damned !
+<corps qui tombe>
+Elfe	: Mais c'est terrible !
+Barbare	: Ouah !
+Nain	: J'hallucine ! Il s'est ouvert le bide !
+Elfe	: Holala !
+Mago	: Mais... Mais qu'est-ce que j'ai dit ?
+Nain	: Et bah...
+Ranger	: Et lui, qu'est-ce qu'il a dit ?
+Mago	: Mais j'en sais rien !
+Ranger	: Mais c'est ton boulot d'écouter les trucs des sages !
+Mago	: Je n'ai pas vraiment écouté sur le coup ! C'était bizarre.
+Elfe	: Moi j'ai écouté ! Il a dit que des éléphants marchaient sur les oiseaux tombés du nid dans le désert du néant.
+Ranger	: Mais non, c'était pas ça !
+Nain	: Non, c'était une histoires d'oiseaux ignorants avec des éléphants mélancoliques qui s'évanouissent avec les fantômes et toute la vie machin.
+Mago	: Rhaaa ! C'est tout embrouillé !
+Barbare	: En tout cas y'avait des éléphants.
+Elfe	: Je suis certaine qu'ils marchaient sur les nids d'oiseaux !
+Mago	: Pff !
+Ogre	: Sprotch cuicui, huh huh.
+Ranger	: Bon bah on n'a pas eu la réponse... C'est malin.
+Elfe	: Et voilà encore un vieil homme qui est mort à cause de nous.
+Barbare	: J'ai rien fait moi !
+Ranger	: Oui, bah c'est bien la première fois.
+Nain	: C'est la faute de la Magicienne !
+Mago	: Mais non !
+Nain	: Hey je me demande un truc ?
+Ranger	: Ha ouais ? Vas-y ?
+Nain	: Vous croyez que ça donne des points d'expérience de faire suicider les gens ?
+<djingle>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

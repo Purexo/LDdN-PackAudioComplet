@@ -1,0 +1,297 @@
+Voix off	: Dans la noirceur ténébreuse et glauque de l'Obscur Chateau de Gzor, une poignée de braves aventuriers s'apprêtent à combatte une ignoble taupe-garou ! Ses multiples yeux aveugles renvoient à son cerveau, flétri par le Chaos, l'image d'une troupe de baltringues cherchant avec désespoir une issue de secours. Un type se prenant pour le chef de groupe tente une attaque plutôt malhabile, armé d'un sandwich au thon, ayant visiblement oublié que son épée était toujours au fourreau. Et soudain, c'est le drame...
+Ranger : Hé ho ! Hé ! Y'a quelqu'un ? La vache, toute cette lumière... Ho ! On a foiré la téléportation ou quoi ? C'est vraiment nase cette idée de couronne magique... Mais où sont les autres ?
+Archange	: Bonne éternité !
+Ranger	: Hein ?
+Archange	: Je disais : bonne éternité !
+Ranger	: Mais... Qu'est-ce que vous racontez ?
+Archange	: Bah... Oubliez ça... C'est ma blague préférée quand on reçoit un nouveau !
+Ranger	: Un nouveau ?
+Archange	: Enfin... Normalement, c'est marrant... Maintenant, ça dépend des gens, tout le monde n'est pas forcément réceptif à mon humour archangique... ou archangesque ? Non, archangien... Archangique peut-être ?
+Ranger	: Hé ! C'est quoi ce bordel ? Vous allez m'expliquer ?
+Archange	: Vous dites ?
+Ranger	: Et ben... J'aimerai savoir deux-trois bricoles... Par exemple où je suis, qui vous êtes, pourquoi ça sent les fleurs, et pourquoi y'a toute cette lumière.
+Archange	: Allez allez... Vous posez des réponses, mais vous connaissez déjà les questions !
+Ranger	: Pardon ?
+Archange	: Heu... Je disais que vous n'avez pas besoin de savoir ce que vous savez déjà... Tous ces détails, par ailleurs, n'ont plus aucun intérêt maintenant...
+Ranger	: Heu... Attendez... Vous voulez dire que...
+Archange	: C'est bien cela ! Vous êtes décédé mon pauvre ami !
+Ranger	: Décédé ? Bon sang... C'est.. Merde alors... Déjà ?
+Archange	: Ne vous plaignez pas... Vous êtes au paradis des aventuriers... C'est déjà pas mal...
+Ranger	: Mais ce n'est pas vrai ! Hey !
+Archange	: Si vous étiez encore niveau 1, vous seriez au paradis des bouseux... Et là, franchement, c'est pas drôle, ha ha ha ha !
+Ranger	: Mais non ! Vous êtes dans mon cauchemar ! Salaud !
+Archange	: Mais enfin, calmez-vous !
+Ranger	: Allez ! Sortez de ma tête !
+Archange	: Si vous me secouez encore, je vous jure que je vous condamne à 15.000 ans de nettoyage de latrines !
+Ranger	: Mais je ne peux pas mourir comme ça ! En plus j'ai encore un point de destin !
+Archange	: Ah bon ? Tiens donc, c'est amusant ça...
+Ranger	: Non, je ne trouve pas que ce soit très amusant, désolé...
+Archange	: Mais si, parce que si vous êtes encore là, c'est que vos équipiers n'ont trouvé aucun moyen d'utiliser votre point de destin... C'est tout de même coquasse, non ?
+Ranger	: Vous êtes en train de parler de ma mort ! Même si vous mettiez un costume de dindon, je suis désolé mais ça ne serait jamais amusant !
+Archange	: Ah... Bon, de toutes façons, cette discussion est terminée.
+Ranger	: Hein ?
+Archange	: Et oui... La compagnie de... machintruc n'est pas si nulle que ça, on dirait...
+<Bruit magique et explosion>
+Ranger	: Hey... Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+<Explosion>
+Ranger	: Ahhhhhhhh ! (respiration)
+Mago	: Le voilà !
+Elfe	: Oui !
+Ogre	: Kopaing !
+Nain	: Alors la mauviette !
+Ranger	: Qu'est-ce qui se passe ?
+Mago	: Tu es revenu d'entre les morts grâce au point de destin !
+Ranger	: Quoi ? C'était vrai ?
+Barbare	: Et grâce à la force de Crom !
+Nain	: Hey n'empêche... Je lui ai bien pourri la face aussi ! Ha ha ha !
+Barbare	: Ha ha ha !
+Ranger	: Mais... J'étais mort pour de vrai ?
+Nain	: Bah ouais ! Mais quelle idée aussi d'attaquer un monstre avec un sandwich au thon !
+Ranger	: Dans la panique... J'ai confondu avec mon épée !
+Barbare	: Tu as besoin d'entraînement...
+Mago	: Surtout que maintenant... Tu n'as plus de point de destin alors faut pas déconner !
+Ranger	: Ho non ! Mais qu'est-ce que je vais devenir ?
+Nain	: Hey... T'aurais dû voir ça ! J'ai fait un croche-pied à la taupe-garou !
+Mago	: Et oui, tu avais pris un double coup de patte sur le torse !
+Nain	: Direct dans les pommes !
+Ranger	: Mince alors...
+Elfe	: A ce moment, la magicienne a lancé le contrôle mental des rongeurs !
+Mago	: Oui bon, ça va... On n'est pas obligé d'en parler...
+Elfe	: Alors, ça n'a pas marché, parce que les taupes sont des insectivores de la famille des talpidés !
+Mago	: Oui, ben, on n'est pas obligé d'en parler...
+Elfe	: Et donc techniquement, la taupe n'est pas un rongeur, alors le contrôle mental (coupe)
+Mago	: On n'est PAS OBLIGÉ D'EN PARLER ! (super vite)
+Ranger	: Je me sens faible... Laissez-moi respirer...
+Nain	: Nan mais ce qui était marrant, c'est que le barbare lui a coupé une patte avant... Y'avait du sang qui giclait partout, pendant que la bestiole elle essayait de nous frapper avec une patte inexistante ! Ha ha !
+Barbare	: Ouais c'était cool !
+Ogre	: Huh huh huh !
+Nain	: Alors moi, hop discrétion je suis passé sur le côté et j'ai attaqué son flanc à la hache !
+Barbare	: La classe !
+Elfe	: Au moment où la taupe géante aurait dû t'achever en déchiquetant ton abdomen, je lui ai tiré une flèche !
+Nain	: Bon, tu l'as touchée mais il faut dire qu'elle occupait une moitié du couloir !
+Elfe	: C'était une bonne flèche quand-même...
+Barbare	: Ouais, pas trop mal.
+Nain	: Enfin bref, moi je lui ai tailladé le bide ! Shlak !
+Barbare	: Elle a perdu ses tripes !
+Nain	: Alors vu que tu étais par terre, tous ses intestins ont dégouliné sur toi ! Ha ha ha !
+Ranger	: Hein ?
+Mago	: On a cru que tu allais mourir étouffé !
+Ranger	: Ha... Mais c'est dégueulasse !
+Elfe	: Y'en avait partout c'était immonde !
+Ogre	: Znivo takoul oklagh !
+Mago	: Il dit que c'est pour ça que tu sens la vieille charogne !
+Elfe	: Il faut bien reconnaître que ça chlingue.
+Ranger	: Ha, et puis je suis tout gluant !
+Mago	: Bon c'est pas tout ça, mais maintenant il faut se tirer !
+Ranger	: Mais... Je ne peux pas bouger ! J'ai mal partout, je me sens... faible.
+Elfe	: Mais on ne peut pas rester dans le Château de Gzor !
+Mago	: C'est vrai... On ne sait pas quel genre de monstre peut débouler d'une seconde à l'autre...
+Ranger	: Ho non ! Mais... Je vais remourir !
+Nain	: Je les attends moi !
+Barbare	: Ouais moi aussi !
+Mago	: Tu fais le malin, mais tu as oublié ton épaule qui pisse le sang !
+Nain	: Pas grave ! Ça picote un peu, mais j'ai encore la moitié de mes points de vie.
+Mago	: Rhooo pfff !
+Ranger	: OK... On va se téléporter... Passez-moi un barrette à cheveux...
+Elfe	: C'est trop mignon les petits lapins !
+Ranger	: Pfffff....
+Mago	: Je vais te faire mon dernier soin magique, et puis je prépare le transfert.
+Ranger	: Ha... super... merci !
+Mago	: Hey, ça fera quand-même 6 pièces d'or !
+Nain	: Et encore, c'est sans les taxes !
+<Transition>
+Voix off	: Quelque part au milieu de la troposphère, deux individus encapuchonnés et frigorifiés tentent de trouver une solution à leur problème...
+Reivax	: Heu... J'ai froid, maître ! J'ai tellement froid !
+Zangdar	: Moi aussi ! Ce n'est pas la peine d'en rajouter !
+Reivax	: Mais nous allons tous mourir si nous ne faisons rien ! En plus il fait nuit !
+Zangdar	: Heu... C'est une possibilité... Mais enfin, ça me paraît assez improbable !
+Reivax	: Ha bon ? Et vous avez vu ce qui est arrivé au thermomètre ? Et à l'altimètre ? C'était improbable aussi, et pourtant, nous voilà coincés dans le ciel à des kikilomètres du sol !
+Zangdar	: Des kikilomètres ?
+Reivax	: J'ai froid et j'en ai marre ! Voilà ! La lampe à huile va s'éteindre !
+Zangdar	: Et qu'est-ce qu'on peut faire ? Nous sommes entourés d'incapables !
+Reivax	: Mais vous avez balancé nos pilotes par l'écoutille ! Ce n'était pas une très bonne idée si je puis me permettre !
+Zangdar	: Tu ne peux pas te permettre de remettre en cause mes actes !
+Reivax	: Comme nous allons mourir, de toutes façons... Je m'en tape ! Voilà !
+Zangdar	: Comment ? Mais... Vil chacal !
+Reivax	: Ho... Ce n'est plus la peine de m'insulter maintenant... Ca ne changera rien au fait que nous allons mourir congelés... Et puis j'en profite pour préciser que si vous n'aviez pas dit aux aventuriers de prendre toutes les statuettes... Ils seraient partis avec la verte moche, et on n'en serait pas là !
+Zangdar	: Ha mais !! Mais !! Mais...
+Reivax	: Vous avez coulé vous-même notre fond de commerce !
+Zangdar	: Rha ! Je n'ai... Je n'ai pas... Ho et puis merde ! Je sais que je fais n'importe quoi quand je m'énerve... J'ai toujours essayé de le cacher... Franchement ce n'est pas facile, avec l'enfance que j'ai eue... Tu ne peux pas savoir ce que ça fait quand... Enfin, qu'importe... Maintenant, nous allons mourir, effectivement. Mais nous resterons des légendes !
+Reivax	: Heu... Je pense que je préfère être en vie, personnellement.
+Zangdar	: On ne peut plus rien y faire.
+Reivax	: Et... Peut-être qu'on peut essayer de tirer sur cette grosse poignée là ? On n'a jamais essayé je pense.
+Zangdar	: Mais... Cet idéogramme... On dirait qu'il indique un danger.
+Reivax	: Oui mais bon... Le danger de mourir congelé en ne faisant rien, il est de l'ordre de la certitude...
+Zangdar	: Bon... Et bien soit, tire sur la poignée ! Ça m'importe peu.
+Reivax	: Heu... D'accord, mais... Vous penserez à mon augmentation si on s'en sort ?
+Zangdar	: Une augmentation ? Mais avec quel argent ? Les caisses sont vides, abruti !
+Reivax	: Ha oui... Bon, bah alors j'y vais !
+<BRUIT DE LEVIER>
+<CHUTE DU DIRIGEABLE>
+Reivax	: (stressé) Je crois... Qu'on tombe ! Haaaaaaaaaaaaaaaaaaaaaa !
+Zangdar	: Haaaaaaaaaaaaaaaaaaaaaaa !
+<Transition warp zone>
+Mago	: Cette fois, on devrait arriver à Boulgourville directement !
+Ranger	: J'espère bien, sinon tu pourras te trouver une nouvelle compagnie !
+Mago	: T'es quand-même vachement ingrat pour un type qui vient de recevoir un soin magique.
+Nain	: (loin) En plus, c'est pas toi le chef !
+Ranger	: C'était pas un service rendu, puisque j'ai payé !
+Mago	: Pff... Bon qu'importe... Je ne suis plus à ça près !
+Elfe	: Et de toutes manières, on ne pourra pas atterrir dans un endroit plus nase !
+Nain	: T'es vachement optimiste ! On n'a pas encore essayé la lave en fusion, les égoûts de Waldorg, les champs de cactus géants, une salle de banquet chez les ogres, une arène pour l'entrainement des minotaures, une émission de Mireille Dumas, la caverne de...
+Ranger	: Rhaa ça va on a compris !
+Mago	: Heu... Il faudrait que tu me files ta bague... On n'a plus d'objet magique valable pour utiliser la couronne...
+Ranger	: Quoi ? Mais ça va pas ?
+Mago	: Si tu ne veux pas, on n'a plus qu'à attendre la prochaine taupe-garou !
+Ranger	: (soupir, agacé) Tiens, voilà ma bague...
+Nain	: Ça alors ! Quand tu l'enlèves, y'a rien qui change !
+Ranger	: (dégoûté) Ouais, c'est facile tiens... Quel connard !
+Nain	: Ha ha !
+Mago	: C'est bon ! Allez hop, tout le monde en cercle !
+Elfe	: C'est parti !
+<bruit de téléportation>
+Ranger	: Attention... La vibration revient... Haaaaaaaaaa !
+Mago	: Vers la fin de l'aventure ! Wooooooohooooooo !
+Nain	: Hola ! Tu marches sur mon pied ! Ha, quelle connerie !
+Elfe	: Wahouuuuuuuu !
+Ogre	: Glooooooo ! Huh huh huh ! Gloooooooo !
+Barbare	: Crom ! Yaaaaaaaaaaah !
+<fin de la téléportation, électricité>
+<Ambiance campagne>
+Ranger	: Ha !
+Elfe	: C'est réussi !
+Mago	: Ouf !
+Nain	: (loin) J'ai encore mes vêtements !
+Ranger	: Alors ?
+Mago	: Eh ben... Voilà, on est arrivés !
+Ogre	: Glok !
+Elfe	: Mais on est dehors !
+Nain	: Et il fait nuit !
+Mago	: C'est toujours mieux que dans le Chateau de Gzor...
+Ranger	: Je ne suis pas spécialiste en village... Mais si on était à Boulgourville, est-ce qu'on ne devrait pas voir des maisons ?
+Mago	: Ce que t'es négatif ! Attends je rallume mon bâton... Sh'ta imiss anzzerrrr !
+<allumage bâton>
+Elfe	: L'air est frais ! Et ça sent bon la campagne !
+Barbare	: (agacé, grondement) Grrr !
+Ranger	: Mon air à moi, il sent la tripe de taupe...
+Nain	: Bon c'est quoi cet endroit !
+Mago	: Rha, deux secondes ! Je consulte le GPS ! On va savoir exactement où on est.
+Ranger	: T'as plutôt intérêt !
+Nain	: J'en conclus qu'on peut donc se trouver n'importe où... Bravo !
+<applaudissement du Nain>
+Mago	: Mais non, c'est juste que la précision du transfert kiltonien est un peu... enfin tu vois...
+Ranger	: (soupir)
+Barbare	: Ça vient ?
+Nain	: Ça marche bizarrement ton machin là...
+Mago	: Et voilà ! Nous sommes à 10 kilomètres ! Yaha !
+Ranger	: Dix kilomètres ? Tu parles d'une précision !
+Nain	: C'est nul !
+Barbare	: Merde...
+Mago	: Vous voyez la carte là ? Et bien, on a gagné plus de 60 kilomètres avec la téléportation ! Ha ha !
+Elfe	: Mais c'est génial !
+Nain	: Ha ?
+Ogre	: Glok ! Eto Mago zuilika !
+Ranger	: Haaaa... Oui effectivement il faut reconnaître... Enfin si c'est vrai... On a gagné une journée !
+Mago	: Et oui ! Voilà un bon exemple de victoire de l'esprit sur la matière !
+Nain	: Mouais... Moi j'attends de voir...
+Barbare	: Bon alors, on fait quoi ?
+Elfe	: Je suis fatiguée...
+Ranger	: C'est vrai qu'il est tard... Je propose de camper près du bosquet là-bas ! Si on a un jour d'avance, on ne va pas se compliquer la vie et...
+<bruit magique>3
+Nain	: Hey ! Mais... Mais...
+<musique>
+Elfe	: (ensemble) Quoi ?
+Ranger	: (ensemble) Qu'est-ce qu'il y a ?
+Ogre	: Huk ?
+Nain	: Hey ! Regardez ! Merde, j'ai une troisième jambe qui a poussé dans mon... dans mon... (coupe)
+Ranger	: Damned !
+Barbare	: Ouah !
+Nain	: Rhaaaaa !
+Mago	: Effectivement, on dirait qu'elle est directement sortie de ton (coupe)
+Ranger	: Stop ! Il faut comprendre ce qui se passe !
+<deplacement Nain qui râle>
+Nain	: Mais enlevez-moi ça !
+<bruit magique>
+Nain	: Haaaa ! Haaaaaaa !
+<cris du Nain>
+Ranger	: Et une autre !
+Barbare	: Crôm !
+Elfe	: Son pantalon est tout déchiré !
+Ranger	: Mais ça rétablit l'équilibre...
+Mago	: C'est sans doute un truc magique !
+Elfe	: Il n'était déjà pas beau avant !
+Ogre	: Huh huh huh !
+<bruit magique>
+Nain	: Haaaaa !
+Ranger	: Et hop, une autre...
+Mago	: Mince !
+<bruit magique>
+Nain	: Haaaaaaaaa !
+Ranger	: Est-ce que tu as mal ?
+Elfe	: Et ça continue !
+Nain	: Haaaaaaaaaa ! Haaaaaaaa ! Ho ! Ça marche tout seul !
+Ranger	: Essaie de nous expliquer ce que tu ressens !
+<déplacement du Nain droite-gauche>
+Nain	: Je ne peux paaaaaas les contrôoooooooler ! Chiotte de bordel de pourriture de saloperie d'enflure de connerie !
+Mago	: Je crois que je sais ! Ce sont les effets secondaires du transfert !
+Ranger	: Quoi ? Quels effets secondaires ?
+<bruit magique>
+Barbare	: Ha ha !
+Nain	: Haaaaaa ! Putain de merde ! Non j'ai pas envie d'aller là-bas !
+Mago	: C'est dans le manuel ! Ils disent qu'on peut se retrouver avec des membres supplémentaires, dans le cas d'utilisations trop fréquentes de la couronne !
+Ranger	: Quoi ? Mais pourquoi t'en as pas parlé avant !
+Mago	: J'avais un peu autre chose en tête ! On a failli crever dans le Château !
+Ranger	: Ha, quel bordel !
+Elfe	: Doucement !
+Ranger	: Attention les orties !
+<bruit magique>
+Elfe	: On dirait une grosse araignée qui pue.
+Ranger	: Ha ha ha !
+Mago	: Effectivement.
+Nain	: Mais heu ! Ahhhhhhhhhh !
+<bruit magique>9
+Nain	: J'en ai maaaaaaaaaarrrrrrrrrrreuh !  Haaaa ! Mais non ! Pas par là ! Pas par là ! Haaaaa !
+Elfe	: Il a déjà 9 jambes ! Ça ne va pas s'arrêter ?
+Mago	: Bah...
+Barbare	: Je peux lui couper avec mon épée ?
+Ranger	: Non non non non ! C'est un truc magique !
+Mago	: On ne sait pas comment ça va réagir !
+Ogre	: Sprotch dorvo ?
+Mago	: Non, on ne va pas l'assommer non plus !
+Ranger	: Mais alors quoi ! Regarde-moi ce désastre ! Hey, reste là !
+Elfe	: Il court vers des buissons à épines !
+Mago	: Ça fait quand-même bizarre de voir un Nain à 9 jambes...
+Ranger	: Bon et ben ? T'as pas un truc pour régler son problème ?
+Mago	: Ha ben si ! Le manuel dit qu'on peut tenter un dispel magic ! Ça doit anéantir les effets cosmoploubiques retardés !
+Ranger	: C'est quoi ça ?
+Mago	: T'occupes ! C'est encore un truc technique !
+Barbare	: (loin) Bon, bah moi je vais bouffer hein...
+<déplacement Barbare calme>
+Mago	: Je vais l'intercepter à son prochain passage !
+Ranger	: Faut pas le rater hein...
+Elfe	: Parce que là, ça commence à bien faire.
+<déplacement Nain gauche-droite>
+Nain	: Haaaaaaaaa ! haaaaaaaaaaa !
+Mago	: Le voilà ! Dast'ah skolvan !
+<dispel magique>
+<bruit magique>
+Nain	: Haaaaaaaaaaaaaaaaaa !
+<chute du Nain>
+Nain	: Aïe !
+Ranger	: Ouais ! Super !
+Elfe	: Elle a réussi !
+<applause>
+Ogre	: Golo !
+Mago	: He he !
+Ranger	: Hey, t'es pas si nulle finalement !
+Mago	: Et ben !
+Nain	: Bordel ! Mais qu'est-ce que c'était ?
+Mago	: Heu... Un problème cosmoploubique !
+Nain	: Quoi ?
+Ranger	: Bon, c'est réglé ! Maintenant on va se reposer !
+<déplacement ranger sentier>
+Nain	: Putain j'en ai marre !
+Mago	: Remarque, si t'avais gardé tes jambes, tu pouvais entrer dans la légende !
+Nain	: Va chier !
+Mago	: La légende du Nain à neuf jambes... Ça sonne bien !
+<djingle fin>

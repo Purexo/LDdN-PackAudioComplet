@@ -1,0 +1,348 @@
+<INTRO>
+VOIX OFF	: Malgré les protestations de l'Elfe, nos amis fouillent sans aucune honte l'étrange cabane du vieux Song-Fu.
+Nain	: (ensemble) Ouaiiiis !
+Ranger	: (ensemble) Ouaiiiis !
+Ogre	: (ensemble) Doula !
+Barbare	: (ensemble) Super...
+VOIX OFF	: Mais le vieux sage ne gardait aucun trésor, aucune arme, et pas le moindre objet magique
+Nain	: Encore !
+Ranger	: (ensemble) Hooooo !
+Ogre	: (ensemble) Takala !
+Barbare	: (ensemble) Merde !
+Mago	: Zut !
+Elfe	: Bien fait pour vous !
+VOIX OFF	: Et ainsi donc, ils reprennent la route, le ciel ayant séché ses larmes après avoir abreuvé la nature de ses bienfaits, et rendu à la végétation sa belle couleur émeraude. Les rayons du soleil pointant à travers les nuages gonflent les coeurs des hommes, et les corsages des elfes s'épanouissent dans un soupir d'extase. C'est à ce moment que les escargots, sortis de leur cachette...
+Ranger	: Ho, la barbe !
+Mago	: Bon allez, on y va !
+<TRANSITION>
+<AMBIANCE FORET>
+<PAS TROUPE CHEMIN MOUILLE>
+Nain	: On arrive bientôt ?
+Mago	: Normalement oui...
+Ranger	: Normalement ?
+Mago	: On ne devrait pas tarder à croiser des pancartes.
+Ranger	: Ha oui, j'avais oublié le coup des pancartes...
+Nain	: La cité perdue, c'est vraiment une idée de con !
+Mago	: Faut les comprendre... Les gens s'ennuient à la campagne, il faut trouver des occupations pour se rendre intéressants.
+Ranger	: Ouais, alors que nous, en partant à l'aventure, on s'amuse comme des dingues.
+Nain	: C'est clair, trimbaler une statuette pendant 120 bornes, c'est la grosse poilade !
+Barbare	: J'en ai marre.
+Mago	: (soupir)
+Elfe	: Chez les Elfes, on organise des concours dans la forêt, quand il fait beau.
+Nain	: Ça m'étonne pas tiens...
+Barbare	: Et vous faites quoi quand il fait pas beau ?
+Elfe	: On s'entraîne pour les concours.
+Ranger	: (narquois) Ha, ouais, c'est bien, ça fait des loisirs variés...
+Elfe	: Moi quand j'étais plus jeune, j'ai gagné trois fois de suite le championnat du...
+Ranger	: (ensemble) On s'en tape !
+Nain	: (ensemble) On s'en tape !
+Barbare	: (ensemble) On s'en tape !
+Elfe	: Ho mais...
+Mago	: C'est vrai qu'on a déjà entendu cette histoire au moins dix fois.
+Elfe	: Il faut bien que je parle, sinon y'a pas d'ambiance.
+Nain	: Ouais mais là c'est une ambiance elfique, et ça c'est pourri.
+Barbare	: Ouaip !
+Ranger	: Et en plus, ça nous déconcentre.
+Elfe	: Hein ?
+Mago	: T'as besoin d'être concentré pour marcher ?
+Ranger	: Évidemment ! Je surveille la route, je vérifie les pièges, j'étudie les traces et je m'assure à chaque instant qu'aucun détail important ne peut nous échapper.
+Elfe	: Ha bon ?
+Nain	: C'est quoi ces nouvelles conneries ?
+Ranger	: Hey, ça fait partie des attributions d'un bon Ranger... D'ailleurs, c'est aussi le boulot de l'Elfe... Enfin normalement.
+Mago	: Ha bon ?
+Elfe	: Mais moi je n'ai jamais fait ça !
+Ranger	: Je sais... (soupir). Après faut pas se plaindre si on tombe dans une embuscade !
+Tarken	: (loin) Halte là !
+<musique>
+Nain	: (ensemble) Hein ?
+Ranger	: (ensemble) QUoi ?
+Barbare	: (ensemble) Hein ?
+Elfe	: Bonjour !
+Tarken	: Ceci est une embuscade ! Ha ha !
+<deplacement Tarken>
+Ranger	: Une embuscade ?
+Nain	: C'est la faute de l'Elfe !
+Tarken	: Et oui, les bleusailles ! Donnez-moi vos richesses !
+Barbare	: J'attaque !
+<dégaine>
+Ranger	: (ensemble) Non attends !
+Mago	: (ensemble) Non attends !
+Barbare	: Quoi encore !
+Elfe	: On n'attaque pas les gens comme ça !
+Ogre	: (ensemble) Holala...
+Nain	: (ensemble) Ha bon ?
+Barbare	: Quoi ! C'est un ennemi !
+Ranger	: Ouais, mais deux secondes... On ne lui a pas encore parlé !
+Tarken	: Allez, envoyez la monnaie !
+Elfe	: Est-ce que je dois enlever mes vêtements ?
+Barbare	: (ensemble) Hein ?
+Ranger	: (ensemble) Hein ?
+Ranger	: Mais non, c'est pas le moment !
+Tarken	: Qu'est-ce qu'elle a dit ?
+Mago	: Laissez tomber.
+Elfe	: L'autre jour, on a dit qu'il fallait que j'enlève mes vêtements quand on rencontrait quelqu'un pour qu'il vienne aussi dans la compagnie !
+Nain	: Hey, mais on ne va pas prendre ce type-là quand-même !
+Ranger	: On ne sait même pas qui c'est !
+Mago	: En plus, il a l'air innofensif !
+Tarken	: Quoi ?
+Elfe	: Et il n'a pas l'air très intelligent.
+Tarken	: Comment ? Mais ho !
+Ranger	: Et pour finir, il est tout seul.
+Tarken	: Hein ? Mais vous ne savez pas à qui vous parlez !
+Ranger	: Ben non, justement.
+Elfe	: On n'est pas du coin.
+Nain	: Et vous, j'ai l'impression que c'est pas votre jour !
+Tarken	: Ha ha ! Je suis Tarken, le terrible bandit Tarken !
+Mago	: Tarken ?
+Ranger	: Le terrible bandit ?
+Nain	: Ha ha ha ha !
+Elfe	: Qu'est-ce que vous faites dans la vie ?
+Tarken	: Je suis le chef d'une bande de vaillants compagnons, et je détrousse les voyageurs qui ont l'imprudence de traverser le bosquet de Shalwoudh !
+Nain	: Il a bien appris son texte.
+Elfe	: Vous détroussez les voyageurs ?
+Mago	: Vous êtes quand-même un peu gonflé !
+Tarken	: Comment ça ?
+Ranger	: Bah, vous êtes là, tout seul... Et puis nous on est six.
+Nain	: Et en plus, je suis un Nain !
+Elfe	: Et moi une Elfe.
+Ogre	: Eto glagor !
+Tarken	: Ha ha ha ha ha ! Mais non, je ne suis pas seul !
+Mago	: (narquoise) Ha bon ?
+Tarken	: Tarken n'est jamais seul ! Mes hommes sont cachés dans les fourrés par dizaines, invisibles et prêts à frapper !
+Nain	: Ha ouais ?
+Ranger	: Bah pour le coup, là c'est vrai qu'ils sont vachement invisibles.
+Tarken	: Assez discuté, donnez-moi votre or.
+Nain	: Jamais !
+Ranger	: Non, mais c'est vrai... Il faudrait mieux partir maintenant... Parce que ça va mal finir.
+Nain	: C'est mon or ! Il est à moi !
+Tarken	: Mais... Je suis Tarken !
+Barbare	: Bon alors j'attaque ?
+Mago	: Mais attends ! Rhaaaaa !
+Nain	: Personne ne prendra mon or !
+Ranger	: Bon, vous là... Je vous signale quand-même que je suis un Ranger.
+Mago	: Et nous sommes des aventuriers !
+Ranger	: Et même tout seul, je peux vous tabasser !
+Nain	: (ensemble) Heuuu...
+Mago	: (ensemble) Hahem...
+<fin musique>
+Tarken	: Ha ! Vous proposez qu'on règle cette affaire dans un combat singulier ?
+Ranger	: Bah, disons que...
+Tarken	: Parfait ! En garde ! En plus j'ai deux épées !
+<bruits d'épées wosh wosh>
+Ranger	: Non, mais je disais ça comme ça.
+Tarken	: Tremblez devant le terrible Tarken ! Ha !
+<bruits d'épées wosh wosh>
+Ranger	: Tiens, heu... Vas-y toi !
+Barbare	: Ouais !
+<deux pas Barbare>
+Nain	: Ha non je ne suis pas d'accord !
+Barbare	: Hein ?
+Nain	: OUais t'as déjà démoli la moitié des globzoules !
+Ranger	: Ha mince, il a raison.
+Elfe	: Alors tu vas récupérer l'expérience, et nous on aura rien.
+Barbare	: Et alors ?
+Nain	: Il faut partager les ennemis, sinon c'est pas juste.
+Mago	: Tiens c'est marrant, de la part de quelqu'un qui n'a jamais voulu partager les trésors.
+Nain	: Ouais mais... C'est de l'or ! Et l'or heu... C'est pas pareil !
+Ranger	: C'est facile ça !
+Tarken	: Tremblez devant le terrible Tarken ! Ha !
+<bruits d'épées wosh wosh>
+Nain	: Deux secondes !
+Ranger	: Sinon je vous désintègre !
+Tarken	: Alors venez ! Ha ha !
+Ranger	: Ça va oui !
+Elfe	: Alors on fait comment ?
+Ogre	: Ego dar agluk sprotch !
+Mago	: C'est vrai que l'Ogre pourrait l'attaquer, ça irait plus vite.
+Ogre	: Gladoul !
+Ranger	: Ça marche ! Et puis comme ça moi je peux l'achever !
+Nain	: Hein ?
+Elfe	: Et nous ont fait quoi ?
+Mago	: Allez vas-y ! Bralidi sprotch !
+Ogre	: Aglouk !
+<deplacement ogre>
+Tarken	: He ho ! C'est pas ce qu'on avait convenu !
+Ogre	: Huuuuuurgh !
+<wooosh coups parés>
+Tarken	: Je vous préviens... Ah !
+Ranger	: Ça s'annonce bien !
+Barbare	: Ouaip.
+Tarken	: Vous allez m'obliger à faire appel... Hurgh ! A mes guerriers !
+Ranger	: C'est ça !
+Elfe	: Mince !
+Mago	: Faut pas s'inquiéter ! Il n'a sans doute aucun homme sous ses ordres !
+Tarken	: Ha !
+Ranger	: Exactement ! C'est du bluff !
+Ogre	: Huuurgh !
+Ranger	: Holala ! Regardez, ça va chauffer !
+<fin musique>
+VOIX OFF	: (mode commentateur) Observons la scène au ralenti !
+<djingle>
+<musique>
+VOIX OFF	: L'Ogre s'apprête à frapper le bandit Tarken à l'aide d'une énorme branche.
+Ogre	: Huuurgh !
+Mago	: C'est parti !
+VOIX OFF	: Ayant réussi son jet d'initiative, (bruit de dé) et disposant d'une plus grande allonge, la créature récupère un bonus de +4 sur son jet d'attaque !
+Ranger	: Ha, tant mieux !
+VOIX OFF	: Le bandit Tarken ne peut utiliser son bonus de terrain puisque l'Ogre est également à l'aise en milieu forestier !
+Elfe	: Ranger !
+Elfe	: Et oui !
+VOIX OFF	: C'est ainsi que l'Ogre effectue son jet de dé pour la séquence d'attaque !
+Ranger	: Allez, vas-y !
+<bruit de dé>
+VOix OFF	: 17 ! Avec une caractéristique de base de 10 augmentée des 4 points de bonus, l'attaque est réussie !
+Barbare	: (ensemble) Ouais !
+Elfe	: (ensemble) Ouiiii !
+Nain	: (ensemble) OUais !
+Ranger	: (ensemble) OUais !
+VOix OFF	: Tarken utilise donc sa compétence de parade et tente de dévier l'agression !
+Ranger	: (déçu) Ho non !
+Elfe	: Holala !
+<bruit de dé>
+VOix OFF	: C'est l'échec critique avec un score de 2 !
+Barbare	: (ensemble) Ouais !
+Elfe	: (ensemble) Ouiiii !
+Nain	: (ensemble) OUais !
+Ranger	: (ensemble) OUais !
+<bruit de dé>
+VOIX OFF	: La table des critiques indique que Tarken s'emmèle dans ses deux armes et parvient à se trancher l'artère fémorale.
+Nain	: Classe !
+<bruit de dé>
+VOIX OFF	: Il perd 10 points de vie par blessure auto-infligée.
+Mago	: Et ben !
+VOIX OFF	: (plus calme) Parce qu'il a une épée bien affûtée.
+Ranger	: Ha ha ha !
+Nain	: Ha ha ha !
+VOIX OFF	: L'attaque de l'Ogre ayant réussi lui occasionne également 2D6 de blessure !
+Ranger	: Allez !
+<bruit de dé>
+Elfe	: Ouiiiii !
+Nain	: Ça fait Onze !
+VOIX OFF	: En ajoutant le bonus de force de +6, afférent à la condition physique de l'Ogre, et après soustraction des 2 points d'armure, nous parvenons à un total de 15 points de dégats !
+Barbare	: (ensemble) Ouais !
+Elfe	: (ensemble) Ouiiii !
+Nain	: (ensemble) OUais !
+Ranger	: (ensemble) OUais !
+VOIX OFF	: Ce n'est pas fini ! Car n'ayant plus que deux points de vie, Tarken perd connaissance !
+Ranger	: Ha, le con !
+Nain	: Ha ha ha !
+VOIX OFF	: Se trouvant à ce moment précis en position debout, il tombe !
+Barbare	: Dommage !
+<bruit de dé>
+VOIX OFF	: Et s'empale sur sa deuxième épée !
+Nain	: Holala ! Hahaha !
+<bruit de dé>
+VOIX OFF	: Il perd 4 points de vie supplémentaires !
+Mago	: Carrément ?
+VOIX OFF	: (plus calme) Et... finalement bah, il est mort.
+<fin musique>
+Ranger	: Hein ?
+Elfe	: Il est mort ?
+Mago	: En un seul coup ?
+Barbare	: Ouais, la classe !
+<barbare applaudit>
+Ogre	: Youhouuuuu !
+<ogre revient>
+Nain	: Superbe !
+<nain applaudit>
+Ranger	: Hey minute ! C'est pas ce qu'on avait dit !
+Mago	: Comment ça ?
+Ranger	: Il fallait que j'achève le bandit pour récupérer une part de l'expérience !
+Mago	: Ha bah oui...
+Elfe	: Mais c'est pas grave.
+Ranger	: Et merde !
+Nain	: Hey chapeau quand-même hein !
+Ogre	: Huh huh huh !
+<bruit végétation>
+Elfe	: J'entends quelque chose !
+Ranger	: Moi aussi !
+Ranger	: (ensemble) Ha !
+Mago	: (ensemble) Ha !
+Barbare : (ensemble) Hey !
+Homme	: S'il vous plaît.
+Elfe	: Regardez !
+Nain	: C'est qui ce mec ?
+Homme	: Heu, bonjour.
+Ranger	: Vous êtes qui vous donc, pour vous cacher dans les broussailles, là ?
+Homme	: Je suis le porte-parole des vaillants compagnons de Tarken le bandit.
+Nain	: Comment ?
+Ranger	: Les vaillants compagnons...
+Mago	: C'était vrai ?
+Elfe	: Vous êtes embusqués dans la forêt ?
+Homme	: Oui, bah, on attendait ses instructions... Mais comme il a rien dit... (coupé)
+Elfe	: (s'énerve) Alors qu'est ce que vous voulez maintenant ? Ça commence à bien faire !
+Homme	: Et... En fait on a décidé de ne pas vous attaquer.
+Mago	: Ah bon ?
+Elfe	: (s'énerve) J'en ai marre moi !
+Homme	: Heu... C'est tout. Alors j'y vais maintenant, hein.
+Ranger	: J'hallucine.
+<bruit végétation>
+<pas feuilles s'éloignent>
+Nain	: C'est ça, cassez-vous !
+Elfe	: (s'énerve) La forêt c'est pour les elfes ! C'est pas pour les embuscades !
+Ranger	: Du calme... Faudrait pas les énerver.
+Mago	: Et ben ! Si je m'attendais à ça !
+Nain	: Bon, bah je vais fouiller l'autre con !
+<nain deplace>
+Ranger	: Je vous préviens, s'il a une bague magique, elle est pour moi !
+<DJINGLE FIN EPISODE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

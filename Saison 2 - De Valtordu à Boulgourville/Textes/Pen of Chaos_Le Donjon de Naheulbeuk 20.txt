@@ -1,0 +1,349 @@
+<intro>
+Voix off	: L'oubliette du vampire hémophile ne contenait aucun trésor autre que les inventions de Von Drekkenov.
+Nain	: haaaaaaaaa ! c'est pourri !
+Voix off	: La compagnie reprend donc rapidement la route, et partourt dans l'ambiance la plus maussade les 10 km restant pour parvenir au prochain village...
+<transition>
+<compagnie marche>
+Mago	: Chnafon !
+Barbare	: à tes souhaits
+Ranger	: à tes souhaits
+Nain	: crève !
+Mago	: mais non, c'est le nom du village que nous sommes en train d'approcher !
+Ranger	: le village s'appelle... Chnafon ?
+Mago	: c'est bien ça !
+Elfe	: mais ce n'est pas marqué sur la carte...
+Nain	: c'est sûrement pour éviter de se couvrir de honte !
+Mago	: en tout cas, c'est ce qu'on peut lire sur cet écriteau...
+Ranger	: (soupir) ouais, encore 500 mètres...
+Ogre	: glok
+<transition>
+<compagnie marche>
+Mago	: nous y voilà !
+Barbare	: cool !
+Ranger	: (conspirateur) mais la porte est gardée...
+Ogre	: golo...
+<stop>
+Ranger	: hum... bonsoir, messieurs les gardes, nous voudrions passer la nuit dans cette sympathique bourgade
+Garde 1 : (ensemble) ha ha...
+Garde 2	: (ensemble) ha ha ha...
+Garde 1	: hey, t'as entendu ça Roger ?
+Garde 2	: ouais
+Garde 1	: il trouve notre bourgade sympathique !
+Ranger	: heuu... oui
+Mago	: ça vous pose un problème ?
+Garde 1	: he ben, c'qu'on vous connaît bien vous-aut'... les aventuriers...
+Garde 2	: ouais
+Garde 1	: hein Roger...
+Ranger	: mais....
+Garde 1	: ouais, vous v'nez dans l'village pour fout' le merdier dans la taverne
+Nain	: heuuu....
+Ogre	: huk ?
+Garde 2	: et pis après vous allez essayer de vendre les trucs pourris que vous avez piqué dans les donjon
+Elfe	: mais non, pas du tout !
+Nain	: ho l'autre...
+Garde 2	: allez allez...
+Barbare	: bon alors, on peut entrer ?
+Garde 1	: j'veux bien vous laisser passer, mais ça fera 4 pièces d'or
+Garde 2	: ouaip !
+Ranger	: (ensemble) quoi ?
+Barbare	: (ensemble) hein ?
+Nain	: (ensemble) comment ?
+Nain	: et depuis quand on doit payer pour entrer dans un village pourri ?!
+Garde 1	: depuis que Roger et moi, on garde la porte !
+Garde 2	: ouaip !
+Ranger	: (soupir violent et agacé) hainn.....
+Barbare	: on veut pas payer !
+Mago	: on aimerait bien voir où il est inscrit qu'on doit payer l'entrée !
+Elfe	: c'est pas juste !
+Garde 2	: hahaha !
+Garde 1	: et nous on aimerait bien voir vos 4 pièces d'or
+Ranger	: c'est grotesque !
+Nain	: vous n'avez pas le droit ! 
+Mago	: que Gzor l'ignoble fasse pourrir vos yeux !
+Garde 1	: ça fait quand même 4 pièces d'or
+<dégaine>
+Ranger	: (panique) hooo non !
+Barbare	: je peux vous éventrer avec ça !
+Nain	: ouais !
+Garde 1	: hahaha !
+Garde 2	: hey, le chevelu... on a 30 copains dans la caserne juste derrière cette porte!
+Mago	: range ton épée !!
+<rengaine>
+Barbare	: ha, putain...
+Ranger	: messieurs les gardes... heu... 
+Nain	: (loin) protozoaires à la graisse d'ours !
+Ranger	: ...on pourrait peut-être négocier un prix d'entrée plus honnête ?
+Garde 1	: (moqueur) ha ouais ?
+Garde 2	: (moqueur) ouais c'est vrai... un prix plus honnête...
+Mago	: je suis sûr qu'on peut s'arranger !
+Garde 1	: alors disons... 4 pièces d'or ! ha ha
+Garde 2	: haha !
+Nain	: (loin) rrhaaaaa !
+Ranger	: bon, bon bon... voilà vos pièces
+<bruit de pièces>
+Mago	: mais... mais.....
+Elfe	: (loin) je ne comprend rien du tout !
+Garde 1	: ok, ça ira, vous pouvez entrer !
+Garde 2	: et ne faites pas les malins !
+Ranger	: venez, vous-autres !
+<déplacement>
+<ambiance village on>
+Nain	: (loin) on s'est fait arnaquer !
+Barbare	: ouais !
+Ranger	: mais non, pas du tout j'ai négocié
+Ogre	: huh huh
+Mago	: tu parles !
+Ranger	: je ne vais pas me laisser faire par des gardes corrompus !
+Nain	: (loin) hahahaha !
+Elfe	: bon alors qu'est-ce qu'on va faire ?
+Mago	: il fera nuit dans moins d'une heure...
+Ranger	: on peut faire le tour des commerces, et ensuite on ira dormir à l'auberge
+Ogre	: (ensemble) golo !
+Barbare	: OK !
+Elfe	: ouiiiiiiii !
+Ranger	: alors, il faut décider de...
+Mago	: hey !
+<event>
+Mago	: là-bas, j'ai vu passer un gros coffre avec des dizaines de jambes !
+Nain	: (ensemble) haha !
+Barbare	: ha ha ha !
+Ranger	: un coffre avec des jambes... n'importe quoi !
+Mago	: mais je vous jure !
+Nain	: et pourquoi pas la mort qui pêche à la mouche !
+Mago	: bahh....
+Ranger	: bon, alors je disais donc qu'il faut décider dans quel ordre on va visiter les échoppes
+Nain	: (ensemble) j'ai pas d'argent
+Elfe	: (ensemble) je veux acheter des vêtements !
+Mago	: (ensemble) il faut que je consulte un vieux sage
+Barbare	: (ensemble) faut trouver un armurier
+Ranger	: rrrhaaaaaa pas tous en même temps !
+<pas nain s'éloignant>
+Nain	: bah moi je vous ai assez vu pour aujourd'hui, je vais faire un tour !
+Ranger	: hey mais...
+Nain	: (loin) on se retrouve à l'auberge !
+Elfe	: quel caractère !
+Ranger	: pfffffffff !
+<pas mago s'éloignant>
+Mago	: et bien moi, je vais essayer de trouver un boutique de sorciers
+Ranger	: bah oui mais heuuu...
+Mago	: (loin) à plus tard !
+Ogre	: atoonza ?
+Ranger	: (apparté) ha bah, voilà ! Tout le monde se barre !
+<pas barbare s'éloignant>
+Barbare	: je vais trouver l'armurier !
+Elfe	: et moi je vais m'acheter du shampooing !
+Ranger	: tu parles d'une équipe !
+Elfe	: (loin) à tout à l'heure !
+Ranger	: (insistant) mais vous savez bien qu'il faut éviter de se séparer !
+Ogre	: glouk !
+Ranger	: (soupir)... et toi t'es encore là ?
+Ogre	: golo !
+Ranger	: ça va être bien pour la conversation, hein ?
+Ogre	: huk ?
+Ranger	: je ne comprend pas ce que tu dis, et toi non plus
+Ogre	: glosko eto galerh ar koum !
+Ranger	: et merde....
+<transition>
+<deplacement mago>
+Mago	: bon, alors, une boutique de sorciers...
+Mago	: je vais demander à ces gens...
+<deplacement stop>
+Mago	: excusez-moi... je cherche une boutique de sorciers !
+Racaille 1	: hoa d'où tu sors toi ?
+Racaille 2	: va mourir !
+Mago	: mais... je...
+Racaille 1	: hey ta robe elle pue le coyote !
+Mago	: (agacée) bon, et bien je vais trouver toute seule !
+Racaille 2	: (loin) ouais va mourir !
+Mago	: c'est à croire que les habitants de cette ville sont tous des crétins !
+Racaille 1	: (insultes)
+<transition>
+<deplacement nain>
+Nain	: et ben... c'est pas trop tôt... ça faisait un moment que j'en avais marre de l'elfe
+Nain	: cette ville est à peu près aussi accueillante qu'une kermesse gobeline !
+Gary	: hep ! heuu... excusez-moi... monsieur le nain !
+<Stop>
+Nain	: quoi ? Allez dégage, du vent !
+Gary	: heuu.. est-ce que je peux vous poser une question ?
+Nain	: j'ai pas d'argent !
+Gary	: mais nooonn... en fait je cherche mon ami Bargid !
+Nain	: je m'en tamponne l'oreille avec une babouche !
+Gary	: ben, vous l'avez peut-être vu passer, c'est un géant avec une barbe et un grand manteau
+Nain	: non je l'ai pas vu ! Fiche-moi la paix !
+Gary	: Mais vous êtes un vrai Nain ?
+Nain	: dis donc, le mioche, tu commences à m'agacer
+Gary	: Je ne suis pas un mioche ! Je suis Gary Topper !
+Nain	: et alors ?
+Gary	: Je suis en troisième année à l'école de sorcellerie et je peux vous pétrifier !
+Nain	: avec cette baguette ? ha ha !
+Gary	: oui ! Et mon professeur dit que... hey ! hey !!
+Nain	: hop !
+Nain	: voilà ce que j'en fais de ta brindille !
+<craaaaaaaack>
+Gary	: nooon ! Ma baguette heuuu !
+Nain	: tiens, tu pourras faire du feu avec les miettes
+Gary	: mais heuuu !!! Ma baguette !!! Je vais être viré de l'école !
+<s'éloignant>
+Nain	: hahaha ! faut pas me faire chier moi !
+<transition>
+<deplacement barbare>
+Barbare	: bon, on dirait que c'est là !
+Armurier	: (loin, s'approchant) les belles épées ! ha, les belles haches !
+Badaud	: (passant) faites attention où vous marchez !
+Barbare	: ta gueule !
+Armurier	: deux épées pour le prix d'une... ha, ça c'est de la bonne qualité madame !
+Barbare	: ouais, cool, des armes !
+Armurier	: bien le bonjour, monsieur ! Ah, que voilà un brave et fier client !
+Barbare	: ouais. Chuis un barbare.
+Armurier	: bien sûr... vous cherchez quelque chose de particulier ?
+Barbare	: épée vorpale +3, deux mains avec poignée cuir et garde amovible
+Armurier	: hum... nous n'avons pas encore reçu ce modèle
+Barbare	: hache de bataille cimérienne à double affûtage
+Armurier	: et bien heuu... je ne vends pas ce genre de hache
+Barbare	: épée runique +8 qui boit les âmes
+Armurier	: ha, c'est dommage... nous ne vendons plus heuu.. aucune lame ensorcelée...
+Barbare	: alors, vous n'avez rien !
+Armurier	: mais si... regardez, cette magnifique rapière, et là... heuu..
+Barbare	: je reviendrai !
+Armurier	: (loin) ho, bon sang, mais qu'est-ce que je vais devenir moi...
+<transition>
+<ambiance ville>
+Ranger	: je me demande où ils sont tous passés...
+Ogre	: golo
+Ranger	: ce que j'espère surtout c'est qu'ils ne vont pas se faire tuer dans un coupe-gorge
+Ogre	: golo
+Ranger	: tiens, tiens... qu'est-ce qu'elle nous veut celle-là ?
+Femme	: j'ai fait un bon feu !
+Ranger	: ah ouais ? un bon feu ? Tu prépares un genre de barbecue ?? 
+Ogre	: doula
+Femme	: tu ne veux pas venir te réchauffer ?
+Ranger	: heuu....
+Femme	: près de mon feu....
+Ranger	: non mais... qu'est-ce que c'est que ces propositions là ??
+Ogre	: huh huh huh
+Ranger	: c'est pas vrai ça, on peut même pas se balader tranquille !
+Ogre	: takala
+Ranger		: allez viens, on se casse !
+<fin ambiance ville>
+<transition>
+<fête>
+Elfe	: (soupir) si seulement ces gens étaient des elfes... on s'amuserait
+Elfe	: on pourrait cueillir des framboises, et coiffer des poneys
+Elfe	: et ben... qu'est-ce qui se passe ici ???
+Elfe	: hooooo mais... on dirait une fête ! C'est génial !
+Willow	: et voici le clou de ce spectacle à vous couper le souffle !
+Elfe	: ho non, encore un nain !
+Willow	: mesdames et messieurs... sous vos yeux ébahis... ce cochon va disparaître
+Elfe	: il peut pas faire de la magie en étant aussi moche ?
+Elfe	: et puis à quoi ça sert de faire disparaître un cochon ?
+Badaud	: vous allez la fermer oui ???
+Elfe	: Hey ça vous vous, je ne vous ai pas parlé !
+Badaud	: faites moins de bruit, et ben !
+Elfe	: holala..........
+Willow	: et maintenant regardez très attentivement !
+Elfe	: c'est ce que je fais !
+Willow	: wah patti kanon... deroun, deroun....
+Elfe	: c'est vraiment pathétique !
+Elfe	: l'existence des Nains dans le monde du spectacle est une véritable insulte !
+<fin ambiance fête willow>
+<transition>
+<marché oriental>
+Barbare	: merde... chuis dans un marché !
+Barbare	: comment on sort d'ici... bffwwahhh....
+Barbare	: ça doit être par là !
+Armurier	: regarde ça ! Les plus belles épées du monde...
+Barbare	: on peut même pas tuer une grenouille avec ça
+Femme	: oiseaux de paradis !
+Barbare	: va chier, avec tes piafs !
+Catin1	: hey soldat, tes gros muscles...
+Barbare	: hum...
+Catin2	: tu pourrais peut-être...
+Catin3	: ou même avec nous toutes...
+Barbare	: crom ! Et bah heuu... on m'attend à l'auberge !
+<fin ambiance marché>
+<transition>
+<ambiance ville>
+Ranger	: bon, alors comment on retourne à l'entrée maintenant ?
+Ogre	: gnoufa !
+Ranger	: ouais, c'est pas vraiment à toi que je posais la question...
+Ranger	: j'ai l'impression qu'on est perdus dans le quartier la plus nase de la ville
+Ogre	: aktou al tavo !
+Ranger	: (soupir énervé) et ben, tiens, regarde la tête de ce type !
+Doc	: 2,21 gigowatts ??!
+Ranger	: quoi ?
+Ogre	: huk ?
+Doc	: 2,21 gigowatts !!!
+Ranger	: mais qu'est-ce qu'il dit ???
+Ogre	: takala gnoufa !
+Doc	: mon dieu !!!
+Ranger	: qu'est-ce ce que c'est que ces vêtements bizarres ?
+Marty	: mais enfin, c'est quoi un gigowatt ??
+Ranger	: c'est bien ce que je me demande aussi !
+Doc	: (s'éloignant) je devais être complètement dans les nuages....
+Ranger	: hum.....
+Ogre	: akala miammiam !
+Ranger	: viens, on se tire ! Ca doit être le quartier des fous !
+Ogre	: glouk !
+Ranger	: si on s'attarde ici, on va devenir débiles !
+<fin ambiance ville>
+<transition>
+<2 pas nain stop>
+Nain	: haaaa haaa ! Vous voilà, vous autres !
+Mago	: ça alors, je ne m'attendais pas à vous retrouver tous à l'heure !
+Barbare	: (arrivant) cette ville est pourrie !
+Nain	: tu l'as dit ! Une vraie misère !
+Ranger	: les gens sont malpolis, ou alors à moitié fous, ça sent mauvais et c'est moche
+Elfe	: (loin) ça pourrait être la cité de Nains !
+Nain	: (loin) va crever !!
+Mago	: les commerçants sont des escrocs !
+Nain	: quand je vous le disait !
+Ranger	: comment ça ?
+Mago	: j'ai voulu faire examiner le Scroll of Stupidity et le Rune Staff or Curse
+Ranger	: alors t'es allé voir un sage ?
+Mago	: bah ouais...
+Elfe	: (loin) il vendait du shampooing ?
+Mago	: le sage m'a pris 5 pièces d'or par objet !
+Nain	: (loin) quoi !!!!
+Elfe	: et alors, c'était quoi leur pouvoir ?
+Nain	: (loin) c'est du vol en plein jour
+Mago	: (soupir) le parchemin est maudit, c'est un sort de confusion de l'esprit
+Nain	: (loin) 5 pièces d'or !
+Ranger	: et l'autre, la... le bâton ?
+Mago	: encore pire, il transforme en chèvre quiconque tente de l'utiliser
+Nain	: (loin) ça fait 20 pintes de bière !
+Barbare	: c'est con, une chèvre
+Elfe	: alors qu'est-ce que tu en as fait ?
+Mago	: bah, j'ai balancé le parchemin et j'ai revendu le bâton pour 6 pièces d'or
+Ranger	: ha ha... quelqu'un a voulu acheter ça ?
+Mago	: oui, un mioche avec des lunettes, dont la baguette était cassée !
+Barbare	: (ensemble) ha ha ha !
+Nain	: (ensemble) ha bah, ça c'est bien joué !
+Ogre	: miam oulka zoudof
+Mago	: oui oui, on y va !
+Elfe	: moi j'ai acheté des bracelets +2 !
+Barbare	: +2 en quoi ?
+Elfe	: heuu... j'ai oublié de demander !
+Nain	: hahahaha !! quelle débile !!
+Ranger	: bon, nous allons passer la nuit dans cette auberge accueillante !
+Mago	: Tu as vu le nom sur l'enseigne ??
+Nain	: "Au rat d'égoût lubrique" ! ha ouais... !
+Barbare	: cool !
+Elfe	: effectivement c'est accueillant !
+Ranger	: allez, entrons !
+<porte>
+<ambiance taverne>
+Ranger	: Et le premier qui fout le bordel pourra se trouver une nouvelle compagnie !
+Ogre	: huh huh
+Nain	: ouais, j'adore l'ambiance !!
+Elfe	: c'est plein de brigands !
+Barbare	: yeahhh !!!
+<event fin>
+Gary	: bon alors heu.... voyons voir... comment ça marche ce baton.... heauuuuuu
+Gary 	: bêeeeêêêêê !!
+
+
+
+
+
+
+
